@@ -1,0 +1,149 @@
+---
+layout: default
+title: misc-overlay
+no-disqus: true
+description: Gentoo overlay -- miscellaneous packages
+categories: [index, jnrowe-misc, overlay, gentoo]
+---
+
+h2. Introduction
+
+Packages that don't naturally fit in to my other themed overlays.
+
+If you find any problems with ebuilds in this overlay either drop me an "email":jnrowe@gmail.com or file an "issue":http://github.com/JNRowe/misc-overlay/issues.  Locally bugs are managed with "ditz":http://ditz.rubyforge.org/, so if you're working with a clone of the repository you can report, list and fix bugs using @dev-util/ditz@.
+
+h2. Installation
+
+<div class="sidebar" style="width: 200px; float: right;">
+    !http://github.com/images/modules/download/zip.png(zip download)!:http://github.com/JNRowe/misc-overlay/zipball/master
+    !http://github.com/images/modules/download/tar.png(tarball download)!:http://github.com/JNRowe/misc-overlay/tarball/master
+</div>
+
+Up to date installation instructions are contained within the repositories @README.rst@ file, which can be "viewed online":http://github.com/JNRowe/misc-overlay/blob/master/README.rst.
+
+h2. Packages
+
+* @app-admin@
+    ** "@stow@":http://www.gnu.org/software/stow/ 9999 - manage installation of software in /usr/local @[GPL-2]@
+* @app-misc@
+    ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.2 1.8.4 - A GTD, todo list, task management, command line utility @[GPL-2]@
+    ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.5.1 0.6 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
+* @app-text@
+    ** "@apvlv@":http://code.google.com/p/apvlv/ 0.0.7.4 0.0.7.5 - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@
+* @app-vim@
+    ** "@snippets@":http://www.vim.org/scripts/script.php?script_id=2540 0.83 - vim plugin: TextMate-style snippets @[as-is]@
+    ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 4.0 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@
+* @dev-haskell@
+    ** "@missingh@":http://software.complete.org/missingh 1.0.3 - Collection of Haskell-related utilities @[GPL-2]@
+    ** "@configfile@":http://software.complete.org/configfile 1.0.5 - Parser and writer for handling sectioned config files in Haskell. @[LGPL-2.1]@
+* @dev-lang@
+    ** "@wirbel@":http://mathias-kettner.de/wirbel.html 0.1.11 - A compiled programming language with syntax and semantics similar to Python @[GPL-2]@
+* @dev-libs@
+    ** "@luainotify@":http://www3.telus.net/taj_khattra/luainotify.html 0.20090818 - a Lua interface to the Linux inotify subsystem @[as-is]@
+    ** "@luaposix@":http://luaforge.net/projects/luaposix/ 5.1.4 - POSIX function support library for lua @[public-domain]@
+* @dev-python@
+    ** "@dulwich@":http://pypi.python.org/pypi/dulwich 0.4.0 - Dulwich is a pure-Python implementation of the Git file formats and protocols. @[GPL-2]@
+    ** "@astral@":http://www.sffjunkie.co.uk/python.html 0.1 - Calculations for the position of the sun @[MIT]@
+    ** "@freshen@":http://github.com/rlisagor/freshen 9999 - Clone of the Cucumber BDD framework for Python @@[LGPL-3]@@
+    ** "@html@":http://pypi.python.org/pypi/html/ 1.7 - simple, elegant HTML/XHTML generation @[BSD]@
+    ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ 1.0 - Provides an interactive console for doctests @@@[LGPL-2.1]@@@
+    ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ 0.1.2 - Add additional directories to sys.path for nose. @[Apache-2.0]@
+    ** "@nosetty@":http://code.google.com/p/nosetty/ 0.4 - A plugin to run nosetests more interactively @@@[LGPL-2.1]@@@
+    ** "@pep8@":http://github.com/cburroughs/pep8.py 0.4.2 - A tool to check your Python code against the conventions in PEP 8 @[MIT]@
+    ** "@pycukes@":http://github.com/hugobr/pycukes 0.1.1 0.1.2 - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
+    ** "@pydelicious@":http://code.google.com/p/pydelicious/ 0.5.2_rc2 - Access the web service of del.icio.us via it's API through python @[BSD]@
+    ** "@pyhistorian@":http://github.com/hugobr/pyhistorian 0.6.3 - A BDD tool for writing specs using Given-When-Then template @[MIT]@
+    ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html 0.5.0 0.5.1 - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
+    ** "@rednose@":http://github.com/gfxmonk/rednose/ 0.1.4-r1 - coloured output for nosetests @[BSD]@
+    ** "@restview@":http://mg.pov.lt/restview/ 1.1.2 1.1.3 - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
+    ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ 0.3 - Colour output plugin for the nose testing framework @[ZPL]@
+    ** "@should_dsl@":http://github.com/hugobr/should-dsl 1.2.1 - Should assertions in Python as clear and readable as possible @[MIT]@
+    ** "@story_parser@":http://github.com/hugobr/story_parser 0.1.1 0.1.2 - A Given/When/Then BDD stories parser @[MIT]@
+    ** "@termcolor@":http://pypi.python.org/pypi/termcolor/ 0.1.2 - ANSI color formatting for terminals @[GPL-2]@
+    ** "@termstyle@":http://github.com/gfxmonk/termstyle 0.1.5 - a dirt-simple terminal-colour library @[BSD]@
+    ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html 0.11.0 - Modules for working with points on Earth @[GPL-3]@
+* @dev-ruby@
+    ** "@trollop@":http://trollop.rubyforge.org 1.15 - Provide the maximal amount of GNU-style argument processing in ruby @[Ruby]@
+* @dev-util@
+    ** "@be@":http://bugseverywhere.org/be/show/HomePage 0.0.193 - A bugtracker built on distributed revision control @[GPL-2]@
+    ** "@blame@":http://blame.sourceforge.net/ 1.3.1 - Annotates RCS files in a style similar to CVS's annotate command @[GPL-2]@
+    ** "@ccontrol@":http://ccontrol.ozlabs.org/ 0.9.1 - Utility to manage ccache and distcc @[GPL-2]@
+    ** "@ditz@":http://ditz.rubyforge.org 0.5-r1 9999 - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@
+    ** "@fossil@":http://www.fossil-scm.org/index.html/doc/tip/www/index.wiki 0.20090921191920 0.20091111162119 - Simple, high-reliability, distributed software configuration management @[GPL-2]@
+    ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.17.1 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2]@
+    ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
+    ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@
+* @games-puzzle@
+    ** "@sgt-puzzles@":http://www.chiark.greenend.org.uk/~sgtatham/puzzles/ 0.0.8494 - A collection of small one-player puzzle games @[MIT]@
+* @mail-client@
+    ** "@notmuch@":http://notmuchmail.org/ 9999 - Thread-based email index, search and tagging. @[GPL-3]@
+* @mail-filter@
+    ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml 1.2.7 - Quick Spam Filter, with support for multiple databases @[Artistic-2]@
+* @media-gfx@
+    ** "@aafigure@":https://launchpad.net/aafigure 0.4 - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@
+    ** "@sng@":http://www.catb.org/~esr/sng/ 1.0.2 - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@
+    ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ 0.3 1.0 - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
+* @media-sound@
+    ** "@hpodder@":http://software.complete.org/hpodder 1.1.5 - Podcast Aggregator (downloader) @[GPL-2]@
+* @net-mail@
+    ** "@rss2email@":http://rss2email.infogami.com/ 2.65.1 - A python script that converts RSS newsfeeds to email @[GPL-2]@
+    ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ 3.0 - Generate statistics from mbox and maildir folders @[GPL-2]@
+* @sys-fs@
+    ** "@unionfs-fuse@":http://podgorny.cz/moin/UnionFsFuse 0.23 - A unionfs filesystem implementation for fuse @[BSD]@
+* @www-client@
+    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999 - A fast unix command line interface to WWW @[public-domain]@
+    ** "@cupage@":http://github.com/JNRowe/cupage 0.2 0.3.0 - A tool to check for updates on web pages @[GPL-3]@
+    ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@
+* @x11-plugins@
+    ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999 - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@
+    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.18 1.0.19 1.0.20 9999 - vicious widgets for the awesome window manager @[GPL-2]@
+    ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999 - Widget creation library for x11-wm/awesome @[WTFPL-2]@
+* @x11-wm@
+    ** "@matwm2@":http://www.gatorgitter.com/~maties/ 0.0.80 0.0.85 0.0.87 0.0.89 - Simple EWMH compatible window manager with titlebars and frames @[MIT]@
+    ** "@parti@":http://code.google.com/p/partiwm/ 0.0.6 - Parti is a tabbing/tiling window manager @[GPL-2]@
+    ** "@subtle@":http://unexist.scrapping.cc/projects/show/subtle 0.8.1383 0.8.1602 - A tiling window manager with mouse and keyboard control @[GPL-2]@
+
+h2. License
+
+"GPL v2":http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+h2. Contributors
+
+h3. Patches
+
+* Bashshar Qaraja Maloof
+* Leon Bird
+* Matt Leighton
+* Rachel Holmes
+
+h3. Bug reports
+
+* Erin Sandusky
+* Fabien Courtois
+* Jens Wulf
+* Jesper Tremblay
+* Kristian Cole
+* Shi Tang
+* cookiemon5ter
+
+h3. Ideas
+
+* Jamie Ashton
+* Ryan Lewis
+* Scott Hunter
+* Tony McKenzie
+
+h2. Contact
+
+"James Rowe":jnrowe@gmail.com
+
+h2. Download
+
+You can download this project in either "zip":http://github.com/JNRowe/misc-overlay/zipball/master or "tarball":http://github.com/JNRowe/misc-overlay/tarball/master formats.
+
+You can also clone the project with "Git":http://git-scm.com by running:
+
+{% highlight text %}
+$ git clone git://github.com/JNRowe/misc-overlay
+{% endhighlight %}
+
