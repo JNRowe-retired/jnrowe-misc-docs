@@ -72,6 +72,7 @@ h2. Packages
     ** "@sgt-puzzles@":http://www.chiark.greenend.org.uk/~sgtatham/puzzles/ 0.0.8494 - A collection of small one-player puzzle games @[MIT]@
 * @mail-client@
     ** "@notmuch@":http://notmuchmail.org/ 9999 - Thread-based email index, search and tagging. @[GPL-3]@
+    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk/ 9999 - A Gtk+ interface to the notmuch mail client. @[GPL-3]@
 * @mail-filter@
     ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml 1.2.7 - Quick Spam Filter, with support for multiple databases @[Artistic-2]@
 * @media-gfx@
