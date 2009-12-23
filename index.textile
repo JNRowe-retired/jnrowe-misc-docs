@@ -79,7 +79,7 @@ h2. Packages
 * @media-gfx@
     ** "@aafigure@":https://launchpad.net/aafigure 0.4 - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@
     ** "@sng@":http://www.catb.org/~esr/sng/ 1.0.2 - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@
-    ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ 0.3 1.0 - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
+    ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ 1.0 - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
 * @media-sound@
     ** "@hpodder@":http://software.complete.org/hpodder 1.1.5 - Podcast Aggregator (downloader) @[GPL-2]@
 * @net-mail@
