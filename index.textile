@@ -46,7 +46,7 @@ h2. Packages
     ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ 0.1.2 - Add additional directories to sys.path for nose. @[Apache-2.0]@
     ** "@nosetty@":http://code.google.com/p/nosetty/ 0.4 - A plugin to run nosetests more interactively @[LGPL-2.1]@
     ** "@pep8@":http://github.com/cburroughs/pep8.py 0.4.2 - A tool to check your Python code against the conventions in PEP 8 @[MIT]@
-    ** "@pycukes@":http://github.com/hugobr/pycukes 0.1.1 0.1.2 - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
+    ** "@pycukes@":http://github.com/hugobr/pycukes 0.1.2 - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
     ** "@pydelicious@":http://code.google.com/p/pydelicious/ 0.5.2_rc2 - Access the web service of del.icio.us via it's API through python @[BSD]@
     ** "@pyhistorian@":http://github.com/hugobr/pyhistorian 0.6.3 - A BDD tool for writing specs using Given-When-Then template @[MIT]@
     ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html 0.5.0 0.5.1 - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
