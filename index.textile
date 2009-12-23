@@ -28,7 +28,7 @@ h2. Packages
     ** "@apvlv@":http://code.google.com/p/apvlv/ 0.0.7.5 0.0.8.1 - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@
 * @app-vim@
     ** "@snippets@":http://www.vim.org/scripts/script.php?script_id=2540 0.83 - vim plugin: TextMate-style snippets @[as-is]@
-    ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 4.0 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@
+    ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 4.0 4.1 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@
 * @dev-haskell@
     ** "@missingh@":http://software.complete.org/missingh 1.0.3 - Collection of Haskell-related utilities @[GPL-2]@
     ** "@configfile@":http://software.complete.org/configfile 1.0.5 - Parser and writer for handling sectioned config files in Haskell. @[LGPL-2.1]@
