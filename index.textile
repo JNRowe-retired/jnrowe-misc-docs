@@ -54,7 +54,7 @@ h2. Packages
     ** "@restview@":http://mg.pov.lt/restview/ 1.1.2 1.1.3 - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
     ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ 0.3 - Colour output plugin for the nose testing framework @[ZPL]@
     ** "@should_dsl@":http://github.com/hugobr/should-dsl 1.2.1 - Should assertions in Python as clear and readable as possible @[MIT]@
-    ** "@story_parser@":http://github.com/hugobr/story_parser 0.1.1 0.1.2 - A Given/When/Then BDD stories parser @[MIT]@
+    ** "@story_parser@":http://github.com/hugobr/story_parser 0.1.2 - A Given/When/Then BDD stories parser @[MIT]@
     ** "@termcolor@":http://pypi.python.org/pypi/termcolor/ 0.1.2 - ANSI color formatting for terminals @[GPL-2]@
     ** "@termstyle@":http://github.com/gfxmonk/termstyle 0.1.5 - a dirt-simple terminal-colour library @[BSD]@
     ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html 0.11.0 - Modules for working with points on Earth @[GPL-3]@
