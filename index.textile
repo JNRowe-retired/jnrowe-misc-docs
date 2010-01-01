@@ -67,6 +67,7 @@ h2. Packages
     ** "@ditz@":http://ditz.rubyforge.org 0.5-r1 9999 - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@
     ** "@fossil@":http://www.fossil-scm.org/index.html/doc/tip/www/index.wiki 0.20091111162119 0.20091220213451 - Simple, high-reliability, distributed software configuration management @[GPL-2]@
     ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2]@
+    ** "@hub@":http://github.com/defunkt/hub 9999 - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
     ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
     ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@
 * @games-puzzle@
