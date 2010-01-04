@@ -94,7 +94,7 @@ h2. Packages
     ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@
 * @x11-plugins@
     ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999 - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@
-    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.18 1.0.20 9999 1.0.21 - vicious widgets for the awesome window manager @[GPL-2]@
+    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.18 1.0.20 1.0.21 1.0.22 9999 - vicious widgets for the awesome window manager @[GPL-2]@
     ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999 - Widget creation library for x11-wm/awesome @[WTFPL-2]@
 * @x11-wm@
     ** "@matwm2@":http://www.gatorgitter.com/~maties/ 0.0.89 0.0.90 0.0.92 0.0.94 0.0.95 0.0.96 - Simple EWMH compatible window manager with titlebars and frames @[MIT]@
