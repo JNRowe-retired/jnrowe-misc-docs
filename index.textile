@@ -97,7 +97,7 @@ h2. Packages
     ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.18 1.0.20 9999 1.0.21 - vicious widgets for the awesome window manager @[GPL-2]@
     ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999 - Widget creation library for x11-wm/awesome @[WTFPL-2]@
 * @x11-wm@
-    ** "@matwm2@":http://www.gatorgitter.com/~maties/ 0.0.89 0.0.90 0.0.92 0.0.94 0.0.95 - Simple EWMH compatible window manager with titlebars and frames @[MIT]@
+    ** "@matwm2@":http://www.gatorgitter.com/~maties/ 0.0.89 0.0.90 0.0.92 0.0.94 0.0.95 0.0.96 - Simple EWMH compatible window manager with titlebars and frames @[MIT]@
     ** "@parti@":http://code.google.com/p/partiwm/ 0.0.6 - Parti is a tabbing/tiling window manager @[GPL-2]@
     ** "@subtle@":http://unexist.scrapping.cc/projects/show/subtle 0.8.1602 - A tiling window manager with mouse and keyboard control @[GPL-2]@
 
