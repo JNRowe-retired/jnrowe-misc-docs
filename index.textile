@@ -38,7 +38,6 @@ h2. Packages
     ** "@luainotify@":http://www3.telus.net/taj_khattra/luainotify.html 0.20090818 - a Lua interface to the Linux inotify subsystem @[as-is]@
     ** "@luaposix@":http://luaforge.net/projects/luaposix/ 5.1.4 - POSIX function support library for lua @[public-domain]@
 * @dev-python@
-    ** "@dulwich@":http://pypi.python.org/pypi/dulwich 0.4.0 - Dulwich is a pure-Python implementation of the Git file formats and protocols. @[GPL-2]@
     ** "@astral@":http://www.sffjunkie.co.uk/python.html 0.1 - Calculations for the position of the sun @[MIT]@
     ** "@freshen@":http://github.com/rlisagor/freshen 9999 - Clone of the Cucumber BDD framework for Python @[LGPL-3]@
     ** "@html@":http://pypi.python.org/pypi/html/ 1.7 - simple, elegant HTML/XHTML generation @[BSD]@
