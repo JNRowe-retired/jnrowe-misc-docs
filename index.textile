@@ -90,7 +90,7 @@ h2. Packages
     ** "@unionfs-fuse@":http://podgorny.cz/moin/UnionFsFuse 0.23 - A unionfs filesystem implementation for fuse @[BSD]@
 * @www-client@
     ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999 - A fast unix command line interface to WWW @[public-domain]@
-    ** "@cupage@":http://github.com/JNRowe/cupage 0.3.0 - A tool to check for updates on web pages @[GPL-3]@
+    ** "@cupage@":http://github.com/JNRowe/cupage 0.3.0 0.3.1 - A tool to check for updates on web pages @[GPL-3]@
     ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@
 * @x11-libs@
     ** "@ghosd@":http://neugierig.org/software/ghosd/ 0.0.1 - On-screen display with transparency @[MIT]@
