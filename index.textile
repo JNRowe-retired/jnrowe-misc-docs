@@ -22,7 +22,7 @@ h2. Packages
 * @app-admin@
     ** "@stow@":http://www.gnu.org/software/stow/ 9999 - manage installation of software in /usr/local @[GPL-2]@
 * @app-misc@
-    ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.4 1.8.5 - A GTD, todo list, task management, command line utility @[GPL-2]@
+    ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.5 - A GTD, todo list, task management, command line utility @[GPL-2]@
     ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
 * @app-text@
     ** "@apvlv@":http://code.google.com/p/apvlv/ 0.0.8.1 0.0.9 - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@
