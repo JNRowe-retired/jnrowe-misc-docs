@@ -38,6 +38,8 @@ h2. Packages
 * @dev-libs@
     ** "@luainotify@":http://www3.telus.net/taj_khattra/luainotify.html 0.20090818 - a Lua interface to the Linux inotify subsystem @[as-is]@
     ** "@luaposix@":http://luaforge.net/projects/luaposix/ 5.1.4 - POSIX function support library for lua @[public-domain]@
+* @dev-perl@
+    ** "@Term-Animation@":http://search.cpan.org/dist/Term-Animation/ 2.4 - ASCII sprite animation framework @[Artistic]@
 * @dev-python@
     ** "@astral@":http://www.sffjunkie.co.uk/python.html 0.1 - Calculations for the position of the sun @[MIT]@
     ** "@freshen@":http://github.com/rlisagor/freshen 9999 - Clone of the Cucumber BDD framework for Python @[LGPL-3]@
