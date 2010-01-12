@@ -22,6 +22,7 @@ h2. Packages
 * @app-admin@
     ** "@stow@":http://www.gnu.org/software/stow/ 9999 - manage installation of software in /usr/local @[GPL-2]@
 * @app-misc@
+    ** "@asciiquarium@":http://www.robobunny.com/projects/asciiquarium/html/ 1.0 - Enjoy the mysteries of the sea from the safety of your own terminal @[GPL-2]@
     ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.5 - A GTD, todo list, task management, command line utility @[GPL-2]@
     ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
 * @app-text@
