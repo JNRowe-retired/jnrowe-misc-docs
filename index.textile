@@ -26,6 +26,7 @@ h2. Packages
     ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
 * @app-text@
     ** "@apvlv@":http://code.google.com/p/apvlv/ 0.0.8.1 0.0.9 - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@
+    ** "@gist@":http://github.com/defunkt/gist 9999 - Absolutely the best command line gister @[MIT]@
 * @app-vim@
     ** "@snippets@":http://www.vim.org/scripts/script.php?script_id=2540 0.83 - vim plugin: TextMate-style snippets @[as-is]@
     ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 4.0 4.1 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@
