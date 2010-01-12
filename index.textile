@@ -95,6 +95,8 @@ h2. Packages
     ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@
 * @x11-libs@
     ** "@ghosd@":http://neugierig.org/software/ghosd/ 0.0.1 - On-screen display with transparency @[MIT]@
+* @x11-misc@
+    ** "@gselt@":http://offog.org/code/gselt.html 1.2 - Watches the X selection and displays context sensitive actions @[GPL-2]@
 * @x11-plugins@
     ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999 - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@
     ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.18 1.0.20 1.0.21 1.0.22 9999 - vicious widgets for the awesome window manager @[GPL-2]@
