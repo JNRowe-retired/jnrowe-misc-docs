@@ -54,7 +54,7 @@ h2. Packages
     ** "@pycukes@":http://github.com/hugobr/pycukes 0.1.2 - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
     ** "@pydelicious@":http://code.google.com/p/pydelicious/ 0.5.2_rc2 - Access the web service of del.icio.us via it's API through python @[BSD]@
     ** "@pyhistorian@":http://github.com/hugobr/pyhistorian 0.6.3 - A BDD tool for writing specs using Given-When-Then template @[MIT]@
-    ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html 0.5.0 0.5.1 - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
+    ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html 0.5.1 - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
     ** "@rednose@":http://github.com/gfxmonk/rednose/ 0.1.4-r1 - coloured output for nosetests @[BSD]@
     ** "@restview@":http://mg.pov.lt/restview/ 1.1.2 1.1.3 - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
     ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ 0.3 - Colour output plugin for the nose testing framework @[ZPL]@
