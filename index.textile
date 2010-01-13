@@ -94,6 +94,8 @@ h2. Packages
     ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ 3.0 - Generate statistics from mbox and maildir folders @[GPL-2]@
 * @sys-fs@
     ** "@unionfs-fuse@":http://podgorny.cz/moin/UnionFsFuse 0.23 - A unionfs filesystem implementation for fuse @[BSD]@
+* @www-apps@
+    ** "@mnemosyne@":http://www.red-bean.com/decklin/mnemosyne/ 0.12 - A static weblog compiler, using maildirs and reST @[MIT]@
 * @www-client@
     ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999 - A fast unix command line interface to WWW @[public-domain]@
     ** "@cupage@":http://github.com/JNRowe/cupage 0.3.0 0.3.1 - A tool to check for updates on web pages @[GPL-3]@
