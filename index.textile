@@ -84,6 +84,7 @@ h2. Packages
     ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml 1.2.7 - Quick Spam Filter, with support for multiple databases @[Artistic-2]@
 * @media-gfx@
     ** "@aafigure@":https://launchpad.net/aafigure 0.4 - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@
+    ** "@psplash@":http://labs.o-hand.com/psplash/ 0.1 - A tiny userspace graphical boot splash screen @[GPL-2]@
     ** "@sng@":http://www.catb.org/~esr/sng/ 1.0.2 - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@
     ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ 1.0 - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
 * @media-sound@
