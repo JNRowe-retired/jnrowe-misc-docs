@@ -110,6 +110,7 @@ h2. Packages
 * @x11-misc@
     ** "@gselt@":http://offog.org/code/gselt.html 1.2 - Watches the X selection and displays context sensitive actions @[GPL-2]@
     ** @winmatch@ 0.5 - A simple window matching utility, like "devilspie":http://www.burtonini.com/blog/computers/devilspie @[GPL-2]@
+    ** "@yalias@":http://offog.org/code/ 0.7 - A simple content sensitive command launcher. @[GPL-2]@
 * @x11-plugins@
     ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999 - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@
     ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.18 1.0.20 1.0.21 1.0.22 9999 - vicious widgets for the awesome window manager @[GPL-2]@
