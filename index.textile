@@ -27,6 +27,8 @@ h2. Packages
     ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.5 - A GTD, todo list, task management, command line utility @[GPL-2]@
     ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
     ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ 1.8 - Create an ASCII animation that simulates the weather @[GPL-2]@
+* @app-mobilephone@
+    ** "@pyhumod@":http://code.google.com/p/pyhumod/ 0.03 - Accessing Huawei modems in Python, including SMS and data calls. @[BSD]@
 * @app-text@
     ** "@apvlv@":http://code.google.com/p/apvlv/ 0.0.8.1 0.0.9 - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@
     ** "@gist@":http://github.com/defunkt/gist 9999 - Absolutely the best command line gister @[MIT]@
