@@ -78,8 +78,6 @@ h2. Packages
     ** "@hub@":http://github.com/defunkt/hub 9999 - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
     ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
     ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@
-* @games-puzzle@
-    ** "@sgt-puzzles@":http://www.chiark.greenend.org.uk/~sgtatham/puzzles/ 0.0.8494 - A collection of small one-player puzzle games @[MIT]@
 * @mail-client@
     ** "@notmuch@":http://notmuchmail.org/ 9999 - Thread-based email index, search and tagging. @[GPL-3]@
     ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk/ 9999 - A Gtk+ interface to the notmuch mail client. @[GPL-3]@
