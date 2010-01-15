@@ -35,8 +35,8 @@ h2. Packages
 * @app-vim@
     ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 4.0 4.1 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@
 * @dev-haskell@
-    ** "@missingh@":http://software.complete.org/missingh 1.0.3 - Collection of Haskell-related utilities @[GPL-2]@
     ** "@configfile@":http://software.complete.org/configfile 1.0.5 - Parser and writer for handling sectioned config files in Haskell. @[LGPL-2.1]@
+    ** "@missingh@":http://software.complete.org/missingh 1.0.3 - Collection of Haskell-related utilities @[GPL-2]@
 * @dev-lang@
     ** "@wirbel@":http://mathias-kettner.de/wirbel.html 0.1.11 - A compiled programming language with syntax and semantics similar to Python @[GPL-2]@
 * @dev-libs@
@@ -75,8 +75,8 @@ h2. Packages
     ** "@ditz@":http://ditz.rubyforge.org 0.5-r1 9999 - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@
     ** "@fossil@":http://www.fossil-scm.org/index.html/doc/tip/www/index.wiki 0.20091111162119 0.20091220213451 0.20100112141013 - Simple, high-reliability, distributed software configuration management @[GPL-2]@
     ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2]@
-    ** "@hub@":http://github.com/defunkt/hub 9999 - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
     ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
+    ** "@hub@":http://github.com/defunkt/hub 9999 - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
     ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@
 * @mail-client@
     ** "@notmuch@":http://notmuchmail.org/ 9999 - Thread-based email index, search and tagging. @[GPL-3]@
@@ -92,16 +92,16 @@ h2. Packages
     ** "@hpodder@":http://software.complete.org/hpodder 1.1.5 - Podcast Aggregator (downloader) @[GPL-2]@
     ** "@mpdcron@":http://alip.github.com/mpdcron/ 0.3 9999 - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@
 * @net-mail@
-    ** "@rss2email@":http://rss2email.infogami.com/ 2.65.1 - A python script that converts RSS newsfeeds to email @[GPL-2]@
     ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ 3.0 - Generate statistics from mbox and maildir folders @[GPL-2]@
+    ** "@rss2email@":http://rss2email.infogami.com/ 2.65.1 - A python script that converts RSS newsfeeds to email @[GPL-2]@
 * @sys-fs@
     ** "@unionfs-fuse@":http://podgorny.cz/moin/UnionFsFuse 0.23 - A unionfs filesystem implementation for fuse @[BSD]@
 * @www-apps@
     ** "@mnemosyne@":http://www.red-bean.com/decklin/mnemosyne/ 0.12 - A static weblog compiler, using maildirs and reST @[MIT]@
 * @www-client@
-    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999 - A fast unix command line interface to WWW @[public-domain]@
     ** "@cupage@":http://github.com/JNRowe/cupage 0.3.0 0.3.1 - A tool to check for updates on web pages @[GPL-3]@
     ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@
+    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999 - A fast unix command line interface to WWW @[public-domain]@
 * @x11-libs@
     ** "@ghosd@":http://neugierig.org/software/ghosd/ 0.0.1 - On-screen display with transparency @[MIT]@
 * @x11-misc@
