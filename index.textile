@@ -26,7 +26,7 @@ h2. Packages
     ** "@asciiquarium@":http://www.robobunny.com/projects/asciiquarium/html/ 1.0 - Enjoy the mysteries of the sea from the safety of your own terminal @[GPL-2]@
     ** "@sunwait@":http://www.risacher.org/sunwait 20041208 - Tool for calculating sunrise and sunset, and sleeping until such an event. @[GPL-2]@
     ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.5 - A GTD, todo list, task management, command line utility @[GPL-2]@
-    ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
+    ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6 0.6.1 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
     ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ 1.8 - Create an ASCII animation that simulates the weather @[GPL-2]@
 * @app-mobilephone@
     ** "@pyhumod@":http://code.google.com/p/pyhumod/ 0.03 - Accessing Huawei modems in Python, including SMS and data calls. @[BSD]@
