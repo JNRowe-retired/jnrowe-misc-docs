@@ -20,6 +20,7 @@ Up to date installation instructions are contained within the repositories @READ
 h2. Packages
 
 * @app-admin@
+    ** "@spill@":http://www.rpcurnow.force9.co.uk/spill/ 0.8 - Creates symlinks from one directory hierarchy to another(like stow) @[GPL-2]@
     ** "@stow@":http://www.gnu.org/software/stow/ 9999 - manage installation of software in /usr/local @[GPL-2]@
 * @app-misc@
     ** "@asciiquarium@":http://www.robobunny.com/projects/asciiquarium/html/ 1.0 - Enjoy the mysteries of the sea from the safety of your own terminal @[GPL-2]@
