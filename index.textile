@@ -95,8 +95,6 @@ h2. Packages
 * @net-mail@
     ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ 3.0 - Generate statistics from mbox and maildir folders @[GPL-2]@
     ** "@rss2email@":http://rss2email.infogami.com/ 2.65.1 - A python script that converts RSS newsfeeds to email @[GPL-2]@
-* @sys-fs@
-    ** "@unionfs-fuse@":http://podgorny.cz/moin/UnionFsFuse 0.23 - A unionfs filesystem implementation for fuse @[BSD]@
 * @www-apps@
     ** "@mnemosyne@":http://www.red-bean.com/decklin/mnemosyne/ 0.12 - A static weblog compiler, using maildirs and reST @[MIT]@
 * @www-client@
