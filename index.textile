@@ -21,10 +21,10 @@ h2. Packages
 
 * @app-admin@
     ** "@spill@":http://www.rpcurnow.force9.co.uk/spill/ 0.8 - Creates symlinks from one directory hierarchy to another(like stow) @[GPL-2]@
-    ** "@stow@":http://www.gnu.org/software/stow/ 9999 - manage installation of software in /usr/local @[GPL-2]@
+    ** "@stow@":http://savannah.gnu.org/projects/stow/ 9999 - Manage installation of software in via symlinks @[GPL-2]@
 * @app-misc@
     ** "@asciiquarium@":http://www.robobunny.com/projects/asciiquarium/html/ 1.0 - Enjoy the mysteries of the sea from the safety of your own terminal @[GPL-2]@
-    ** "@sunwait@":http://www.risacher.org/sunwait 20041208 - Tool for calculating sunrise and sunset, and sleeping until such an event. @[GPL-2]@
+    ** "@sunwait@":http://www.risacher.org/sunwait/ 20041208 - Tool for calculating sunrise and sunset, and sleeping until such an event. @[GPL-2]@
     ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.5 - A GTD, todo list, task management, command line utility @[GPL-2]@
     ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6 0.6.1 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
     ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ 1.8 - Create an ASCII animation that simulates the weather @[GPL-2]@
@@ -45,9 +45,9 @@ h2. Packages
     ** "@luaposix@":http://luaforge.net/projects/luaposix/ 5.1.4 - POSIX function support library for lua @[public-domain]@
 * @dev-perl@
     ** "@Term-Animation@":http://search.cpan.org/dist/Term-Animation/ 2.4 - ASCII sprite animation framework @[Artistic]@
-    ** "@Weather-Underground@":http://search.cpan.org/dist/Weather-Underground/ 3.0.2 - Extension for retrieving weather information from "wunderground.com":wunderground.com @[Artistic]@
+    ** "@Weather-Underground@":http://search.cpan.org/dist/Weather-Underground/ 3.02 - Extension for retrieving weather information from wunderground.com @[Artistic]@
 * @dev-python@
-    ** "@astral@":http://www.sffjunkie.co.uk/python.html 0.1 - Calculations for the position of the sun @[MIT]@
+    ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html 0.1 - Calculations for the position of the sun @[MIT]@
     ** "@feedcache@":http://www.doughellmann.com/projects/feedcache/ 1.3.1 - Wrapper for the Universal Feed Parser which caches the results @[MIT]@
     ** "@freshen@":http://github.com/rlisagor/freshen 9999 - Clone of the Cucumber BDD framework for Python @[LGPL-3]@
     ** "@html@":http://pypi.python.org/pypi/html/ 1.7 1.8 - simple, elegant HTML/XHTML generation @[BSD]@
@@ -60,7 +60,7 @@ h2. Packages
     ** "@pyhistorian@":http://github.com/hugobr/pyhistorian 0.6.3 - A BDD tool for writing specs using Given-When-Then template @[MIT]@
     ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html 0.5.1 - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
     ** "@rednose@":http://github.com/gfxmonk/rednose/ 0.1.4-r1 - coloured output for nosetests @[BSD]@
-    ** "@restview@":http://mg.pov.lt/restview/ 1.1.2 1.1.3 - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
+    ** "@restview@":http://mg.pov.lt/restview/ 1.1.3 - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
     ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ 0.3 - Colour output plugin for the nose testing framework @[ZPL]@
     ** "@should_dsl@":http://github.com/hugobr/should-dsl 1.2.1 - Should assertions in Python as clear and readable as possible @[MIT]@
     ** "@story_parser@":http://github.com/hugobr/story_parser 0.1.2 - A Given/When/Then BDD stories parser @[MIT]@
@@ -75,13 +75,13 @@ h2. Packages
     ** "@ccontrol@":http://ccontrol.ozlabs.org/ 0.9.1 - Utility to manage ccache and distcc @[GPL-2]@
     ** "@ditz@":http://ditz.rubyforge.org 0.5-r1 9999 - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@
     ** "@fossil@":http://www.fossil-scm.org/index.html/doc/tip/www/index.wiki 0.20091220213451 0.20100112141013 - Simple, high-reliability, distributed software configuration management @[GPL-2]@
-    ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2]@
+    ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2 GPL-3]@
     ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
     ** "@hub@":http://github.com/defunkt/hub 9999 - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
     ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@
 * @mail-client@
     ** "@notmuch@":http://notmuchmail.org/ 9999 - Thread-based email index, search and tagging. @[GPL-3]@
-    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk/ 9999 - A Gtk+ interface to the notmuch mail client. @[GPL-3]@
+    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk 9999 - A Gtk+ interface to the notmuch mail client. @[GPL-3]@
 * @mail-filter@
     ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml 1.2.7 - Quick Spam Filter, with support for multiple databases @[Artistic-2]@
 * @media-gfx@
@@ -105,11 +105,11 @@ h2. Packages
     ** "@ghosd@":http://neugierig.org/software/ghosd/ 0.0.1 - On-screen display with transparency @[MIT]@
 * @x11-misc@
     ** "@gselt@":http://offog.org/code/gselt.html 1.2 - Watches the X selection and displays context sensitive actions @[GPL-2]@
-    ** @winmatch@ 0.5 - A simple window matching utility, like "devilspie":http://www.burtonini.com/blog/computers/devilspie @[GPL-2]@
+    ** @winmatch@ 0.5 - A simple window matching utility, like devilspie @[GPL-2]@
     ** "@yalias@":http://offog.org/code/ 0.7 - A simple content sensitive command launcher. @[GPL-2]@
 * @x11-plugins@
     ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999 - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@
-    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.18 1.0.20 1.0.21 1.0.22 9999 - vicious widgets for the awesome window manager @[GPL-2]@
+    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21 1.0.22 9999 - vicious widgets for the awesome window manager @[GPL-2]@
     ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999 - Widget creation library for x11-wm/awesome @[WTFPL-2]@
 * @x11-wm@
     ** "@parti@":http://code.google.com/p/partiwm/ 0.0.6 - Parti is a tabbing/tiling window manager @[GPL-2]@
