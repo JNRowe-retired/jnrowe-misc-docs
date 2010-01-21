@@ -20,100 +20,100 @@ Up to date installation instructions are contained within the repositories @READ
 h2. Packages
 
 * @app-admin@
-    ** "@spill@":http://www.rpcurnow.force9.co.uk/spill/ 0.8 - Creates symlinks from one directory hierarchy to another(like stow) @[GPL-2]@
-    ** "@stow@":http://savannah.gnu.org/projects/stow/ 9999 - Manage installation of software in via symlinks @[GPL-2]@
+    ** "@spill@":http://www.rpcurnow.force9.co.uk/spill/ 0.8 - Creates symlinks from one directory hierarchy to another(like stow) @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@stow@":http://savannah.gnu.org/projects/stow/ 9999 - Manage installation of software in via symlinks @[GPL-2]@ @{~amd64 ~ppc ~x86}@
 * @app-misc@
-    ** "@asciiquarium@":http://www.robobunny.com/projects/asciiquarium/html/ 1.0 - Enjoy the mysteries of the sea from the safety of your own terminal @[GPL-2]@
-    ** "@sunwait@":http://www.risacher.org/sunwait/ 20041208 - Tool for calculating sunrise and sunset, and sleeping until such an event. @[GPL-2]@
-    ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.5 - A GTD, todo list, task management, command line utility @[GPL-2]@
-    ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6 0.6.1 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
-    ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ 1.8 - Create an ASCII animation that simulates the weather @[GPL-2]@
+    ** "@asciiquarium@":http://www.robobunny.com/projects/asciiquarium/html/ 1.0 - Enjoy the mysteries of the sea from the safety of your own terminal @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@sunwait@":http://www.risacher.org/sunwait/ 20041208 - Tool for calculating sunrise and sunset, and sleeping until such an event. @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ 1.8.5 - A GTD, todo list, task management, command line utility @[GPL-2]@ @{amd64 x86}@
+    ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ 0.6, 0.6.1 - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@ @{~amd64 ~x86}@
+    ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ 1.8 - Create an ASCII animation that simulates the weather @[GPL-2]@ @{~amd64 ~x86}@
 * @app-mobilephone@
-    ** "@pyhumod@":http://code.google.com/p/pyhumod/ 0.03 - Accessing Huawei modems in Python, including SMS and data calls. @[BSD]@
+    ** "@pyhumod@":http://code.google.com/p/pyhumod/ 0.03 - Accessing Huawei modems in Python, including SMS and data calls. @[BSD]@ @{~amd64 ~x86}@
 * @app-text@
-    ** "@apvlv@":http://code.google.com/p/apvlv/ 0.0.8.1 0.0.9 - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@
-    ** "@gist@":http://github.com/defunkt/gist 9999 - Absolutely the best command line gister @[MIT]@
+    ** "@apvlv@":http://code.google.com/p/apvlv/ 0.0.8.1, 0.0.9 - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@gist@":http://github.com/defunkt/gist 9999 - Absolutely the best command line gister @[MIT]@ @{~amd64 ~x86}@
 * @app-vim@
-    ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 4.1 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@
+    ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 4.1 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@ @{amd64 x86}@
 * @dev-haskell@
-    ** "@configfile@":http://software.complete.org/configfile 1.0.5 - Parser and writer for handling sectioned config files in Haskell. @[LGPL-2.1]@
-    ** "@missingh@":http://software.complete.org/missingh 1.0.3 - Collection of Haskell-related utilities @[GPL-2]@
+    ** "@configfile@":http://software.complete.org/configfile 1.0.5 - Parser and writer for handling sectioned config files in Haskell. @[LGPL-2.1]@ @{~amd64 ~x86}@
+    ** "@missingh@":http://software.complete.org/missingh 1.0.3 - Collection of Haskell-related utilities @[GPL-2]@ @{~amd64 ~x86}@
 * @dev-lang@
-    ** "@wirbel@":http://mathias-kettner.de/wirbel.html 0.1.11 - A compiled programming language with syntax and semantics similar to Python @[GPL-2]@
+    ** "@wirbel@":http://mathias-kettner.de/wirbel.html 0.1.11 - A compiled programming language with syntax and semantics similar to Python @[GPL-2]@ @{amd64 x86}@
 * @dev-libs@
-    ** "@luainotify@":http://www3.telus.net/taj_khattra/luainotify.html 0.20090818 - a Lua interface to the Linux inotify subsystem @[as-is]@
-    ** "@luaposix@":http://luaforge.net/projects/luaposix/ 5.1.4 - POSIX function support library for lua @[public-domain]@
+    ** "@luainotify@":http://www3.telus.net/taj_khattra/luainotify.html 0.20090818 - a Lua interface to the Linux inotify subsystem @[as-is]@ @{amd64 x86}@
+    ** "@luaposix@":http://luaforge.net/projects/luaposix/ 5.1.4 - POSIX function support library for lua @[public-domain]@ @{amd64 x86}@
 * @dev-perl@
-    ** "@Term-Animation@":http://search.cpan.org/dist/Term-Animation/ 2.4 - ASCII sprite animation framework @[Artistic]@
-    ** "@Weather-Underground@":http://search.cpan.org/dist/Weather-Underground/ 3.02 - Extension for retrieving weather information from wunderground.com @[Artistic]@
+    ** "@Term-Animation@":http://search.cpan.org/dist/Term-Animation/ 2.4 - ASCII sprite animation framework @[Artistic]@ @{~amd64 ~x86}@
+    ** "@Weather-Underground@":http://search.cpan.org/dist/Weather-Underground/ 3.02 - Extension for retrieving weather information from wunderground.com @[Artistic]@ @{~amd64 ~x86}@
 * @dev-python@
-    ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html 0.1 - Calculations for the position of the sun @[MIT]@
-    ** "@feedcache@":http://www.doughellmann.com/projects/feedcache/ 1.3.1 - Wrapper for the Universal Feed Parser which caches the results @[MIT]@
-    ** "@freshen@":http://github.com/rlisagor/freshen 9999 - Clone of the Cucumber BDD framework for Python @[LGPL-3]@
-    ** "@html@":http://pypi.python.org/pypi/html/ 1.7 1.8 - simple, elegant HTML/XHTML generation @[BSD]@
-    ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ 1.0 - Provides an interactive console for doctests @[LGPL-2.1]@
-    ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ 0.1.2 - Add additional directories to sys.path for nose. @[Apache-2.0]@
-    ** "@nosetty@":http://code.google.com/p/nosetty/ 0.4 - A plugin to run nosetests more interactively @[LGPL-2.1]@
-    ** "@pep8@":http://github.com/cburroughs/pep8.py 0.4.2 - A tool to check your Python code against the conventions in PEP 8 @[MIT]@
-    ** "@pycukes@":http://github.com/hugobr/pycukes 0.1.2 - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
-    ** "@pydelicious@":http://code.google.com/p/pydelicious/ 0.5.2_rc2 - Access the web service of del.icio.us via it's API through python @[BSD]@
-    ** "@pyhistorian@":http://github.com/hugobr/pyhistorian 0.6.3 - A BDD tool for writing specs using Given-When-Then template @[MIT]@
-    ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html 0.5.1 - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
-    ** "@rednose@":http://github.com/gfxmonk/rednose/ 0.1.4-r1 - coloured output for nosetests @[BSD]@
-    ** "@restview@":http://mg.pov.lt/restview/ 1.1.3 - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
-    ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ 0.3 - Colour output plugin for the nose testing framework @[ZPL]@
-    ** "@should_dsl@":http://github.com/hugobr/should-dsl 1.2.1 - Should assertions in Python as clear and readable as possible @[MIT]@
-    ** "@story_parser@":http://github.com/hugobr/story_parser 0.1.2 - A Given/When/Then BDD stories parser @[MIT]@
-    ** "@termcolor@":http://pypi.python.org/pypi/termcolor/ 0.1.2 - ANSI color formatting for terminals @[GPL-2]@
-    ** "@termstyle@":http://github.com/gfxmonk/termstyle 0.1.5 - a dirt-simple terminal-colour library @[BSD]@
-    ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html 0.11.0 - Modules for working with points on Earth @[GPL-3]@
+    ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html 0.1 - Calculations for the position of the sun @[MIT]@ @{amd64 x86}@
+    ** "@feedcache@":http://www.doughellmann.com/projects/feedcache/ 1.3.1 - Wrapper for the Universal Feed Parser which caches the results @[MIT]@ @{~amd64 ~x86}@
+    ** "@freshen@":http://github.com/rlisagor/freshen 9999 - Clone of the Cucumber BDD framework for Python @[LGPL-3]@ @{~amd64 ~x86}@
+    ** "@html@":http://pypi.python.org/pypi/html/ 1.7, 1.8 - simple, elegant HTML/XHTML generation @[BSD]@ @{~amd64 ~x86}@
+    ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ 1.0 - Provides an interactive console for doctests @[LGPL-2.1]@ @{amd64 x86}@
+    ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ 0.1.2 - Add additional directories to sys.path for nose. @[Apache-2.0]@ @{amd64 x86}@
+    ** "@nosetty@":http://code.google.com/p/nosetty/ 0.4 - A plugin to run nosetests more interactively @[LGPL-2.1]@ @{amd64 x86}@
+    ** "@pep8@":http://github.com/cburroughs/pep8.py 0.4.2 - A tool to check your Python code against the conventions in PEP 8 @[MIT]@ @{amd64 x86}@
+    ** "@pycukes@":http://github.com/hugobr/pycukes 0.1.2 - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@ @{amd64 x86}@
+    ** "@pydelicious@":http://code.google.com/p/pydelicious/ 0.5.2_rc2 - Access the web service of del.icio.us via it's API through python @[BSD]@ @{amd64 x86}@
+    ** "@pyhistorian@":http://github.com/hugobr/pyhistorian 0.6.3 - A BDD tool for writing specs using Given-When-Then template @[MIT]@ @{amd64 x86}@
+    ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html 0.5.1 - A module for working with 10- and 13-digit ISBNs @[GPL-3]@ @{amd64 x86}@
+    ** "@rednose@":http://github.com/gfxmonk/rednose/ 0.1.4-r1 - coloured output for nosetests @[BSD]@ @{amd64 x86}@
+    ** "@restview@":http://mg.pov.lt/restview/ 1.1.3 - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@ @{amd64 x86}@
+    ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ 0.3 - Colour output plugin for the nose testing framework @[ZPL]@ @{amd64 x86}@
+    ** "@should_dsl@":http://github.com/hugobr/should-dsl 1.2.1 - Should assertions in Python as clear and readable as possible @[MIT]@ @{amd64 x86}@
+    ** "@story_parser@":http://github.com/hugobr/story_parser 0.1.2 - A Given/When/Then BDD stories parser @[MIT]@ @{amd64 x86}@
+    ** "@termcolor@":http://pypi.python.org/pypi/termcolor/ 0.1.2 - ANSI color formatting for terminals @[GPL-2]@ @{amd64 x86}@
+    ** "@termstyle@":http://github.com/gfxmonk/termstyle 0.1.5 - a dirt-simple terminal-colour library @[BSD]@ @{amd64 x86}@
+    ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html 0.11.0 - Modules for working with points on Earth @[GPL-3]@ @{amd64 x86}@
 * @dev-ruby@
-    ** "@trollop@":http://trollop.rubyforge.org 1.15 - Provide the maximal amount of GNU-style argument processing in ruby @[Ruby]@
+    ** "@trollop@":http://trollop.rubyforge.org 1.15 - Provide the maximal amount of GNU-style argument processing in ruby @[Ruby]@ @{amd64 x86}@
 * @dev-util@
-    ** "@be@":http://bugseverywhere.org/be/show/HomePage 0.0.193 - A bugtracker built on distributed revision control @[GPL-2]@
-    ** "@blame@":http://blame.sourceforge.net/ 1.3.1 - Annotates RCS files in a style similar to CVS's annotate command @[GPL-2]@
-    ** "@ccontrol@":http://ccontrol.ozlabs.org/ 0.9.1 - Utility to manage ccache and distcc @[GPL-2]@
-    ** "@ditz@":http://ditz.rubyforge.org 0.5-r1 9999 - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@
-    ** "@fossil@":http://www.fossil-scm.org/index.html/doc/tip/www/index.wiki 0.20091220213451 0.20100112141013 - Simple, high-reliability, distributed software configuration management @[GPL-2]@
-    ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2 GPL-3]@
-    ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
-    ** "@hub@":http://github.com/defunkt/hub 9999 - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
-    ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@
+    ** "@be@":http://bugseverywhere.org/be/show/HomePage 0.0.193 - A bugtracker built on distributed revision control @[GPL-2]@ @{amd64 ppc64 x86}@
+    ** "@blame@":http://blame.sourceforge.net/ 1.3.1 - Annotates RCS files in a style similar to CVS's annotate command @[GPL-2]@ @{amd64 x86}@
+    ** "@ccontrol@":http://ccontrol.ozlabs.org/ 0.9.1 - Utility to manage ccache and distcc @[GPL-2]@ @{amd64 x86}@
+    ** "@ditz@":http://ditz.rubyforge.org 0.5-r1, 9999 - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@ @{~amd64 ~x86}@
+    ** "@fossil@":http://www.fossil-scm.org/index.html/doc/tip/www/index.wiki 0.20091220213451, 0.20100112141013 - Simple, high-reliability, distributed software configuration management @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2 GPL-3]@ @{amd64 x86}@
+    ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@ @{amd64 x86}@
+    ** "@hub@":http://github.com/defunkt/hub 9999 - hub is a command line utility which adds GitHub knowledge to git @[MIT]@ @{~amd64 ~x86}@
+    ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@ @{-* amd64 x86}@
 * @mail-client@
-    ** "@notmuch@":http://notmuchmail.org/ 9999 - Thread-based email index, search and tagging. @[GPL-3]@
-    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk 9999 - A Gtk+ interface to the notmuch mail client. @[GPL-3]@
+    ** "@notmuch@":http://notmuchmail.org/ 9999 - Thread-based email index, search and tagging. @[GPL-3]@ @{~amd64 ~x86}@
+    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk 9999 - A Gtk+ interface to the notmuch mail client. @[GPL-3]@ @{~amd64}@
 * @mail-filter@
-    ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml 1.2.7 - Quick Spam Filter, with support for multiple databases @[Artistic-2]@
+    ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml 1.2.7 - Quick Spam Filter, with support for multiple databases @[Artistic-2]@ @{amd64 x86}@
 * @media-gfx@
-    ** "@aafigure@":https://launchpad.net/aafigure 0.4 - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@
-    ** "@psplash@":http://labs.o-hand.com/psplash/ 0.1 - A tiny userspace graphical boot splash screen @[GPL-2]@
-    ** "@sng@":http://www.catb.org/~esr/sng/ 1.0.2 - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@
-    ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ 1.0 - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
+    ** "@aafigure@":https://launchpad.net/aafigure 0.4 - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@ @{amd64 x86}@
+    ** "@psplash@":http://labs.o-hand.com/psplash/ 0.1 - A tiny userspace graphical boot splash screen @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@sng@":http://www.catb.org/~esr/sng/ 1.0.2 - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@ @{amd64 x86}@
+    ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ 1.0 - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@ @{amd64 x86}@
 * @media-sound@
-    ** "@hpodder@":http://software.complete.org/hpodder 1.1.5 - Podcast Aggregator (downloader) @[GPL-2]@
-    ** "@mpdcron@":http://alip.github.com/mpdcron/ 0.3 9999 - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@
+    ** "@hpodder@":http://software.complete.org/hpodder 1.1.5 - Podcast Aggregator (downloader) @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@mpdcron@":http://alip.github.com/mpdcron/ 0.3, 9999 - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@ @{~amd64 ~x86}@
 * @net-mail@
-    ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ 3.0 - Generate statistics from mbox and maildir folders @[GPL-2]@
-    ** "@rss2email@":http://rss2email.infogami.com/ 2.65.1 - A python script that converts RSS newsfeeds to email @[GPL-2]@
+    ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ 3.0 - Generate statistics from mbox and maildir folders @[GPL-2]@ @{amd64 x86}@
+    ** "@rss2email@":http://rss2email.infogami.com/ 2.65.1 - A python script that converts RSS newsfeeds to email @[GPL-2]@ @{amd64 x86}@
 * @www-apps@
-    ** "@mnemosyne@":http://www.red-bean.com/decklin/mnemosyne/ 0.12 - A static weblog compiler, using maildirs and reST @[MIT]@
+    ** "@mnemosyne@":http://www.red-bean.com/decklin/mnemosyne/ 0.12 - A static weblog compiler, using maildirs and reST @[MIT]@ @{~amd64 ~x86}@
 * @www-client@
-    ** "@cupage@":http://github.com/JNRowe/cupage 0.3.0 0.3.1 - A tool to check for updates on web pages @[GPL-3]@
-    ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@
-    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999 - A fast unix command line interface to WWW @[public-domain]@
+    ** "@cupage@":http://github.com/JNRowe/cupage 0.3.0, 0.3.1 - A tool to check for updates on web pages @[GPL-3]@ @{~amd64 ~x86}@
+    ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@ @{amd64 x86}@
+    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999 - A fast unix command line interface to WWW @[public-domain]@ @{~amd64 ~hppa ~ppc ~sparc ~x86}@
 * @x11-libs@
-    ** "@ghosd@":http://neugierig.org/software/ghosd/ 0.0.1 - On-screen display with transparency @[MIT]@
+    ** "@ghosd@":http://neugierig.org/software/ghosd/ 0.0.1 - On-screen display with transparency @[MIT]@ @{~amd64 ~x86}@
 * @x11-misc@
-    ** "@gselt@":http://offog.org/code/gselt.html 1.2 - Watches the X selection and displays context sensitive actions @[GPL-2]@
-    ** @winmatch@ 0.5 - A simple window matching utility, like devilspie @[GPL-2]@
-    ** "@yalias@":http://offog.org/code/ 0.7 - A simple content sensitive command launcher. @[GPL-2]@
+    ** "@gselt@":http://offog.org/code/gselt.html 1.2 - Watches the X selection and displays context sensitive actions @[GPL-2]@ @{~amd64 ~x86}@
+    ** @winmatch@ 0.5 - A simple window matching utility, like devilspie @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@yalias@":http://offog.org/code/ 0.7 - A simple content sensitive command launcher. @[GPL-2]@ @{~amd64 ~x86}@
 * @x11-plugins@
-    ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999 - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@
-    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21 1.0.22 9999 - vicious widgets for the awesome window manager @[GPL-2]@
-    ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999 - Widget creation library for x11-wm/awesome @[WTFPL-2]@
+    ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999 - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@ @{~amd64 ~x86}@
+    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21, 1.0.22, 9999 - vicious widgets for the awesome window manager @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999 - Widget creation library for x11-wm/awesome @[WTFPL-2]@ @{~amd64 ~x86}@
 * @x11-wm@
-    ** "@parti@":http://code.google.com/p/partiwm/ 0.0.6 - Parti is a tabbing/tiling window manager @[GPL-2]@
-    ** "@subtle@":http://unexist.scrapping.cc/projects/show/subtle 0.8.1602 - A tiling window manager with mouse and keyboard control @[GPL-2]@
+    ** "@parti@":http://code.google.com/p/partiwm/ 0.0.6 - Parti is a tabbing/tiling window manager @[GPL-2]@ @{amd64 x86}@
+    ** "@subtle@":http://unexist.scrapping.cc/projects/show/subtle 0.8.1602 - A tiling window manager with mouse and keyboard control @[GPL-2]@ @{amd64 x86}@
 
 h2. License
 
