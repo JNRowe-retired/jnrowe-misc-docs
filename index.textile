@@ -21,7 +21,7 @@ h2. Packages
 
 * @app-admin@
     ** "@spill@":http://www.rpcurnow.force9.co.uk/spill/ 0.8 - Creates symlinks from one directory hierarchy to another(like stow) @[GPL-2]@ @{~amd64 ~x86}@
-    ** "@stow@":http://savannah.gnu.org/projects/stow/ 9999 - Manage installation of software in via symlinks @[GPL-2]@ @{~amd64 ~ppc ~x86}@
+    ** "@stow@":http://savannah.gnu.org/projects/stow/ 9999(@git@) - Manage installation of software in via symlinks @[GPL-2]@ @{~amd64 ~ppc ~x86}@
 * @app-misc@
     ** "@asciiquarium@":http://www.robobunny.com/projects/asciiquarium/html/ 1.0 - Enjoy the mysteries of the sea from the safety of your own terminal @[GPL-2]@ @{~amd64 ~x86}@
     ** "@sunwait@":http://www.risacher.org/sunwait/ 20041208 - Tool for calculating sunrise and sunset, and sleeping until such an event. @[GPL-2]@ @{~amd64 ~x86}@
@@ -32,7 +32,7 @@ h2. Packages
     ** "@pyhumod@":http://code.google.com/p/pyhumod/ 0.03 - Accessing Huawei modems in Python, including SMS and data calls. @[BSD]@ @{~amd64 ~x86}@
 * @app-text@
     ** "@apvlv@":http://code.google.com/p/apvlv/ 0.0.8.1, 0.0.9 - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@ @{~amd64 ~x86}@
-    ** "@gist@":http://github.com/defunkt/gist 9999 - Absolutely the best command line gister @[MIT]@ @{~amd64 ~x86}@
+    ** "@gist@":http://github.com/defunkt/gist 9999(@git@) - Absolutely the best command line gister @[MIT]@ @{~amd64 ~x86}@
 * @app-vim@
     ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 4.1 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@ @{amd64 x86}@
 * @dev-haskell@
@@ -49,7 +49,7 @@ h2. Packages
 * @dev-python@
     ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html 0.1 - Calculations for the position of the sun @[MIT]@ @{amd64 x86}@
     ** "@feedcache@":http://www.doughellmann.com/projects/feedcache/ 1.3.1 - Wrapper for the Universal Feed Parser which caches the results @[MIT]@ @{~amd64 ~x86}@
-    ** "@freshen@":http://github.com/rlisagor/freshen 9999 - Clone of the Cucumber BDD framework for Python @[LGPL-3]@ @{~amd64 ~x86}@
+    ** "@freshen@":http://github.com/rlisagor/freshen 9999(@git@) - Clone of the Cucumber BDD framework for Python @[LGPL-3]@ @{~amd64 ~x86}@
     ** "@html@":http://pypi.python.org/pypi/html/ 1.7, 1.8 - simple, elegant HTML/XHTML generation @[BSD]@ @{~amd64 ~x86}@
     ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ 1.0 - Provides an interactive console for doctests @[LGPL-2.1]@ @{amd64 x86}@
     ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ 0.1.2 - Add additional directories to sys.path for nose. @[Apache-2.0]@ @{amd64 x86}@
@@ -73,15 +73,15 @@ h2. Packages
     ** "@be@":http://bugseverywhere.org/be/show/HomePage 0.0.193 - A bugtracker built on distributed revision control @[GPL-2]@ @{amd64 ppc64 x86}@
     ** "@blame@":http://blame.sourceforge.net/ 1.3.1 - Annotates RCS files in a style similar to CVS's annotate command @[GPL-2]@ @{amd64 x86}@
     ** "@ccontrol@":http://ccontrol.ozlabs.org/ 0.9.1 - Utility to manage ccache and distcc @[GPL-2]@ @{amd64 x86}@
-    ** "@ditz@":http://ditz.rubyforge.org 0.5-r1, 9999 - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@ @{~amd64 ~x86}@
+    ** "@ditz@":http://ditz.rubyforge.org 0.5-r1, 9999(@git@) - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@ @{~amd64 ~x86}@
     ** "@fossil@":http://www.fossil-scm.org/index.html/doc/tip/www/index.wiki 0.20091220213451, 0.20100112141013 - Simple, high-reliability, distributed software configuration management @[GPL-2]@ @{~amd64 ~x86}@
     ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2 GPL-3]@ @{amd64 x86}@
     ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@ @{amd64 x86}@
-    ** "@hub@":http://github.com/defunkt/hub 9999 - hub is a command line utility which adds GitHub knowledge to git @[MIT]@ @{~amd64 ~x86}@
+    ** "@hub@":http://github.com/defunkt/hub 9999(@git@) - hub is a command line utility which adds GitHub knowledge to git @[MIT]@ @{~amd64 ~x86}@
     ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@ @{-* amd64 x86}@
 * @mail-client@
-    ** "@notmuch@":http://notmuchmail.org/ 9999 - Thread-based email index, search and tagging. @[GPL-3]@ @{~amd64 ~x86}@
-    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk 9999 - A Gtk+ interface to the notmuch mail client. @[GPL-3]@ @{~amd64}@
+    ** "@notmuch@":http://notmuchmail.org/ 9999(@git@) - Thread-based email index, search and tagging. @[GPL-3]@ @{~amd64 ~x86}@
+    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk 9999(@git@) - A Gtk+ interface to the notmuch mail client. @[GPL-3]@ @{~amd64}@
 * @mail-filter@
     ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml 1.2.7 - Quick Spam Filter, with support for multiple databases @[Artistic-2]@ @{amd64 x86}@
 * @media-gfx@
@@ -91,7 +91,7 @@ h2. Packages
     ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ 1.0 - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@ @{amd64 x86}@
 * @media-sound@
     ** "@hpodder@":http://software.complete.org/hpodder 1.1.5 - Podcast Aggregator (downloader) @[GPL-2]@ @{~amd64 ~x86}@
-    ** "@mpdcron@":http://alip.github.com/mpdcron/ 0.3, 9999 - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@mpdcron@":http://alip.github.com/mpdcron/ 0.3, 9999(@git@) - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@ @{~amd64 ~x86}@
 * @net-mail@
     ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ 3.0 - Generate statistics from mbox and maildir folders @[GPL-2]@ @{amd64 x86}@
     ** "@rss2email@":http://rss2email.infogami.com/ 2.65.1 - A python script that converts RSS newsfeeds to email @[GPL-2]@ @{amd64 x86}@
@@ -100,7 +100,7 @@ h2. Packages
 * @www-client@
     ** "@cupage@":http://github.com/JNRowe/cupage 0.3.0, 0.3.1 - A tool to check for updates on web pages @[GPL-3]@ @{~amd64 ~x86}@
     ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@ @{amd64 x86}@
-    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999 - A fast unix command line interface to WWW @[public-domain]@ @{~amd64 ~hppa ~ppc ~sparc ~x86}@
+    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999(@git@) - A fast unix command line interface to WWW @[public-domain]@ @{~amd64 ~hppa ~ppc ~sparc ~x86}@
 * @x11-libs@
     ** "@ghosd@":http://neugierig.org/software/ghosd/ 0.0.1 - On-screen display with transparency @[MIT]@ @{~amd64 ~x86}@
 * @x11-misc@
@@ -108,9 +108,9 @@ h2. Packages
     ** @winmatch@ 0.5 - A simple window matching utility, like devilspie @[GPL-2]@ @{~amd64 ~x86}@
     ** "@yalias@":http://offog.org/code/ 0.7 - A simple content sensitive command launcher. @[GPL-2]@ @{~amd64 ~x86}@
 * @x11-plugins@
-    ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999 - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@ @{~amd64 ~x86}@
-    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21, 1.0.22, 9999 - vicious widgets for the awesome window manager @[GPL-2]@ @{~amd64 ~x86}@
-    ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999 - Widget creation library for x11-wm/awesome @[WTFPL-2]@ @{~amd64 ~x86}@
+    ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@ @{~amd64 ~x86}@
+    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21, 1.0.22, 9999(@git@) - vicious widgets for the awesome window manager @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - Widget creation library for x11-wm/awesome @[WTFPL-2]@ @{~amd64 ~x86}@
 * @x11-wm@
     ** "@parti@":http://code.google.com/p/partiwm/ 0.0.6 - Parti is a tabbing/tiling window manager @[GPL-2]@ @{amd64 x86}@
     ** "@subtle@":http://unexist.scrapping.cc/projects/show/subtle 0.8.1602 - A tiling window manager with mouse and keyboard control @[GPL-2]@ @{amd64 x86}@
