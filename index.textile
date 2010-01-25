@@ -100,7 +100,7 @@ h2. Packages
 * @www-client@
     ** "@cupage@":http://github.com/JNRowe/cupage 0.3.0, 0.3.1 - A tool to check for updates on web pages @[GPL-3]@ @{~amd64 ~x86}@
     ** "@opera-remote@":http://goron.de/~froese/opera-remote/ 0.1 - Send remote commands to a running Opera instance @[as-is]@ @{amd64 x86}@
-    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999(@git@) - A fast unix command line interface to WWW @[public-domain]@ @{~amd64 ~hppa ~ppc ~sparc ~x86}@
+    ** "@surfraw@":http://surfraw.alioth.debian.org/ 9999(@git@) - A fast unix command line interface to WWW @[public-domain]@ @{}@
 * @x11-libs@
     ** "@ghosd@":http://neugierig.org/software/ghosd/ 0.0.1 - On-screen display with transparency @[MIT]@ @{~amd64 ~x86}@
 * @x11-misc@
