@@ -108,7 +108,7 @@ h2. Packages
     ** @winmatch@ 0.5 - A simple window matching utility, like devilspie @[GPL-2]@ @{~amd64 ~x86}@
     ** "@yalias@":http://offog.org/code/ 0.7 - A simple content sensitive command launcher. @[GPL-2]@ @{~amd64 ~x86}@
 * @x11-plugins@
-    ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@ @{~amd64 ~x86}@
+    ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@ @{}@
     ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21, 1.0.22, 9999(@git@) - vicious widgets for the awesome window manager @[GPL-2]@ @{~amd64 ~x86}@
     ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - Widget creation library for x11-wm/awesome @[WTFPL-2]@ @{~amd64 ~x86}@
 * @x11-wm@
