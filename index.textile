@@ -109,7 +109,7 @@ h2. Packages
     ** "@yalias@":http://offog.org/code/ 0.7 - A simple content sensitive command launcher. @[GPL-2]@ @{~amd64 ~x86}@
 * @x11-plugins@
     ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@ @{}@
-    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21, 1.0.22, 9999(@git@) - vicious widgets for the awesome window manager @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21, 1.0.22, 9999(@git@) - vicious widgets for the awesome window manager @[GPL-2]@ @{}@
     ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - Widget creation library for x11-wm/awesome @[WTFPL-2]@ @{~amd64 ~x86}@
 * @x11-wm@
     ** "@parti@":http://code.google.com/p/partiwm/ 0.0.6 - Parti is a tabbing/tiling window manager @[GPL-2]@ @{amd64 x86}@
