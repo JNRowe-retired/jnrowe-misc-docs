@@ -81,7 +81,7 @@ h2. Packages
     ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@ @{-* amd64 x86}@
 * @mail-client@
     ** "@notmuch@":http://notmuchmail.org/ 9999(@git@) - Thread-based email index, search and tagging. @[GPL-3]@ @{}@
-    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk 9999(@git@) - A Gtk+ interface to the notmuch mail client. @[GPL-3]@ @{~amd64}@
+    ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk 9999(@git@) - A Gtk+ interface to the notmuch mail client. @[GPL-3]@ @{}@
 * @mail-filter@
     ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml 1.2.7 - Quick Spam Filter, with support for multiple databases @[Artistic-2]@ @{amd64 x86}@
 * @media-gfx@
