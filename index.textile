@@ -21,7 +21,7 @@ h2. Packages
 
 * @app-admin@
     ** "@spill@":http://www.rpcurnow.force9.co.uk/spill/ 0.8 - Creates symlinks from one directory hierarchy to another(like stow) @[GPL-2]@ @{~amd64 ~x86}@
-    ** "@stow@":http://savannah.gnu.org/projects/stow/ 9999(@git@) - Manage installation of software in via symlinks @[GPL-2]@ @{~amd64 ~ppc ~x86}@
+    ** "@stow@":http://savannah.gnu.org/projects/stow/ 9999(@git@) - Manage installation of software in via symlinks @[GPL-2]@ @{}@
 * @app-misc@
     ** "@asciiquarium@":http://www.robobunny.com/projects/asciiquarium/html/ 1.0 - Enjoy the mysteries of the sea from the safety of your own terminal @[GPL-2]@ @{~amd64 ~x86}@
     ** "@sunwait@":http://www.risacher.org/sunwait/ 20041208 - Tool for calculating sunrise and sunset, and sleeping until such an event. @[GPL-2]@ @{~amd64 ~x86}@
