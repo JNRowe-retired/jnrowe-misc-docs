@@ -110,7 +110,7 @@ h2. Packages
 * @x11-plugins@
     ** "@obvious@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@ @{}@
     ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious 1.0.21, 1.0.22, 9999(@git@) - vicious widgets for the awesome window manager @[GPL-2]@ @{}@
-    ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - Widget creation library for x11-wm/awesome @[WTFPL-2]@ @{~amd64 ~x86}@
+    ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked 9999(@git@) - Widget creation library for x11-wm/awesome @[WTFPL-2]@ @{}@
 * @x11-wm@
     ** "@parti@":http://code.google.com/p/partiwm/ 0.0.6 - Parti is a tabbing/tiling window manager @[GPL-2]@ @{amd64 x86}@
     ** "@subtle@":http://unexist.scrapping.cc/projects/show/subtle 0.8.1602 - A tiling window manager with mouse and keyboard control @[GPL-2]@ @{amd64 x86}@
