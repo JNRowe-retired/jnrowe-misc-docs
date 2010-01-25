@@ -91,7 +91,7 @@ h2. Packages
     ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ 1.0 - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@ @{amd64 x86}@
 * @media-sound@
     ** "@hpodder@":http://software.complete.org/hpodder 1.1.5 - Podcast Aggregator (downloader) @[GPL-2]@ @{~amd64 ~x86}@
-    ** "@mpdcron@":http://alip.github.com/mpdcron/ 0.3, 9999(@git@) - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@ @{~amd64 ~x86}@
+    ** "@mpdcron@":http://alip.github.com/mpdcron/ 0.3, 9999(@git@) - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@ @{}@
 * @net-mail@
     ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ 3.0 - Generate statistics from mbox and maildir folders @[GPL-2]@ @{amd64 x86}@
     ** "@rss2email@":http://rss2email.infogami.com/ 2.65.1 - A python script that converts RSS newsfeeds to email @[GPL-2]@ @{amd64 x86}@
