@@ -77,7 +77,7 @@ h2. Packages
     ** "@fossil@":http://www.fossil-scm.org/index.html/doc/tip/www/index.wiki 0.20091220213451, 0.20100112141013 - Simple, high-reliability, distributed software configuration management @[GPL-2]@ @{~amd64 ~x86}@
     ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ 0.18 - Assorted geany plugins, including version control and lua support @[GPL-2 GPL-3]@ @{amd64 x86}@
     ** "@gitserve@":http://github.com/jezdez/git-serve/ 0.2.0 - A helper tool for git that mimics mercurial's serve command @[GPL-2]@ @{amd64 x86}@
-    ** "@hub@":http://github.com/defunkt/hub 9999(@git@) - hub is a command line utility which adds GitHub knowledge to git @[MIT]@ @{~amd64 ~x86}@
+    ** "@hub@":http://github.com/defunkt/hub 9999(@git@) - hub is a command line utility which adds GitHub knowledge to git @[MIT]@ @{}@
     ** "@wingide@":http://www.wingware.com/wingide 3.2.0.1 - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@ @{-* amd64 x86}@
 * @mail-client@
     ** "@notmuch@":http://notmuchmail.org/ 9999(@git@) - Thread-based email index, search and tagging. @[GPL-3]@ @{~amd64 ~x86}@
