@@ -191,6 +191,7 @@ h2. Packages
 ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious - vicious widgets for the awesome window manager @[GPL-2]@
 *** "1.0.21":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/vicious/vicious-1.0.21.ebuild @~amd64@(indefinite), @~x86@(indefinite)
 *** "1.0.22":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/vicious/vicious-1.0.22.ebuild @~amd64@(due 2010-02-13), @~x86@(due 2010-02-13)
+*** "1.0.23":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/vicious/vicious-1.0.23.ebuild @~amd64@(due 2010-03-08), @~x86@(due 2010-03-08)
 *** 9999(@git@) (masked by @package.mask@)
 ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked - Widget creation library for x11-wm/awesome @[WTFPL-2]@
 *** 9999(@git@) (masked by @package.mask@)
