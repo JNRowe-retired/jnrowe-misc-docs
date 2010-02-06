@@ -180,6 +180,8 @@ h2. Packages
 *** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/gselt/gselt-1.2.ebuild @~amd64@(due 2010-02-11), @~x86@(due 2010-02-11)
 ** @winmatch@ - A simple window matching utility, like devilspie @[GPL-2]@
 *** "0.5":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/winmatch/winmatch-0.5.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
+** "@winwrangler@":https://launchpad.net/winwrangler - WM agnostic tool to perform window tiling @[LGPL-3]@
+*** "0.2.4":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/winwrangler/winwrangler-0.2.4.ebuild @~amd64@(due 2010-03-08), @~x86@(due 2010-03-08)
 ** "@yalias@":http://offog.org/code/ - A simple content sensitive command launcher. @[GPL-2]@
 *** "0.7":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/yalias/yalias-0.7.ebuild @~amd64@(due 2010-02-13), @~x86@(due 2010-02-13)
 * @x11-plugins@
@@ -225,6 +227,7 @@ h3. Bug reports
 h3. Ideas
 
 * Jamie Ashton
+* Patrick Sauvé
 * Ryan Lewis
 * Scott Hunter
 * Tony McKenzie
