@@ -174,7 +174,7 @@ h2. Packages
 *** 9999(@git@) (masked by @package.mask@)
 * @x11-libs@
 ** "@ghosd@":http://neugierig.org/software/ghosd/ - On-screen display with transparency @[MIT]@
-*** "0.0.1":http://github.com/JNRowe/misc-overlay/blob/master/x11-libs/ghosd/ghosd-0.0.1.ebuild @~amd64@(due 2010-02-08), @~x86@(due 2010-02-08)
+*** "0.0.1":http://github.com/JNRowe/misc-overlay/blob/master/x11-libs/ghosd/ghosd-0.0.1.ebuild amd64, @~x86@(due 2010-02-08)
 * @x11-misc@
 ** "@gselt@":http://offog.org/code/gselt.html - Watches the X selection and displays context sensitive actions @[GPL-2]@
 *** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/gselt/gselt-1.2.ebuild @~amd64@(due 2010-02-11), @~x86@(due 2010-02-11)
