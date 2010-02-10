@@ -30,9 +30,9 @@ h2. Packages
 ** "@sunwait@":http://www.risacher.org/sunwait/ - Tool for calculating sunrise and sunset, and sleeping until such an event. @[GPL-2]@
 *** "20041208":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/sunwait/sunwait-20041208.ebuild @~amd64@(due 2010-02-13), @~x86@(due 2010-02-13)
 ** "@taskwarrior@":http://taskwarrior.org/projects/show/taskwarrior/ - A GTD, todo list, task management, command line utility @[GPL-2]@
-*** "1.8.5":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/taskwarrior/taskwarrior-1.8.5.ebuild amd64, x86
+*** "1.8.5":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/taskwarrior/taskwarrior-1.8.5.ebuild @amd64@, @x86@
 ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
-*** "0.6":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.6.ebuild amd64, x86
+*** "0.6":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.6.ebuild @amd64@, @x86@
 *** "0.6.1":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.6.1.ebuild @~amd64@(due 2010-02-16), @~x86@(due 2010-02-16)
 ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ - Create an ASCII animation that simulates the weather @[GPL-2]@
 *** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/weatherspect/weatherspect-1.8.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
@@ -41,14 +41,14 @@ h2. Packages
 *** "0.03":http://github.com/JNRowe/misc-overlay/blob/master/app-mobilephone/pyhumod/pyhumod-0.03.ebuild @~amd64@(due 2010-02-13), @~x86@(due 2010-02-13)
 * @app-text@
 ** "@apvlv@":http://code.google.com/p/apvlv/ - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@
-*** "0.0.9":http://github.com/JNRowe/misc-overlay/blob/master/app-text/apvlv/apvlv-0.0.9.ebuild amd64, x86
+*** "0.0.9":http://github.com/JNRowe/misc-overlay/blob/master/app-text/apvlv/apvlv-0.0.9.ebuild @amd64@, @x86@
 *** "0.0.9.2":http://github.com/JNRowe/misc-overlay/blob/master/app-text/apvlv/apvlv-0.0.9.2.ebuild @~amd64@(due 2010-02-25), @~x86@(due 2010-02-25)
 *** "0.0.9.3":http://github.com/JNRowe/misc-overlay/blob/master/app-text/apvlv/apvlv-0.0.9.3.ebuild @~amd64@(due 2010-03-08), @~x86@(due 2010-03-08)
 ** "@gist@":http://github.com/defunkt/gist - Absolutely the best command line gister @[MIT]@
 *** 9999(@git@) (masked by @package.mask@)
 * @app-vim@
 ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@
-*** "4.1":http://github.com/JNRowe/misc-overlay/blob/master/app-vim/rails/rails-4.1.ebuild amd64, x86
+*** "4.1":http://github.com/JNRowe/misc-overlay/blob/master/app-vim/rails/rails-4.1.ebuild @amd64@, @x86@
 * @dev-haskell@
 ** "@configfile@":http://software.complete.org/configfile - Parser and writer for handling sectioned config files in Haskell. @[LGPL-2.1]@
 *** "1.0.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-haskell/configfile/configfile-1.0.5.ebuild @~amd64@(indefinite), @~x86@(indefinite)
@@ -56,12 +56,12 @@ h2. Packages
 *** "1.0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-haskell/missingh/missingh-1.0.3.ebuild @~amd64@(indefinite), @~x86@(indefinite)
 * @dev-lang@
 ** "@wirbel@":http://mathias-kettner.de/wirbel.html - A compiled programming language with syntax and semantics similar to Python @[GPL-2]@
-*** "0.1.11":http://github.com/JNRowe/misc-overlay/blob/master/dev-lang/wirbel/wirbel-0.1.11.ebuild amd64, x86
+*** "0.1.11":http://github.com/JNRowe/misc-overlay/blob/master/dev-lang/wirbel/wirbel-0.1.11.ebuild @amd64@, @x86@
 * @dev-libs@
 ** "@luainotify@":http://www3.telus.net/taj_khattra/luainotify.html - a Lua interface to the Linux inotify subsystem @[as-is]@
-*** "0.20090818":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luainotify/luainotify-0.20090818.ebuild amd64, x86
+*** "0.20090818":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luainotify/luainotify-0.20090818.ebuild @amd64@, @x86@
 ** "@luaposix@":http://luaforge.net/projects/luaposix/ - POSIX function support library for lua @[public-domain]@
-*** "5.1.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luaposix/luaposix-5.1.4.ebuild amd64, x86
+*** "5.1.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luaposix/luaposix-5.1.4.ebuild @amd64@, @x86@
 * @dev-perl@
 ** "@Term-Animation@":http://search.cpan.org/dist/Term-Animation/ - ASCII sprite animation framework @[Artistic]@
 *** "2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Term-Animation/Term-Animation-2.4.ebuild @~amd64@(due 2010-02-11), @~x86@(due 2010-02-11)
@@ -69,69 +69,69 @@ h2. Packages
 *** "3.02":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Weather-Underground/Weather-Underground-3.02.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
 * @dev-python@
 ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html - Calculations for the position of the sun @[MIT]@
-*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.1.ebuild amd64, x86
+*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.1.ebuild @amd64@, @x86@
 ** "@feedcache@":http://www.doughellmann.com/projects/feedcache/ - Wrapper for the Universal Feed Parser which caches the results @[MIT]@
 *** "1.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/feedcache/feedcache-1.3.1.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
 ** "@freshen@":http://github.com/rlisagor/freshen - Clone of the Cucumber BDD framework for Python @[LGPL-3]@
 *** 9999(@git@) (masked by @package.mask@)
 ** "@html@":http://pypi.python.org/pypi/html/ - simple, elegant HTML/XHTML generation @[BSD]@
-*** "1.7":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.7.ebuild amd64, x86
+*** "1.7":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.7.ebuild @amd64@, @x86@
 *** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.8.ebuild @~amd64@(due 2010-02-14), @~x86@(due 2010-02-14)
 ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ - Provides an interactive console for doctests @[LGPL-2.1]@
-*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/interlude/interlude-1.0.ebuild amd64, x86
+*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/interlude/interlude-1.0.ebuild @amd64@, @x86@
 ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ - Add additional directories to sys.path for nose. @[Apache-2.0]@
-*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/nose-pathmunge/nose-pathmunge-0.1.2.ebuild amd64, x86
+*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/nose-pathmunge/nose-pathmunge-0.1.2.ebuild @amd64@, @x86@
 ** "@nosetty@":http://code.google.com/p/nosetty/ - A plugin to run nosetests more interactively @[LGPL-2.1]@
-*** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/nosetty/nosetty-0.4.ebuild amd64, x86
+*** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/nosetty/nosetty-0.4.ebuild @amd64@, @x86@
 ** "@pep8@":http://github.com/cburroughs/pep8.py - A tool to check your Python code against the conventions in PEP 8 @[MIT]@
-*** "0.4.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.4.2.ebuild amd64, x86
+*** "0.4.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.4.2.ebuild @amd64@, @x86@
 ** "@pycukes@":http://github.com/hugobr/pycukes - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
-*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.1.2.ebuild amd64, x86
+*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.1.2.ebuild @amd64@, @x86@
 ** "@pydelicious@":http://code.google.com/p/pydelicious/ - Access the web service of del.icio.us via it's API through python @[BSD]@
-*** "0.5.2_rc2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pydelicious/pydelicious-0.5.2_rc2.ebuild amd64, x86
+*** "0.5.2_rc2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pydelicious/pydelicious-0.5.2_rc2.ebuild @amd64@, @x86@
 ** "@pyhistorian@":http://github.com/hugobr/pyhistorian - A BDD tool for writing specs using Given-When-Then template @[MIT]@
-*** "0.6.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyhistorian/pyhistorian-0.6.3.ebuild amd64, x86
+*** "0.6.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyhistorian/pyhistorian-0.6.3.ebuild @amd64@, @x86@
 ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
-*** "0.5.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyisbn/pyisbn-0.5.1.ebuild amd64, x86
+*** "0.5.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyisbn/pyisbn-0.5.1.ebuild @amd64@, @x86@
 ** "@rednose@":http://github.com/gfxmonk/rednose/ - coloured output for nosetests @[BSD]@
-*** "0.1.4-r1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rednose/rednose-0.1.4-r1.ebuild amd64, x86
+*** "0.1.4-r1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rednose/rednose-0.1.4-r1.ebuild @amd64@, @x86@
 ** "@restview@":http://mg.pov.lt/restview/ - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
-*** "1.1.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/restview/restview-1.1.3.ebuild amd64, x86
+*** "1.1.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/restview/restview-1.1.3.ebuild @amd64@, @x86@
 ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ - Colour output plugin for the nose testing framework @[ZPL]@
-*** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rudolf/rudolf-0.3.ebuild amd64, x86
+*** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rudolf/rudolf-0.3.ebuild @amd64@, @x86@
 ** "@should_dsl@":http://github.com/hugobr/should-dsl - Should assertions in Python as clear and readable as possible @[MIT]@
-*** "1.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/should_dsl/should_dsl-1.2.1.ebuild amd64, x86
+*** "1.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/should_dsl/should_dsl-1.2.1.ebuild @amd64@, @x86@
 ** "@story_parser@":http://github.com/hugobr/story_parser - A Given/When/Then BDD stories parser @[MIT]@
-*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/story_parser/story_parser-0.1.2.ebuild amd64, x86
+*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/story_parser/story_parser-0.1.2.ebuild @amd64@, @x86@
 ** "@termcolor@":http://pypi.python.org/pypi/termcolor/ - ANSI color formatting for terminals @[GPL-2]@
-*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termcolor/termcolor-0.1.2.ebuild amd64, x86
+*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termcolor/termcolor-0.1.2.ebuild @amd64@, @x86@
 ** "@termstyle@":http://github.com/gfxmonk/termstyle - a dirt-simple terminal-colour library @[BSD]@
-*** "0.1.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termstyle/termstyle-0.1.5.ebuild amd64, x86
+*** "0.1.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termstyle/termstyle-0.1.5.ebuild @amd64@, @x86@
 ** "@texttable@":http://pypi.python.org/pypi/texttable/ - module to generate a formatted text table, using ASCII characters. @[LGPL-2.1]@
 *** "0.7.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/texttable/texttable-0.7.0.ebuild @~amd64@(due 2010-03-01)
 ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html - Modules for working with points on Earth @[GPL-3]@
-*** "0.11.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/upoints/upoints-0.11.0.ebuild amd64, x86
+*** "0.11.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/upoints/upoints-0.11.0.ebuild @amd64@, @x86@
 * @dev-ruby@
 ** "@trollop@":http://trollop.rubyforge.org - Provide the maximal amount of GNU-style argument processing in ruby @[Ruby]@
-*** "1.15":http://github.com/JNRowe/misc-overlay/blob/master/dev-ruby/trollop/trollop-1.15.ebuild amd64, x86
+*** "1.15":http://github.com/JNRowe/misc-overlay/blob/master/dev-ruby/trollop/trollop-1.15.ebuild @amd64@, @x86@
 * @dev-util@
 ** "@be@":http://bugseverywhere.org/be/show/HomePage - A bugtracker built on distributed revision control @[GPL-2]@
-*** "0.0.193":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/be/be-0.0.193.ebuild amd64, ppc64, x86 (masked by @package.mask@)
+*** "0.0.193":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/be/be-0.0.193.ebuild @amd64@, @ppc64@, @x86@ (masked by @package.mask@)
 ** "@blame@":http://blame.sourceforge.net/ - Annotates RCS files in a style similar to CVS's annotate command @[GPL-2]@
-*** "1.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/blame/blame-1.3.1.ebuild amd64, x86
+*** "1.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/blame/blame-1.3.1.ebuild @amd64@, @x86@
 ** "@ccontrol@":http://ccontrol.ozlabs.org/ - Utility to manage ccache and distcc @[GPL-2]@
-*** "0.9.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ccontrol/ccontrol-0.9.1.ebuild amd64, x86
+*** "0.9.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ccontrol/ccontrol-0.9.1.ebuild @amd64@, @x86@
 ** "@ditz@":http://ditz.rubyforge.org - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@
-*** "0.5-r1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ditz/ditz-0.5-r1.ebuild amd64, x86
+*** "0.5-r1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ditz/ditz-0.5-r1.ebuild @amd64@, @x86@
 *** 9999(@git@) (masked by @package.mask@)
 ** "@geany-plugins@":http://plugins.geany.org/geany-plugins/ - Assorted geany plugins, including version control and lua support @[GPL-2 GPL-3]@
-*** "0.18":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/geany-plugins/geany-plugins-0.18.ebuild amd64, x86
+*** "0.18":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/geany-plugins/geany-plugins-0.18.ebuild @amd64@, @x86@
 ** "@gitserve@":http://github.com/jezdez/git-serve/ - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
-*** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/gitserve/gitserve-0.2.0.ebuild amd64, x86
+*** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/gitserve/gitserve-0.2.0.ebuild @amd64@, @x86@
 ** "@hub@":http://github.com/defunkt/hub - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
 *** 9999(@git@) (masked by @package.mask@)
 ** "@wingide@":http://www.wingware.com/wingide - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@
-*** "3.2.0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/wingide/wingide-3.2.0.1.ebuild -*, amd64, x86 (masked by @package.mask@)
+*** "3.2.0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/wingide/wingide-3.2.0.1.ebuild @-*@, @amd64@, @x86@ (masked by @package.mask@)
 * @mail-client@
 ** "@notmuch@":http://notmuchmail.org/ - Thread-based email index, search and tagging. @[GPL-3]@
 *** 9999(@git@) (masked by @package.mask@)
@@ -139,16 +139,16 @@ h2. Packages
 *** 9999(@git@) (masked by @package.mask@)
 * @mail-filter@
 ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml - Quick Spam Filter, with support for multiple databases @[Artistic-2]@
-*** "1.2.7":http://github.com/JNRowe/misc-overlay/blob/master/mail-filter/qsf/qsf-1.2.7.ebuild amd64, x86
+*** "1.2.7":http://github.com/JNRowe/misc-overlay/blob/master/mail-filter/qsf/qsf-1.2.7.ebuild @amd64@, @x86@
 * @media-gfx@
 ** "@aafigure@":https://launchpad.net/aafigure - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@
-*** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/aafigure/aafigure-0.4.ebuild amd64, x86
+*** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/aafigure/aafigure-0.4.ebuild @amd64@, @x86@
 ** "@psplash@":http://labs.o-hand.com/psplash/ - A tiny userspace graphical boot splash screen @[GPL-2]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/psplash/psplash-0.1.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
 ** "@sng@":http://www.catb.org/~esr/sng/ - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@
-*** "1.0.2":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sng/sng-1.0.2.ebuild amd64, x86
+*** "1.0.2":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sng/sng-1.0.2.ebuild @amd64@, @x86@
 ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
-*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-aafig/sphinxcontrib-aafig-1.0.ebuild amd64, x86
+*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-aafig/sphinxcontrib-aafig-1.0.ebuild @amd64@, @x86@
 * @media-sound@
 ** "@hpodder@":http://software.complete.org/hpodder - Podcast Aggregator (downloader) @[GPL-2]@
 *** "1.1.5":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/hpodder/hpodder-1.1.5.ebuild @~amd64@(indefinite), @~x86@(indefinite)
@@ -157,23 +157,23 @@ h2. Packages
 *** 9999(@git@) (masked by @package.mask@)
 * @net-mail@
 ** "@mboxstats@":http://www.vanheusden.com/mboxstats/ - Generate statistics from mbox and maildir folders @[GPL-2]@
-*** "3.0":http://github.com/JNRowe/misc-overlay/blob/master/net-mail/mboxstats/mboxstats-3.0.ebuild amd64, x86
+*** "3.0":http://github.com/JNRowe/misc-overlay/blob/master/net-mail/mboxstats/mboxstats-3.0.ebuild @amd64@, @x86@
 ** "@rss2email@":http://rss2email.infogami.com/ - A python script that converts RSS newsfeeds to email @[GPL-2]@
-*** "2.65.1":http://github.com/JNRowe/misc-overlay/blob/master/net-mail/rss2email/rss2email-2.65.1.ebuild amd64, x86
+*** "2.65.1":http://github.com/JNRowe/misc-overlay/blob/master/net-mail/rss2email/rss2email-2.65.1.ebuild @amd64@, @x86@
 * @www-apps@
 ** "@mnemosyne@":http://www.red-bean.com/decklin/mnemosyne/ - A static weblog compiler, using maildirs and reST @[MIT]@
 *** "0.12":http://github.com/JNRowe/misc-overlay/blob/master/www-apps/mnemosyne/mnemosyne-0.12.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
 * @www-client@
 ** "@cupage@":http://github.com/JNRowe/cupage - A tool to check for updates on web pages @[GPL-3]@
-*** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/www-client/cupage/cupage-0.3.1.ebuild amd64, x86
+*** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/www-client/cupage/cupage-0.3.1.ebuild @amd64@, @x86@
 *** "0.4.0":http://github.com/JNRowe/misc-overlay/blob/master/www-client/cupage/cupage-0.4.0.ebuild @~amd64@(due 2010-02-27), @~x86@(due 2010-02-27)
 ** "@opera-remote@":http://goron.de/~froese/opera-remote/ - Send remote commands to a running Opera instance @[as-is]@
-*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/www-client/opera-remote/opera-remote-0.1.ebuild amd64, x86
+*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/www-client/opera-remote/opera-remote-0.1.ebuild @amd64@, @x86@
 ** "@surfraw@":http://surfraw.alioth.debian.org/ - A fast unix command line interface to WWW @[public-domain]@
 *** 9999(@git@) (masked by @package.mask@)
 * @x11-libs@
 ** "@ghosd@":http://neugierig.org/software/ghosd/ - On-screen display with transparency @[MIT]@
-*** "0.0.1":http://github.com/JNRowe/misc-overlay/blob/master/x11-libs/ghosd/ghosd-0.0.1.ebuild amd64, x86
+*** "0.0.1":http://github.com/JNRowe/misc-overlay/blob/master/x11-libs/ghosd/ghosd-0.0.1.ebuild @amd64@, @x86@
 * @x11-misc@
 ** "@gselt@":http://offog.org/code/gselt.html - Watches the X selection and displays context sensitive actions @[GPL-2]@
 *** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/gselt/gselt-1.2.ebuild @~amd64@(due 2010-02-11), @~x86@(due 2010-02-11)
@@ -195,9 +195,9 @@ h2. Packages
 *** 9999(@git@) (masked by @package.mask@)
 * @x11-wm@
 ** "@parti@":http://code.google.com/p/partiwm/ - Parti is a tabbing/tiling window manager @[GPL-2]@
-*** "0.0.6":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/parti/parti-0.0.6.ebuild amd64, x86
+*** "0.0.6":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/parti/parti-0.0.6.ebuild @amd64@, @x86@
 ** "@subtle@":http://unexist.scrapping.cc/projects/show/subtle - A tiling window manager with mouse and keyboard control @[GPL-2]@
-*** "0.8.1602":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/subtle/subtle-0.8.1602.ebuild amd64, x86 (masked by @package.mask@)
+*** "0.8.1602":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/subtle/subtle-0.8.1602.ebuild @amd64@, @x86@ (masked by @package.mask@)
 *** "0.8.1710":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/subtle/subtle-0.8.1710.ebuild @~amd64@(due 2010-02-25), @~x86@(due 2010-02-25) (masked by @package.mask@)
 
 h2. License
