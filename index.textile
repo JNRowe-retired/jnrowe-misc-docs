@@ -13,6 +13,8 @@ Packages that don't naturally fit in to my other themed overlays.
 
 If you find any problems with ebuilds in this overlay either drop me an "email":jnrowe@gmail.com or file an "issue":http://github.com/JNRowe/misc-overlay/issues.  Locally bugs are managed with "ditz":http://ditz.rubyforge.org/, so if you're working with a clone of the repository you can report, list and fix bugs using @dev-util/ditz@.
 
+You can view the "current bug status":ditz/index.html without installing @dtiz@.
+
 h2. Installation
 
 Up to date installation instructions are contained within the repositories @README.rst@ file, which can be "viewed online":http://github.com/JNRowe/misc-overlay/blob/master/README.rst.
