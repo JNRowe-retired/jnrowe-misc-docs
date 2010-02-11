@@ -186,7 +186,7 @@ h2. Packages
 *** "0.0.1":http://github.com/JNRowe/misc-overlay/blob/master/x11-libs/ghosd/ghosd-0.0.1.ebuild @amd64@, @x86@
 * @x11-misc@
 ** "@gselt@":http://offog.org/code/gselt.html - Watches the X selection and displays context sensitive actions @[GPL-2]@
-*** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/gselt/gselt-1.2.ebuild @~amd64@(due 2010-02-11), @~x86@(due 2010-02-11)
+*** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/gselt/gselt-1.2.ebuild @amd64@, @~x86@(due 2010-02-11)
 ** @winmatch@ - A simple window matching utility, like devilspie @[GPL-2]@
 *** "0.5":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/winmatch/winmatch-0.5.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
 ** "@winwrangler@":https://launchpad.net/winwrangler - WM agnostic tool to perform window tiling @[LGPL-3]@
