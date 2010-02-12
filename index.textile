@@ -154,7 +154,7 @@ h2. Packages
 ** "@aafigure@":https://launchpad.net/aafigure - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@
 *** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/aafigure/aafigure-0.4.ebuild @amd64@, @x86@
 ** "@psplash@":http://labs.o-hand.com/psplash/ - A tiny userspace graphical boot splash screen @[GPL-2]@
-*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/psplash/psplash-0.1.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
+*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/psplash/psplash-0.1.ebuild @amd64@, @~x86@(due 2010-02-12)
 ** "@sng@":http://www.catb.org/~esr/sng/ - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@
 *** "1.0.2":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sng/sng-1.0.2.ebuild @amd64@, @x86@
 ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
