@@ -72,6 +72,8 @@ h2. Packages
 * @dev-python@
 ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html - Calculations for the position of the sun @[MIT]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.1.ebuild @amd64@, @x86@
+** "@clepy@":http://pypi.python.org/pypi/clepy/ - Utilities from the Cleveland Python user group @[MIT]@
+*** "0.3.16":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/clepy/clepy-0.3.16.ebuild @~amd64@(due 2010-03-14), @~x86@(due 2010-03-14)
 ** "@dtopt@":http://pypi.python.org/pypi/dtopt/ - Add options to doctest examples while they are running @[MIT]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dtopt/dtopt-0.1.ebuild @~amd64@(due 2010-03-12), @~x86@(due 2010-03-12)
 ** "@feedcache@":http://www.doughellmann.com/projects/feedcache/ - Wrapper for the Universal Feed Parser which caches the results @[MIT]@
