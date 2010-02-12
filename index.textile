@@ -68,7 +68,7 @@ h2. Packages
 ** "@Term-Animation@":http://search.cpan.org/dist/Term-Animation/ - ASCII sprite animation framework @[Artistic]@
 *** "2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Term-Animation/Term-Animation-2.4.ebuild @amd64@, @x86@
 ** "@Weather-Underground@":http://search.cpan.org/dist/Weather-Underground/ - Extension for retrieving weather information from wunderground.com @[Artistic]@
-*** "3.02":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Weather-Underground/Weather-Underground-3.02.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
+*** "3.02":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Weather-Underground/Weather-Underground-3.02.ebuild @amd64@, @~x86@(due 2010-02-12)
 * @dev-python@
 ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html - Calculations for the position of the sun @[MIT]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.1.ebuild @amd64@, @x86@
