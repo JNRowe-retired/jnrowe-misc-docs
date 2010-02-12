@@ -37,7 +37,7 @@ h2. Packages
 *** "0.6":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.6.ebuild @amd64@, @x86@
 *** "0.6.1":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.6.1.ebuild @~amd64@(due 2010-02-16), @~x86@(due 2010-02-16)
 ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ - Create an ASCII animation that simulates the weather @[GPL-2]@
-*** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/weatherspect/weatherspect-1.8.ebuild @~amd64@(due 2010-02-12), @~x86@(due 2010-02-12)
+*** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/weatherspect/weatherspect-1.8.ebuild @amd64@, @~x86@(due 2010-02-12)
 * @app-mobilephone@
 ** "@pyhumod@":http://code.google.com/p/pyhumod/ - Accessing Huawei modems in Python, including SMS and data calls. @[BSD]@
 *** "0.03":http://github.com/JNRowe/misc-overlay/blob/master/app-mobilephone/pyhumod/pyhumod-0.03.ebuild @~amd64@(due 2010-02-13), @~x86@(due 2010-02-13)
