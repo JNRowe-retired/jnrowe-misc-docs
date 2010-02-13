@@ -196,7 +196,7 @@ h2. Packages
 ** "@winwrangler@":https://launchpad.net/winwrangler - WM agnostic tool to perform window tiling @[LGPL-3]@
 *** "0.2.4":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/winwrangler/winwrangler-0.2.4.ebuild @~amd64@(due 2010-03-08), @~x86@(due 2010-03-08)
 ** "@yalias@":http://offog.org/code/ - A simple content sensitive command launcher. @[GPL-2]@
-*** "0.7":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/yalias/yalias-0.7.ebuild @amd64@, @~x86@(due 2010-02-13)
+*** "0.7":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/yalias/yalias-0.7.ebuild @amd64@, @x86@
 * @x11-plugins@
 ** "@obvious@":http://awesome.naquadah.org/wiki/Obvious - A set of widgets for x11-wm/awesome that provide helpful information. @[MIT BSD]@
 *** 9999(@git@) (masked by @package.mask@)
