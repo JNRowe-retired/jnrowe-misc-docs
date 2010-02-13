@@ -142,6 +142,8 @@ h2. Packages
 *** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/gitserve/gitserve-0.2.0.ebuild @amd64@, @x86@
 ** "@hub@":http://github.com/defunkt/hub - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
 *** 9999(@git@) (masked by @package.mask@)
+** "@pitz@":http://pitz.tplus1.com/ - A simple issue-tracking system, similar to ditz @[BSD]@
+*** 9999(@git@) (masked by @package.mask@)
 ** "@wingide@":http://www.wingware.com/wingide - Proprietary binary-only Python IDE, 'professional' edition @[wingide]@
 *** "3.2.0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/wingide/wingide-3.2.0.1.ebuild @-*@, @amd64@, @x86@ (masked by @package.mask@)
 * @mail-client@
