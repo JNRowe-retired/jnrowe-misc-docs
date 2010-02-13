@@ -40,7 +40,7 @@ h2. Packages
 *** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/weatherspect/weatherspect-1.8.ebuild @amd64@, @x86@
 * @app-mobilephone@
 ** "@pyhumod@":http://code.google.com/p/pyhumod/ - Accessing Huawei modems in Python, including SMS and data calls. @[BSD]@
-*** "0.03":http://github.com/JNRowe/misc-overlay/blob/master/app-mobilephone/pyhumod/pyhumod-0.03.ebuild @amd64@, @~x86@(due 2010-02-13)
+*** "0.03":http://github.com/JNRowe/misc-overlay/blob/master/app-mobilephone/pyhumod/pyhumod-0.03.ebuild @amd64@, @x86@
 * @app-text@
 ** "@apvlv@":http://code.google.com/p/apvlv/ - apvlv is a PDF Viewer which behaves like Vim @[GPL-2]@
 *** "0.0.9":http://github.com/JNRowe/misc-overlay/blob/master/app-text/apvlv/apvlv-0.0.9.ebuild @amd64@, @x86@
