@@ -13,7 +13,7 @@ Packages that don't naturally fit in to my other themed overlays.
 
 If you find any problems with ebuilds in this overlay either drop me an "email":jnrowe@gmail.com or file an "issue":http://github.com/JNRowe/misc-overlay/issues.  Locally bugs are managed with "ditz":http://ditz.rubyforge.org/, so if you're working with a clone of the repository you can report, list and fix bugs using @dev-util/ditz@.
 
-You can view the "current bug status":ditz/index.html without installing @dtiz@.
+You can view the "current bug status":ditz/index.html without installing @ditz@.
 
 h2. Installation
 
@@ -219,29 +219,30 @@ h2. Contributors
 
 h3. Patches
 
-* Bashshar Qaraja Maloof
 * Leon Bird
-* Matt Leighton
 * Rachel Holmes
+* Matt Leighton
+* Bashshar Qaraja Maloof
 
 h3. Bug reports
 
-* Erin Sandusky
-* Fabien Courtois
 * Jake Archer
-* Jens Wulf
-* Jesper Tremblay
 * Kristian Cole
-* Matthew Turner
+* Fabien Courtois
+* Ed Lyle
+* Erin Sandusky
 * Shi Tang
+* Jesper Tremblay
+* Matthew Turner
+* Jens Wulf
 
 h3. Ideas
 
 * Jamie Ashton
-* Patrick Sauvé
-* Ryan Lewis
 * Scott Hunter
+* Ryan Lewis
 * Tony McKenzie
+* Patrick Sauvé
 
 If I've forgotten to include your name I wholeheartedly apologise.  Just drop me an "email":jnrowe@gmail.com and I'll update the list!
 
