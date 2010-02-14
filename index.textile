@@ -81,8 +81,7 @@ h2. Packages
 ** "@freshen@":http://github.com/rlisagor/freshen - Clone of the Cucumber BDD framework for Python @[LGPL-3]@
 *** 9999(@git@) (masked by @package.mask@)
 ** "@html@":http://pypi.python.org/pypi/html/ - simple, elegant HTML/XHTML generation @[BSD]@
-*** "1.7":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.7.ebuild @amd64@, @x86@
-*** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.8.ebuild @amd64@, @~x86@(due 2010-02-14)
+*** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.8.ebuild @amd64@, @x86@
 ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ - Provides an interactive console for doctests @[LGPL-2.1]@
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/interlude/interlude-1.0.ebuild @amd64@, @x86@
 ** "@mod2doctest@":http://pypi.python.org/pypi/mod2doctest/ - Convert any Python module to a doctest ready doc string @[MIT]@
