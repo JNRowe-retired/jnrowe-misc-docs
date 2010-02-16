@@ -122,6 +122,7 @@ h2. Packages
 *** "0.11.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/upoints/upoints-0.11.0.ebuild @amd64@, @x86@
 ** "@wordish@":http://pypi.python.org/pypi/wordish/ - Parses a shell session, test the commands compare the output @[GPL-3]@
 *** "0.0.6":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/wordish/wordish-0.0.6.ebuild @~amd64@(due 2010-03-12), @~x86@(due 2010-03-12)
+*** "1.0.0_beta4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/wordish/wordish-1.0.0_beta4.ebuild @~amd64@(indefinite), @~x86@(indefinite) (masked by @package.mask@)
 * @dev-ruby@
 ** "@trollop@":http://trollop.rubyforge.org - Provide the maximal amount of GNU-style argument processing in ruby @[Ruby]@
 *** "1.15":http://github.com/JNRowe/misc-overlay/blob/master/dev-ruby/trollop/trollop-1.15.ebuild @amd64@, @x86@
