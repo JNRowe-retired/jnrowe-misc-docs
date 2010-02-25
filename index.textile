@@ -217,7 +217,7 @@ h2. Packages
 *** "0.0.6":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/parti/parti-0.0.6.ebuild @amd64@, @x86@
 ** "@subtle@":http://unexist.scrapping.cc/projects/show/subtle - A tiling window manager with mouse and keyboard control @[GPL-2]@
 *** "0.8.1602":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/subtle/subtle-0.8.1602.ebuild @amd64@, @x86@ (masked by @package.mask@)
-*** "0.8.1710":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/subtle/subtle-0.8.1710.ebuild @~amd64@(due 2010-02-25), @~x86@(due 2010-02-25) (masked by @package.mask@)
+*** "0.8.1710":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/subtle/subtle-0.8.1710.ebuild @amd64@, @~x86@(due 2010-02-25) (masked by @package.mask@)
 
 h2. License
 
