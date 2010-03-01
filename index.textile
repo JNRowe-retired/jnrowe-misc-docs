@@ -118,7 +118,7 @@ h2. Packages
 ** "@termstyle@":http://github.com/gfxmonk/termstyle - a dirt-simple terminal-colour library @[BSD]@
 *** "0.1.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termstyle/termstyle-0.1.5.ebuild @amd64@, @x86@
 ** "@texttable@":http://pypi.python.org/pypi/texttable/ - module to generate a formatted text table, using ASCII characters. @[LGPL-2.1]@
-*** "0.7.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/texttable/texttable-0.7.0.ebuild @~amd64@(due 2010-03-01), @~x86@(due 2010-03-16)
+*** "0.7.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/texttable/texttable-0.7.0.ebuild @amd64@, @~x86@(due 2010-03-16)
 ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html - Modules for working with points on Earth @[GPL-3]@
 *** "0.11.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/upoints/upoints-0.11.0.ebuild @amd64@, @x86@
 ** "@wordish@":http://pypi.python.org/pypi/wordish/ - Parses a shell session, test the commands compare the output @[GPL-3]@
