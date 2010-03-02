@@ -72,6 +72,7 @@ h2. Packages
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.1.ebuild @amd64@, @x86@
 ** "@clepy@":http://pypi.python.org/pypi/clepy/ - Utilities from the Cleveland Python user group @[MIT]@
 *** "0.3.16":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/clepy/clepy-0.3.16.ebuild @~amd64@(due 2010-03-14), @~x86@(due 2010-03-14)
+*** "0.3.17":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/clepy/clepy-0.3.17.ebuild @~amd64@(due 2010-04-01), @~x86@(due 2010-04-01)
 ** "@dexml@":http://pypi.python.org/pypi/dexml/ - A dead-simple Object-XML mapper for Python @[MIT]@
 *** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.1.ebuild @~amd64@(due 2010-03-18), @~x86@(due 2010-03-18)
 *** "0.3.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.3.ebuild @~amd64@(due 2010-04-01), @~x86@(due 2010-04-01)
