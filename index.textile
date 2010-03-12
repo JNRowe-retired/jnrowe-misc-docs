@@ -121,7 +121,7 @@ h2. Packages
 ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html - Modules for working with points on Earth @[GPL-3]@
 *** "0.11.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/upoints/upoints-0.11.0.ebuild @amd64@, @x86@
 ** "@wordish@":http://pypi.python.org/pypi/wordish/ - Parses a shell session, test the commands compare the output @[GPL-3]@
-*** "0.0.6":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/wordish/wordish-0.0.6.ebuild @~amd64@(due 2010-03-12), @~x86@(due 2010-03-12)
+*** "0.0.6":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/wordish/wordish-0.0.6.ebuild @amd64@, @~x86@(due 2010-03-12)
 *** "1.0.0_beta4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/wordish/wordish-1.0.0_beta4.ebuild @~amd64@(indefinite), @~x86@(indefinite) (masked by @package.mask@)
 *** "1.0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/wordish/wordish-1.0.1.ebuild @~amd64@(due 2010-03-24), @~x86@(due 2010-03-24)
 *** "1.0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/wordish/wordish-1.0.2.ebuild @~amd64@(due 2010-04-01), @~x86@(due 2010-04-01)
