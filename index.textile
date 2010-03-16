@@ -62,6 +62,8 @@ h2. Packages
 ** "@luaposix@":http://luaforge.net/projects/luaposix/ - POSIX function support library for lua @[public-domain]@
 *** "5.1.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luaposix/luaposix-5.1.4.ebuild @amd64@, @x86@
 * @dev-perl@
+** "@Net-Twitter-Lite@":http://search.cpan.org/dist/Net-Twitter-Lite/ - A perl interface to the Twitter API @[Artistic]@
+*** "0.08006":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Net-Twitter-Lite/Net-Twitter-Lite-0.08006.ebuild @~amd64@(due 2010-04-15), @~x86@(due 2010-04-15)
 ** "@Term-Animation@":http://search.cpan.org/dist/Term-Animation/ - ASCII sprite animation framework @[Artistic]@
 *** "2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Term-Animation/Term-Animation-2.4.ebuild @amd64@, @x86@
 ** "@Weather-Underground@":http://search.cpan.org/dist/Weather-Underground/ - Extension for retrieving weather information from wunderground.com @[Artistic]@
