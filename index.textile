@@ -73,7 +73,7 @@ h2. Packages
 ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html - Calculations for the position of the sun @[MIT]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.1.ebuild @amd64@, @x86@
 ** "@dexml@":http://pypi.python.org/pypi/dexml/ - A dead-simple Object-XML mapper for Python @[MIT]@
-*** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.1.ebuild @amd64@, @~x86@(due 2010-03-18)
+*** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.1.ebuild @amd64@, @x86@
 *** "0.3.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.3.ebuild @~amd64@(due 2010-04-01), @~x86@(due 2010-04-01)
 *** "0.3.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.4.ebuild @~amd64@(due 2010-04-05), @~x86@(due 2010-04-05)
 ** "@dtopt@":http://pypi.python.org/pypi/dtopt/ - Add options to doctest examples while they are running @[MIT]@
