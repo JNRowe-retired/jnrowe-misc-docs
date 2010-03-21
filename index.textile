@@ -85,7 +85,7 @@ h2. Packages
 ** "@freshen@":http://github.com/rlisagor/freshen - Clone of the Cucumber BDD framework for Python @[LGPL-3]@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/freshen/freshen-9999.ebuild (masked by @package.mask@)
 ** "@genzshcomp@":http://bitbucket.org/hhatto/genzshcomp/ - Automatic generation of zsh completion functions @[BSD]@
-*** "0.0.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/genzshcomp/genzshcomp-0.0.8.ebuild @~amd64@(indefinite)
+*** "0.0.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/genzshcomp/genzshcomp-0.0.8.ebuild @~amd64@(due 2010-04-20)
 ** "@html@":http://pypi.python.org/pypi/html/ - simple, elegant HTML/XHTML generation @[BSD]@
 *** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.8.ebuild @amd64@, @x86@
 ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ - Provides an interactive console for doctests @[LGPL-2.1]@
