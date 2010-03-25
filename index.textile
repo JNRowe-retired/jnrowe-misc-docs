@@ -129,7 +129,7 @@ h2. Packages
 ** "@tweepy@":http://pypi.python.org/pypi/tweepy/ - Twitter library for python @[MIT]@
 *** "1.6":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/tweepy/tweepy-1.6.ebuild @~amd64@(due 2010-04-23)
 ** "@twython@":http://pypi.python.org/pypi/twython/ - An easy (and up to date) way to access Twitter data with Python. @[MIT]@
-*** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.2.ebuild @~amd64@(due 2010-04-23)
+*** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.2.ebuild @~amd64@(due 2010-04-23), @~x86@(due 2010-04-24)
 ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html - Modules for working with points on Earth @[GPL-3]@
 *** "0.11.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/upoints/upoints-0.11.0.ebuild @amd64@, @x86@
 ** "@wordish@":http://pypi.python.org/pypi/wordish/ - Parses a shell session, test the commands compare the output @[GPL-3]@
