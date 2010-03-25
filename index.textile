@@ -188,7 +188,7 @@ h2. Packages
 *** "3.0":http://github.com/JNRowe/misc-overlay/blob/master/net-mail/mboxstats/mboxstats-3.0.ebuild @amd64@, @x86@
 ** "@rss2email@":http://www.allthingsrss.com/rss2email/ - A python script that converts RSS newsfeeds to email @[GPL-2]@
 *** "2.65.1":http://github.com/JNRowe/misc-overlay/blob/master/net-mail/rss2email/rss2email-2.65.1.ebuild @amd64@, @x86@
-*** "2.66":http://github.com/JNRowe/misc-overlay/blob/master/net-mail/rss2email/rss2email-2.66.ebuild @~amd64@(due 2010-03-25), @~x86@(due 2010-03-25)
+*** "2.66":http://github.com/JNRowe/misc-overlay/blob/master/net-mail/rss2email/rss2email-2.66.ebuild @amd64@, @~x86@(due 2010-03-25)
 * @sys-apps@
 ** "@zlibc@":http://zlibc.linux.lu/ - Read-only compressed file-system emulation. @[GPL-2]@
 *** "0.9k":http://github.com/JNRowe/misc-overlay/blob/master/sys-apps/zlibc/zlibc-0.9k.ebuild @~amd64@(due 2010-04-02), @~x86@(due 2010-04-02)
