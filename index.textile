@@ -136,8 +136,6 @@ h2. Packages
 ** "@trollop@":http://trollop.rubyforge.org - Provide the maximal amount of GNU-style argument processing in ruby @[Ruby]@
 *** "1.15":http://github.com/JNRowe/misc-overlay/blob/master/dev-ruby/trollop/trollop-1.15.ebuild @amd64@, @x86@
 * @dev-util@
-** "@be@":http://bugseverywhere.org/be/show/HomePage - A bugtracker built on distributed revision control @[GPL-2]@
-*** "0.0.193":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/be/be-0.0.193.ebuild @amd64@, @ppc64@, @x86@ (masked by @package.mask@)
 ** "@ccontrol@":http://ccontrol.ozlabs.org/ - Utility to manage ccache and distcc @[GPL-2]@
 *** "0.9.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ccontrol/ccontrol-0.9.1.ebuild @amd64@, @x86@
 ** "@ditz@":http://ditz.rubyforge.org - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@
