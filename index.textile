@@ -104,6 +104,8 @@ h2. Packages
 *** "0.6.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyhistorian/pyhistorian-0.6.3.ebuild @amd64@, @x86@
 ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
 *** "0.5.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyisbn/pyisbn-0.5.1.ebuild @amd64@, @x86@
+** "@python-gnupg@":http://code.google.com/p/python-gnupg/ - Python API which wraps the GNU Privacy Guard(gpg) @[MIT]@
+*** "0.2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-gnupg/python-gnupg-0.2.4.ebuild @~amd64@(due 2010-05-06)
 ** "@rednose@":http://github.com/gfxmonk/rednose/ - coloured output for nosetests @[BSD]@
 *** "0.1.4-r1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rednose/rednose-0.1.4-r1.ebuild @amd64@, @x86@
 ** "@restview@":http://mg.pov.lt/restview/ - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
