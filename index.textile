@@ -176,7 +176,7 @@ h2. Packages
 ** "@hpodder@":http://software.complete.org/hpodder - Podcast Aggregator (downloader) @[GPL-2]@
 *** "1.1.5":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/hpodder/hpodder-1.1.5.ebuild @~amd64@(indefinite), @~x86@(indefinite)
 ** "@mpdcron@":http://alip.github.com/mpdcron/ - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@
-*** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/mpdcron/mpdcron-0.3.ebuild @amd64@, @~x86@(due 2010-04-19)
+*** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/mpdcron/mpdcron-0.3.ebuild @amd64@, @x86@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/mpdcron/mpdcron-9999.ebuild (masked by @package.mask@)
 * @net-irc@
 ** "@twirssi@":http://www.twirssi.com/ - An irssi script allowing the use of Twitter from within irssi @[GPL-2]@
