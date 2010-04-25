@@ -164,8 +164,7 @@ h2. Packages
 *** "1.2.7":http://github.com/JNRowe/misc-overlay/blob/master/mail-filter/qsf/qsf-1.2.7.ebuild @amd64@, @x86@
 * @media-gfx@
 ** "@aafigure@":https://launchpad.net/aafigure - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@
-*** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/aafigure/aafigure-0.4.ebuild @amd64@, @x86@
-*** "0.5":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/aafigure/aafigure-0.5.ebuild @amd64@, @~x86@(due 2010-04-24)
+*** "0.5":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/aafigure/aafigure-0.5.ebuild @amd64@, @x86@
 ** "@psplash@":http://labs.o-hand.com/psplash/ - A tiny userspace graphical boot splash screen @[GPL-2]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/psplash/psplash-0.1.ebuild @amd64@, @x86@
 *** "0.1_p20090528":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/psplash/psplash-0.1_p20090528.ebuild @amd64@, @x86@
