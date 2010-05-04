@@ -69,7 +69,7 @@ h2. Packages
 * @dev-python@
 ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html - Calculations for the position of the sun @[MIT]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.1.ebuild @amd64@, @x86@
-*** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.2.ebuild @~amd64@(due 2010-05-04), @~x86@(due 2010-05-04)
+*** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.2.ebuild @amd64@, @~x86@(due 2010-05-04)
 ** "@dexml@":http://pypi.python.org/pypi/dexml/ - A dead-simple Object-XML mapper for Python @[MIT]@
 *** "0.3.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.4.ebuild @amd64@, @x86@
 *** "0.3.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.5.ebuild @~amd64@(due 2010-05-20), @~x86@(due 2010-05-20)
