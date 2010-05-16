@@ -197,6 +197,7 @@ h2. Packages
 * @net-misc@
 ** "@bleeter@":http://jnrowe.github.com/bleeter/ - Nasty little twitter client @[GPL-3]@
 *** "0.4.1":http://github.com/JNRowe/misc-overlay/blob/master/net-misc/bleeter/bleeter-0.4.1.ebuild @~amd64@(due 2010-06-03), @~x86@(due 2010-06-04)
+*** "0.5.0":http://github.com/JNRowe/misc-overlay/blob/master/net-misc/bleeter/bleeter-0.5.0.ebuild @~amd64@(due 2010-06-15), @~x86@(due 2010-06-15)
 * @sys-apps@
 ** "@zlibc@":http://zlibc.linux.lu/ - Read-only compressed file-system emulation. @[GPL-2]@
 *** "0.9k":http://github.com/JNRowe/misc-overlay/blob/master/sys-apps/zlibc/zlibc-0.9k.ebuild @amd64@, @x86@
