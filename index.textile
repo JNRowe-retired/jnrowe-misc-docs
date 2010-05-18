@@ -85,6 +85,8 @@ h2. Packages
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/freshen/freshen-0.2.ebuild @~amd64@(due 2010-06-15), @~x86@(due 2010-06-16)
 ** "@genzshcomp@":http://bitbucket.org/hhatto/genzshcomp/ - Automatic generation of zsh completion functions @[BSD]@
 *** "0.0.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/genzshcomp/genzshcomp-0.0.8.ebuild @amd64@, @x86@
+** "@gistapi@":http://github.com/kennethreitz/gistapi.py - A Python wrapper for GitHub's Gist API @[MIT]@
+*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/gistapi/gistapi-0.1.2.ebuild @~amd64@(due 2010-06-17)
 ** "@html@":http://pypi.python.org/pypi/html/ - simple, elegant HTML/XHTML generation @[BSD]@
 *** "1.11":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.11.ebuild @amd64@, @x86@
 ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ - Provides an interactive console for doctests @[LGPL-2.1]@
