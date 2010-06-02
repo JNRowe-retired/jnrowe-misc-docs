@@ -153,6 +153,7 @@ h2. Packages
 * @dev-util@
 ** "@ccontrol@":http://ccontrol.ozlabs.org/ - Utility to manage ccache and distcc @[GPL-2]@
 *** "0.9.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ccontrol/ccontrol-0.9.1.ebuild @amd64@, @x86@
+*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ccontrol/ccontrol-1.0.ebuild @~amd64@(due 2010-07-02), @~x86@(due 2010-07-02)
 ** "@ditz@":http://ditz.rubyforge.org - A simple, light-weight distributed issue tracker designed for dVCS @[GPL-3]@
 *** "0.5-r1":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ditz/ditz-0.5-r1.ebuild @amd64@, @x86@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ditz/ditz-9999.ebuild (masked by @package.mask@)
