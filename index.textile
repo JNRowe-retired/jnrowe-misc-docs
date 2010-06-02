@@ -63,6 +63,7 @@ h2. Packages
 * @dev-perl@
 ** "@Net-Twitter-Lite@":http://search.cpan.org/dist/Net-Twitter-Lite/ - A perl interface to the Twitter API @[Artistic]@
 *** "0.09001":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Net-Twitter-Lite/Net-Twitter-Lite-0.09001.ebuild @~amd64@(due 2010-06-11), @~x86@(due 2010-06-11)
+*** "0.10003":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Net-Twitter-Lite/Net-Twitter-Lite-0.10003.ebuild @~amd64@(due 2010-07-02), @~x86@(due 2010-07-02)
 ** "@Term-Animation@":http://search.cpan.org/dist/Term-Animation/ - ASCII sprite animation framework @[Artistic]@
 *** "2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Term-Animation/Term-Animation-2.4.ebuild @amd64@, @x86@
 ** "@Weather-Underground@":http://search.cpan.org/dist/Weather-Underground/ - Extension for retrieving weather information from wunderground.com @[Artistic]@
