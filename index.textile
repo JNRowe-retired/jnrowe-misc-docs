@@ -267,6 +267,7 @@ h3. Bug reports
 * Kristian Cole
 * Fabien Courtois
 * Ed Lyle
+* anna ruda
 * Erin Sandusky
 * Shi Tang
 * Jesper Tremblay
