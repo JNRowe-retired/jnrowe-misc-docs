@@ -218,6 +218,7 @@ h2. Packages
 * @www-client@
 ** "@cupage@":http://github.com/JNRowe/cupage - A tool to check for updates on web pages @[GPL-3]@
 *** "0.4.0":http://github.com/JNRowe/misc-overlay/blob/master/www-client/cupage/cupage-0.4.0.ebuild @amd64@, @x86@
+*** "0.5.0":http://github.com/JNRowe/misc-overlay/blob/master/www-client/cupage/cupage-0.5.0.ebuild @~amd64@(due 2010-07-08), @~x86@(due 2010-07-08)
 ** "@opera-remote@":http://goron.de/~froese/opera-remote/ - Send remote commands to a running Opera instance @[as-is]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/www-client/opera-remote/opera-remote-0.1.ebuild @amd64@, @x86@
 ** "@surfraw@":http://surfraw.alioth.debian.org/ - A fast unix command line interface to WWW @[public-domain]@
