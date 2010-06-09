@@ -94,6 +94,7 @@ h2. Packages
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/interlude/interlude-1.0.ebuild @amd64@, @x86@
 ** "@lettuce@":http://lettuce.it/ - Cucumber-ish BDD for python @[MIT]@
 *** "0.1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.1.ebuild @~amd64@(indefinite), @~x86@(indefinite)
+*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.2.ebuild @~amd64@(due 2010-07-09), @~x86@(due 2010-07-09)
 *** "0.1_rc12":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1_rc12.ebuild @~amd64@(due 2010-07-03), @~x86@(indefinite)
 *** "0.1_rc13":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1_rc13.ebuild @~amd64@(due 2010-07-04), @~x86@(due 2010-07-04)
 ** "@mod2doctest@":http://pypi.python.org/pypi/mod2doctest/ - Convert any Python module to a doctest ready doc string @[MIT]@
