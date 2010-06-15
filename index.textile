@@ -152,7 +152,7 @@ h2. Packages
 ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html - Modules for working with points on Earth @[GPL-3]@
 *** "0.11.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/upoints/upoints-0.11.0.ebuild @amd64@, @x86@
 ** "@urlunshort@":http://bitbucket.org/runeh/urlunshort - Tools for detecting and expanding shortened URLs @[BSD-2]@
-*** "0.2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/urlunshort/urlunshort-0.2.4.ebuild @amd64@, @~x86@(due 2010-06-15)
+*** "0.2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/urlunshort/urlunshort-0.2.4.ebuild @amd64@, @x86@
 ** "@wordish@":http://pypi.python.org/pypi/wordish/ - Parses a shell session, test the commands compare the output @[GPL-3]@
 *** "1.0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/wordish/wordish-1.0.2.ebuild @amd64@, @x86@
 * @dev-ruby@
