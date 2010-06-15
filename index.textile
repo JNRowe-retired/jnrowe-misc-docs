@@ -56,6 +56,8 @@ h2. Packages
 ** "@wirbel@":http://mathias-kettner.de/wirbel.html - A compiled programming language with syntax and semantics similar to Python @[GPL-2]@
 *** "0.1.11":http://github.com/JNRowe/misc-overlay/blob/master/dev-lang/wirbel/wirbel-0.1.11.ebuild @amd64@, @x86@
 * @dev-libs@
+** "@ctpl@":http://ctpl.tuxfamily.org/ - A fast and easy templating library for C @[GPL-3]@
+*** "0.2.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/ctpl/ctpl-0.2.2.ebuild @~amd64@(due 2010-07-15), @~x86@(due 2010-07-15)
 ** "@luainotify@":http://www3.telus.net/taj_khattra/luainotify.html - a Lua interface to the Linux inotify subsystem @[as-is]@
 *** "0.20090818":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luainotify/luainotify-0.20090818.ebuild @amd64@, @x86@
 ** "@luaposix@":http://luaforge.net/projects/luaposix/ - POSIX function support library for lua @[public-domain]@
