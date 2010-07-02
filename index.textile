@@ -111,7 +111,7 @@ h2. Packages
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pinocchio/pinocchio-0.1.ebuild @~amd64@(due 2010-07-09), @~x86@(due 2010-07-11)
 ** "@pycukes@":http://github.com/hugobr/pycukes - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
 *** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.1.2.ebuild @amd64@, @x86@
-*** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.2.ebuild @~amd64@(due 2010-07-02), @~x86@(due 2010-07-02)
+*** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.2.ebuild @amd64@, @~x86@(due 2010-07-02)
 ** "@pydelicious@":http://code.google.com/p/pydelicious/ - Access the web service of del.icio.us via it's API through python @[BSD]@
 *** "0.5.2_rc2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pydelicious/pydelicious-0.5.2_rc2.ebuild @amd64@, @x86@
 ** "@pyhistorian@":http://github.com/hugobr/pyhistorian - A BDD tool for writing specs using Given-When-Then template @[MIT]@
