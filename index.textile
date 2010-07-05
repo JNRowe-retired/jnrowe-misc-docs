@@ -131,7 +131,7 @@ h2. Packages
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rudolf/rudolf-0.3.ebuild @amd64@, @x86@
 ** "@scripttest@":http://pythonpaste.org/scripttest/ - Helper to test command-line scripts @[MIT]@
 *** "1.0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/scripttest/scripttest-1.0.3.ebuild @amd64@, @x86@
-*** "1.0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/scripttest/scripttest-1.0.4.ebuild @~amd64@(due 2010-07-02), @~x86@(due 2010-07-02)
+*** "1.0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/scripttest/scripttest-1.0.4.ebuild @amd64@, @~x86@(due 2010-07-02)
 ** "@shelldoctest@":http://pypi.python.org/pypi/shelldoctest/ - Doctest/UnitTest for shell @[BSD]@
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/shelldoctest/shelldoctest-0.2.ebuild @amd64@, @x86@
 ** "@should_dsl@":http://github.com/hugobr/should-dsl - Should assertions in Python as clear and readable as possible @[MIT]@
