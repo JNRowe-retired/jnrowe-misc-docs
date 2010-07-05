@@ -145,8 +145,7 @@ h2. Packages
 ** "@texttable@":http://jefke.free.fr/coding/python/ - module to generate a formatted text table, using ASCII characters. @[LGPL-2.1]@
 *** "0.7.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/texttable/texttable-0.7.0.ebuild @amd64@, @x86@
 ** "@tweepy@":http://pypi.python.org/pypi/tweepy/ - Twitter library for python @[MIT]@
-*** "1.6":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/tweepy/tweepy-1.6.ebuild @amd64@, @x86@
-*** "1.7.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/tweepy/tweepy-1.7.1.ebuild @amd64@, @~x86@(due 2010-07-02)
+*** "1.7.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/tweepy/tweepy-1.7.1.ebuild @amd64@, @x86@
 ** "@twython@":http://pypi.python.org/pypi/twython/ - An easy (and up to date) way to access Twitter data with Python. @[MIT]@
 *** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.2.ebuild @amd64@, @x86@
 ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html - Modules for working with points on Earth @[GPL-3]@
