@@ -95,8 +95,7 @@ h2. Packages
 ** "@lettuce@":http://lettuce.it/ - Cucumber-ish BDD for python @[MIT]@
 *** "0.1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.1.ebuild @~amd64@(indefinite), @~x86@(indefinite)
 *** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.2.ebuild @~amd64@(due 2010-07-09), @~x86@(due 2010-07-09)
-*** "0.1_rc12":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1_rc12.ebuild @amd64@, @~x86@(indefinite)
-*** "0.1_rc13":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1_rc13.ebuild @amd64@, @~x86@(due 2010-07-04)
+*** "0.1_rc13":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1_rc13.ebuild @amd64@, @x86@
 ** "@mod2doctest@":http://pypi.python.org/pypi/mod2doctest/ - Convert any Python module to a doctest ready doc string @[MIT]@
 *** "0.1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/mod2doctest/mod2doctest-0.1.1.ebuild @amd64@, @x86@
 ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ - Add additional directories to sys.path for nose. @[Apache-2.0]@
