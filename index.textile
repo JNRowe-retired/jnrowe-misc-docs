@@ -73,6 +73,7 @@ h2. Packages
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.2.ebuild @amd64@, @x86@
 ** "@benchmarker@":http://pypi.python.org/pypi/Benchmarker/ - A small utility to benchmark your Python code @[public-domain]@
 *** "1.0.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-1.0.0.ebuild @amd64@, @x86@
+*** "1.1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-1.1.0.ebuild @~amd64@(due 2010-08-07), @~x86@(due 2010-08-07)
 ** "@dexml@":http://pypi.python.org/pypi/dexml/ - A dead-simple Object-XML mapper for Python @[MIT]@
 *** "0.3.6":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.6.ebuild @amd64@, @x86@
 ** "@doctest-tools@":http://code.google.com/p/doctest-tools/ - Tools to run doctests on code and text files within a directory @[MIT]@
