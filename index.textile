@@ -105,7 +105,7 @@ h2. Packages
 ** "@pep8@":http://github.com/cburroughs/pep8.py - A tool to check your Python code against the conventions in PEP 8 @[MIT]@
 *** "0.5.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.5.0.ebuild @amd64@, @x86@
 ** "@pinocchio@":http://darcs.idyll.org/~t/projects/pinocchio/doc/ - Extensions for the nose testing framework @[MIT]@
-*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pinocchio/pinocchio-0.1.ebuild @amd64@, @~x86@(due 2010-07-11)
+*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pinocchio/pinocchio-0.1.ebuild @amd64@, @x86@
 ** "@pycukes@":http://github.com/hugobr/pycukes - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.2.ebuild @amd64@, @x86@
 ** "@pydelicious@":http://code.google.com/p/pydelicious/ - Access the web service of del.icio.us via it's API through python @[BSD]@
