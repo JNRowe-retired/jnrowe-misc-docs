@@ -158,7 +158,7 @@ h2. Packages
 *** "1.15":http://github.com/JNRowe/misc-overlay/blob/master/dev-ruby/trollop/trollop-1.15.ebuild @amd64@, @x86@
 * @dev-tcltk@
 ** "@tcludp@":http://tcludp.sourceforge.net/ - Create UDP sockets in Tcl @[MIT]@
-*** "1.0.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-tcltk/tcludp/tcludp-1.0.8.ebuild @amd64@, @~x86@(due 2010-07-14)
+*** "1.0.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-tcltk/tcludp/tcludp-1.0.8.ebuild @amd64@, @x86@
 * @dev-util@
 ** "@ccontrol@":http://ccontrol.ozlabs.org/ - Utility to manage ccache and distcc @[GPL-2]@
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-util/ccontrol/ccontrol-1.0.ebuild @amd64@, @x86@
