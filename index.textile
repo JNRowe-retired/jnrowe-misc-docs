@@ -215,7 +215,7 @@ h2. Packages
 *** "0.6.0":http://github.com/JNRowe/misc-overlay/blob/master/net-misc/bleeter/bleeter-0.6.0.ebuild @~amd64@(due 2010-08-11), @~x86@(due 2010-08-11)
 * @sci-geosciences@
 ** "@gpsfeed@":http://users.hol.gr/~dzach/gpsfeed/index.html - A utility that generates continuous GPS data for running tests @[GPL-2]@
-*** "0.58":http://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/gpsfeed/gpsfeed-0.58.ebuild @amd64@, @~x86@(due 2010-07-14)
+*** "0.58":http://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/gpsfeed/gpsfeed-0.58.ebuild @amd64@, @x86@
 ** "@osm-gps-map@":http://nzjrs.github.com/osm-gps-map/ - A Gtk+ Widget for Displaying OpenStreetMap tiles @[GPL-3]@
 *** "0.7.0":http://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/osm-gps-map/osm-gps-map-0.7.0.ebuild @~amd64@(due 2010-07-15), @~x86@(due 2010-07-16)
 *** "0.7.1":http://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/osm-gps-map/osm-gps-map-0.7.1.ebuild @~amd64@(due 2010-08-07), @~x86@(due 2010-08-07)
