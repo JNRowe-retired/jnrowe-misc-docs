@@ -172,8 +172,9 @@ h2. Packages
 * @dev-vcs@
 ** "@blame@":http://blame.sourceforge.net/ - Annotates RCS files in a style similar to CVS's annotate command @[GPL-2]@
 *** "1.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/blame/blame-1.3.1.ebuild @amd64@, @x86@
-** "@gitflow@":http://nvie.com/archives/323 - High-level repository operations for Vincent Driessen's branching model @[as-is]@
+** "@gitflow@":http://nvie.com/archives/323 - High-level repository operations for Vincent Driessen's branching model @[BSD-2]@
 *** "0.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/gitflow/gitflow-0.2.1.ebuild @amd64@, @x86@
+*** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/gitflow/gitflow-0.3.ebuild @~amd64@(due 2010-09-01), @~x86@(due 2010-09-01)
 ** "@gitserve@":http://github.com/jezdez/git-serve/ - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
 *** "0.2.0-r1":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/gitserve/gitserve-0.2.0-r1.ebuild @amd64@, @x86@
 ** "@hub@":http://github.com/defunkt/hub - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
