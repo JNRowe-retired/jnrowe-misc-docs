@@ -123,6 +123,7 @@ h2. Packages
 *** "0.1.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rednose/rednose-0.1.5.ebuild @amd64@, @x86@
 ** "@restview@":http://mg.pov.lt/restview/ - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
 *** "1.1.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/restview/restview-1.1.3.ebuild @amd64@, @x86@
+*** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/restview/restview-1.2.ebuild @~amd64@(due 2010-09-09), @~x86@(due 2010-09-09)
 ** "@rstctl@":http://pypi.python.org/pypi/rstctl/ - A script to help you with authoring reStructuredText @[GPL-3]@
 *** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rstctl/rstctl-0.4.ebuild @~amd64@(due 2010-08-13), @~x86@(due 2010-08-13)
 ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ - Colour output plugin for the nose testing framework @[ZPL]@
