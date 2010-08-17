@@ -193,6 +193,8 @@ h2. Packages
 ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk - A Gtk+ interface to the notmuch mail client. @[GPL-3]@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/mail-client/notmuch-gtk/notmuch-gtk-9999.ebuild (masked by @package.mask@)
 * @mail-filter@
+** "@maildirproc@":http://joel.rosdahl.net/maildirproc/ - maildir processor using Python as its configuration language @[GPL-2]@
+*** "0.4.3":http://github.com/JNRowe/misc-overlay/blob/master/mail-filter/maildirproc/maildirproc-0.4.3.ebuild @~amd64@(due 2010-09-16)
 ** "@qsf@":http://www.ivarch.com/programs/qsf.shtml - Quick Spam Filter, with support for multiple databases @[Artistic-2]@
 *** "1.2.7":http://github.com/JNRowe/misc-overlay/blob/master/mail-filter/qsf/qsf-1.2.7.ebuild @amd64@, @x86@
 * @media-gfx@
