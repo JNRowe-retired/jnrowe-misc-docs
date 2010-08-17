@@ -109,6 +109,8 @@ h2. Packages
 *** "0.5.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.5.0.ebuild @amd64@, @x86@
 ** "@pinocchio@":http://darcs.idyll.org/~t/projects/pinocchio/doc/ - Extensions for the nose testing framework @[MIT]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pinocchio/pinocchio-0.1.ebuild @amd64@, @x86@
+** "@pwtools@":http://alastairs-place.net/pwtools/ - Password generation and security checking @[MIT]@
+*** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pwtools/pwtools-0.2.ebuild @~amd64@(due 2010-09-16)
 ** "@pycukes@":http://github.com/hugobr/pycukes - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.2.ebuild @amd64@, @x86@
 ** "@pydelicious@":http://code.google.com/p/pydelicious/ - Access the web service of del.icio.us via it's API through python @[BSD]@
