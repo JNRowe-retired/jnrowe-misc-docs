@@ -97,6 +97,7 @@ h2. Packages
 ** "@lettuce@":http://lettuce.it/ - Cucumber-ish BDD for python @[MIT]@
 *** "0.1.10":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.10.ebuild @~amd64@(due 2010-09-09), @~x86@(due 2010-09-09)
 *** "0.1.11":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.11.ebuild @~amd64@(due 2010-09-16), @~x86@(due 2010-09-16)
+*** "0.1.12":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.12.ebuild @~amd64@(due 2010-09-20), @~x86@(due 2010-09-20)
 *** "0.1.9":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.9.ebuild @amd64@, @x86@
 ** "@logbook@":http://pypi.python.org/pypi/Logbook/ - A logging module replacement for Python @[BSD]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/logbook/logbook-0.1.ebuild @~amd64@(due 2010-09-15), @~x86@(due 2010-09-15)
