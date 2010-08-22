@@ -127,7 +127,7 @@ h2. Packages
 *** "0.7.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-osmgpsmap/python-osmgpsmap-0.7.1.ebuild @amd64@, @x86@
 *** "0.7.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-osmgpsmap/python-osmgpsmap-0.7.2.ebuild @~amd64@(due 2010-09-02), @~x86@(due 2010-09-02)
 ** "@rednose@":http://github.com/gfxmonk/rednose/ - coloured output for nosetests @[BSD]@
-*** "0.1.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rednose/rednose-0.1.5.ebuild @amd64@, @x86@
+*** "0.1.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rednose/rednose-0.1.5.ebuild @amd64@, @x86@ (masked by @package.mask@)
 ** "@restview@":http://mg.pov.lt/restview/ - A viewer for ReStructuredText documents that renders them on the fly @[GPL-3]@
 *** "1.1.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/restview/restview-1.1.3.ebuild @amd64@, @x86@
 *** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/restview/restview-1.2.ebuild @~amd64@(due 2010-09-09), @~x86@(due 2010-09-09)
