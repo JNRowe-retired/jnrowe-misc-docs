@@ -190,7 +190,7 @@ h2. Packages
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/hub/hub-9999.ebuild (masked by @package.mask@)
 * @mail-client@
 ** "@notmuch@":http://notmuchmail.org/ - Thread-based email index, search and tagging. @[GPL-3]@
-*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/mail-client/notmuch/notmuch-0.1.ebuild @~amd64@(due 2010-09-14), @x86@
+*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/mail-client/notmuch/notmuch-0.1.ebuild @amd64@, @x86@
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/mail-client/notmuch/notmuch-0.3.ebuild @~amd64@(due 2010-09-22), @~x86@(due 2010-09-22)
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/mail-client/notmuch/notmuch-9999.ebuild (masked by @package.mask@)
 ** "@notmuch-gtk@":http://baruch.github.com/notmuch-gtk - A Gtk+ interface to the notmuch mail client. @[GPL-3]@
