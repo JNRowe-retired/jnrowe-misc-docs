@@ -76,6 +76,8 @@ h2. Packages
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.3.ebuild @~amd64@(due 2010-08-28), @~x86@(due 2010-08-28)
 ** "@benchmarker@":http://pypi.python.org/pypi/Benchmarker/ - A small utility to benchmark your Python code @[public-domain]@
 *** "1.1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-1.1.0.ebuild @amd64@, @x86@
+** "@commandlineapp@":http://www.doughellmann.com/projects/CommandLineApp/ - Makes creating appl as simple as defining callbacks to handle options @[MIT]@
+*** "3.0.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.5.ebuild @~amd64@(due 2010-09-23), @~x86@(due 2010-09-23)
 ** "@dexml@":http://pypi.python.org/pypi/dexml/ - A dead-simple Object-XML mapper for Python @[MIT]@
 *** "0.3.6":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.6.ebuild @amd64@, @x86@
 ** "@doctest-tools@":http://code.google.com/p/doctest-tools/ - Tools to run doctests on code and text files within a directory @[MIT]@
