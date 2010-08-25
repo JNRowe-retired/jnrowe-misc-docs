@@ -216,7 +216,7 @@ h2. Packages
 ** "@castget@":http://www.nongnu.org/castget/ - A simple command-line based RSS enclosure downloader @[LGPL-2.1]@
 *** "1.1.0":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/castget/castget-1.1.0.ebuild @~amd64@(due 2010-09-24)
 ** "@hpodder@":http://software.complete.org/hpodder - Podcast Aggregator (downloader) @[GPL-2]@
-*** "1.1.5":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/hpodder/hpodder-1.1.5.ebuild @~amd64@(indefinite), @~x86@(indefinite)
+*** "1.1.5":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/hpodder/hpodder-1.1.5.ebuild @~amd64@(indefinite), @~x86@(indefinite) (masked by @package.mask@)
 ** "@mpdcron@":http://alip.github.com/mpdcron/ - A hook daemon for mpd, it polls mpd and runs hooks on events @[GPL-2]@
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/mpdcron/mpdcron-0.3.ebuild @amd64@, @x86@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/mpdcron/mpdcron-9999.ebuild (masked by @package.mask@)
