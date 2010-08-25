@@ -35,7 +35,7 @@ h2. Packages
 *** "1.9.1":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/taskwarrior/taskwarrior-1.9.1.ebuild @amd64@, @x86@
 *** "1.9.2":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/taskwarrior/taskwarrior-1.9.2.ebuild @~amd64@(due 2010-09-01), @~x86@(due 2010-09-01)
 ** "@termdebug@":http://os.ghalkes.nl/termdebug.html - Utilities to record and replay a terminal program session @[GPL-3]@
-*** "1.1":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/termdebug/termdebug-1.1.ebuild @~amd64@(due 2010-09-25)
+*** "1.1":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/termdebug/termdebug-1.1.ebuild @~amd64@(due 2010-09-25), @~x86@(due 2010-09-25)
 ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
 *** "0.6.1":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.6.1.ebuild @amd64@, @x86@
 ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ - Create an ASCII animation that simulates the weather @[GPL-2]@
