@@ -77,6 +77,8 @@ h2. Packages
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.3.ebuild @amd64@, @x86@
 ** "@benchmarker@":http://pypi.python.org/pypi/Benchmarker/ - A small utility to benchmark your Python code @[public-domain]@
 *** "1.1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-1.1.0.ebuild @amd64@, @x86@
+** "@colorama@":http://pypi.python.org/pypi/colorama/ - Cross-platform colored terminal text @[BSD]@
+*** "0.1.18":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/colorama/colorama-0.1.18.ebuild @~amd64@(due 2010-09-30)
 ** "@commandlineapp@":http://www.doughellmann.com/projects/CommandLineApp/ - Makes creating appl as simple as defining callbacks to handle options @[MIT]@
 *** "3.0.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.5.ebuild @~amd64@(due 2010-09-23), @~x86@(due 2010-09-23)
 ** "@dexml@":http://pypi.python.org/pypi/dexml/ - A dead-simple Object-XML mapper for Python @[MIT]@
