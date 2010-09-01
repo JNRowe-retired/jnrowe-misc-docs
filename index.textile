@@ -149,8 +149,7 @@ h2. Packages
 ** "@rudolf@":http://pypi.python.org/pypi/rudolf/ - Colour output plugin for the nose testing framework @[ZPL]@
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rudolf/rudolf-0.3.ebuild @amd64@, @x86@ (masked by @package.mask@)
 ** "@scripttest@":http://pythonpaste.org/scripttest/ - Helper to test command-line scripts @[MIT]@
-*** "1.0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/scripttest/scripttest-1.0.4.ebuild @amd64@, @x86@
-*** "1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/scripttest/scripttest-1.1.ebuild @amd64@, @~x86@(due 2010-09-01)
+*** "1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/scripttest/scripttest-1.1.ebuild @amd64@, @x86@
 ** "@see@":http://inky.github.com/see/ - A human-readable alternative to Python's dir() @[GPL-3]@
 *** "1.0.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/see/see-1.0.0.ebuild @~amd64@(due 2010-09-09), @~x86@(due 2010-09-09)
 ** "@shelldoctest@":http://pypi.python.org/pypi/shelldoctest/ - Doctest/UnitTest for shell @[BSD]@
