@@ -137,8 +137,7 @@ h2. Packages
 ** "@python-gnupg@":http://code.google.com/p/python-gnupg/ - Python API which wraps the GNU Privacy Guard(gpg) @[MIT]@
 *** "0.2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-gnupg/python-gnupg-0.2.4.ebuild @amd64@, @x86@
 ** "@python-osmgpsmap@":http://nzjrs.github.com/osm-gps-map/ - Python bindings for osm-gps-map @[GPL-3]@
-*** "0.7.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-osmgpsmap/python-osmgpsmap-0.7.1.ebuild @amd64@, @x86@
-*** "0.7.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-osmgpsmap/python-osmgpsmap-0.7.2.ebuild @amd64@, @~x86@(due 2010-09-02)
+*** "0.7.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-osmgpsmap/python-osmgpsmap-0.7.2.ebuild @amd64@, @x86@
 ** "@rad@":http://pypi.python.org/pypi/rad/ - A super easy console highlighter. Text goes in, colour comes out. @[MIT]@
 *** "0.1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/rad/rad-0.1.1.ebuild @~amd64@(due 2010-09-30), @~x86@(due 2010-09-30)
 ** "@rednose@":http://github.com/gfxmonk/rednose/ - coloured output for nosetests @[BSD]@
