@@ -249,7 +249,7 @@ h2. Packages
 *** "0.58":http://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/gpsfeed/gpsfeed-0.58.ebuild @amd64@, @x86@
 ** "@osm-gps-map@":http://nzjrs.github.com/osm-gps-map/ - A Gtk+ Widget for Displaying OpenStreetMap tiles @[GPL-3]@
 *** "0.7.1":http://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/osm-gps-map/osm-gps-map-0.7.1.ebuild @amd64@, @x86@
-*** "0.7.2":http://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/osm-gps-map/osm-gps-map-0.7.2.ebuild @~amd64@(due 2010-09-02), @~x86@(due 2010-09-02)
+*** "0.7.2":http://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/osm-gps-map/osm-gps-map-0.7.2.ebuild @amd64@, @~x86@(due 2010-09-02)
 * @sys-apps@
 ** "@zlibc@":http://zlibc.linux.lu/ - Read-only compressed file-system emulation. @[GPL-2]@
 *** "0.9k":http://github.com/JNRowe/misc-overlay/blob/master/sys-apps/zlibc/zlibc-0.9k.ebuild @amd64@, @x86@
