@@ -152,7 +152,7 @@ h2. Packages
 ** "@scripttest@":http://pythonpaste.org/scripttest/ - Helper to test command-line scripts @[MIT]@
 *** "1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/scripttest/scripttest-1.1.ebuild @amd64@, @x86@
 ** "@see@":http://inky.github.com/see/ - A human-readable alternative to Python's dir() @[GPL-3]@
-*** "1.0.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/see/see-1.0.0.ebuild @amd64@, @~x86@(due 2010-09-09)
+*** "1.0.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/see/see-1.0.0.ebuild @amd64@, @x86@
 ** "@shelldoctest@":http://pypi.python.org/pypi/shelldoctest/ - Doctest/UnitTest for shell @[BSD]@
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/shelldoctest/shelldoctest-0.2.ebuild @amd64@, @x86@
 *** "0.2-r1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/shelldoctest/shelldoctest-0.2-r1.ebuild @~amd64@(due 2010-09-23), @~x86@(due 2010-09-23)
