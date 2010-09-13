@@ -62,8 +62,7 @@ h2. Packages
 ** "@luainotify@":http://www3.telus.net/taj_khattra/luainotify.html - a Lua interface to the Linux inotify subsystem @[as-is]@
 *** "0.20090818":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luainotify/luainotify-0.20090818.ebuild @amd64@, @x86@
 ** "@luaposix@":http://luaforge.net/projects/luaposix/ - POSIX function support library for lua @[public-domain]@
-*** "5.1.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luaposix/luaposix-5.1.4.ebuild @amd64@, @x86@
-*** "5.1.7":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luaposix/luaposix-5.1.7.ebuild @amd64@, @~x86@(due 2010-09-14)
+*** "5.1.7":http://github.com/JNRowe/misc-overlay/blob/master/dev-libs/luaposix/luaposix-5.1.7.ebuild @amd64@, @x86@
 * @dev-perl@
 ** "@Net-Twitter-Lite@":http://search.cpan.org/dist/Net-Twitter-Lite/ - A perl interface to the Twitter API @[Artistic]@
 *** "0.10003":http://github.com/JNRowe/misc-overlay/blob/master/dev-perl/Net-Twitter-Lite/Net-Twitter-Lite-0.10003.ebuild @~amd64@(due 2010-10-15), @~x86@(due 2010-10-15)
