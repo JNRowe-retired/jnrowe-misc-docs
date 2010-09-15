@@ -254,6 +254,8 @@ h2. Packages
 * @www-client@
 ** "@cupage@":http://github.com/JNRowe/cupage - A tool to check for updates on web pages @[GPL-3]@
 *** "0.5.1":http://github.com/JNRowe/misc-overlay/blob/master/www-client/cupage/cupage-0.5.1.ebuild @amd64@, @x86@
+** "@github-cli@":http://pypi.python.org/pypi/github-cli/ - A command-line interface to the GitHub Issues API v2 @[BSD]@
+*** "0.2.9":http://github.com/JNRowe/misc-overlay/blob/master/www-client/github-cli/github-cli-0.2.9.ebuild @~amd64@(due 2010-10-15)
 ** "@surfraw@":http://surfraw.alioth.debian.org/ - A fast unix command line interface to WWW @[public-domain]@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/www-client/surfraw/surfraw-9999.ebuild (masked by @package.mask@)
 * @x11-libs@
