@@ -74,6 +74,8 @@ h2. Packages
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.3.ebuild @amd64@, @x86@
 ** "@benchmarker@":http://pypi.python.org/pypi/Benchmarker/ - A small utility to benchmark your Python code @[public-domain]@
 *** "1.1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-1.1.0.ebuild @amd64@, @x86@
+** "@clevercss2@":http://pypi.python.org/pypi/CleverCSS2/ - Python inspired sass-like CSS preprocessor @[BSD]@
+*** "0.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/clevercss2/clevercss2-0.5.ebuild @~amd64@(indefinite) (masked by @package.mask@)
 ** "@codetalker@":http://jaredforsyth.com/projects/codetalker/ - A module for dynamic, pythonic language parsing @[MIT]@
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/codetalker/codetalker-1.0.ebuild @~amd64@(indefinite) (masked by @package.mask@)
 ** "@colorama@":http://pypi.python.org/pypi/colorama/ - Cross-platform colored terminal text @[BSD]@
