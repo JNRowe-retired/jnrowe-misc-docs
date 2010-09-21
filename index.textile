@@ -78,8 +78,6 @@ h2. Packages
 *** "1.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/cleancss/cleancss-1.3.ebuild @~amd64@(indefinite), @~x86@(indefinite) (masked by @package.mask@)
 ** "@clevercss@":http://pypi.python.org/pypi/CleverCSS/ - Funky sass-a-like CSS preprocessor @[BSD]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/clevercss/clevercss-0.1.ebuild @~amd64@(due 2010-10-21), @~x86@(indefinite)
-** "@codetalker@":http://jaredforsyth.com/projects/codetalker/ - A module for dynamic, pythonic language parsing @[MIT]@
-*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/codetalker/codetalker-1.0.ebuild @~amd64@(indefinite), @~x86@(indefinite) (masked by @package.mask@)
 ** "@colorama@":http://pypi.python.org/pypi/colorama/ - Cross-platform colored terminal text @[BSD]@
 *** "0.1.18":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/colorama/colorama-0.1.18.ebuild @~amd64@(due 2010-09-30), @~x86@(due 2010-09-30)
 ** "@commandlineapp@":http://www.doughellmann.com/projects/CommandLineApp/ - Makes creating appl as simple as defining callbacks to handle options @[MIT]@
