@@ -122,6 +122,7 @@ h2. Packages
 *** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/nosetty/nosetty-0.4.ebuild @amd64@, @x86@
 ** "@pep8@":http://github.com/cburroughs/pep8.py - A tool to check your Python code against the conventions in PEP 8 @[MIT]@
 *** "0.5.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.5.0.ebuild @amd64@, @x86@
+*** "0.6.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.6.0.ebuild @~amd64@(due 2010-10-21), @~x86@(due 2010-10-21)
 ** "@pinocchio@":http://darcs.idyll.org/~t/projects/pinocchio/doc/ - Extensions for the nose testing framework @[MIT]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pinocchio/pinocchio-0.1.ebuild @amd64@, @x86@
 ** "@plac@":http://pypi.python.org/pypi/plac/ - The smartest command line arguments parser in the world @[BSD]@
