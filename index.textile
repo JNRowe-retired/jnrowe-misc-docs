@@ -53,9 +53,6 @@ h2. Packages
 *** "2.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-db/spatialite/spatialite-2.3.1.ebuild @~amd64@(due 2010-10-23), @~x86@(due 2010-10-23)
 ** "@spatialite-tools@":http://www.gaia-gis.it/spatialite - Command line tools for spatialite @[GPL-3]@
 *** "2.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-db/spatialite-tools/spatialite-tools-2.3.1.ebuild @~amd64@(due 2010-10-23), @~x86@(due 2010-10-23)
-* @dev-haskell@
-** "@missingh@":http://software.complete.org/missingh - Collection of Haskell-related utilities @[GPL-2]@
-*** "1.0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-haskell/missingh/missingh-1.0.3.ebuild @~amd64@(indefinite), @~x86@(indefinite) (masked by @package.mask@)
 * @dev-lang@
 ** "@wirbel@":http://mathias-kettner.de/wirbel.html - A compiled programming language with syntax and semantics similar to Python @[GPL-2]@
 *** "0.1.11":http://github.com/JNRowe/misc-overlay/blob/master/dev-lang/wirbel/wirbel-0.1.11.ebuild @amd64@, @x86@
