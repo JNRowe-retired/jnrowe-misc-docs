@@ -103,7 +103,7 @@ h2. Packages
 *** "1.12":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.12.ebuild @~amd64@(due 2010-10-18), @~x86@(due 2010-10-18)
 ** "@html2data@":http://pypi.python.org/pypi/html2data/ - A simple way to transform a HTML file or URL to structured data. @[BSD]@
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html2data/html2data-0.2.ebuild @amd64@, @x86@
-*** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html2data/html2data-0.3.ebuild @~amd64@(due 2010-10-03), @~x86@(due 2010-10-03)
+*** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html2data/html2data-0.3.ebuild @amd64@, @~x86@(due 2010-10-03)
 ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ - Provides an interactive console for doctests @[LGPL-2.1]@
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/interlude/interlude-1.0.ebuild @amd64@, @x86@
 ** "@lettuce@":http://lettuce.it/ - Cucumber-ish BDD for python @[MIT]@
