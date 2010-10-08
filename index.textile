@@ -308,9 +308,6 @@ h2. Packages
 * @x11-themes@
 ** "@notify-osd-icons@":http://packages.ubuntu.com/notify-osd-icons - Icons for Notify-OSD in Ubuntu style @[CCPL-Attribution-ShareAlike-3.0]@
 *** "0.6":http://github.com/JNRowe/misc-overlay/blob/master/x11-themes/notify-osd-icons/notify-osd-icons-0.6.ebuild @~amd64@(indefinite), @~x86@(indefinite)
-* @x11-wm@
-** "@parti@":http://code.google.com/p/partiwm/ - Parti is a tabbing/tiling window manager @[GPL-2]@
-*** "0.0.6":http://github.com/JNRowe/misc-overlay/blob/master/x11-wm/parti/parti-0.0.6.ebuild @amd64@, @x86@
 
 h2. License
 
