@@ -279,6 +279,8 @@ h2. Packages
 * @x11-misc@
 ** "@gselt@":http://offog.org/code/gselt.html - Watches the X selection and displays context sensitive actions @[GPL-2]@
 *** "1.2":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/gselt/gselt-1.2.ebuild @amd64@, @x86@
+** "@notify-osd@":https://launchpad.net/notify-osd - Canonical's on-screen-display notification agent @[GPL-3]@
+*** "0.9.29":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/notify-osd/notify-osd-0.9.29.ebuild @~amd64@(indefinite) (masked by @package.mask@)
 ** @winmatch@ - A simple window matching utility, like devilspie @[GPL-2]@
 *** "0.5":http://github.com/JNRowe/misc-overlay/blob/master/x11-misc/winmatch/winmatch-0.5.ebuild @amd64@, @x86@
 ** "@winwrangler@":https://launchpad.net/winwrangler - WM agnostic tool to perform window tiling @[LGPL-3]@
