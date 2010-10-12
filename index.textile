@@ -162,7 +162,7 @@ h2. Packages
 ** "@should_dsl@":http://github.com/hugobr/should-dsl - Should assertions in Python as clear and readable as possible @[MIT]@
 *** "1.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/should_dsl/should_dsl-1.2.1.ebuild @amd64@, @x86@
 ** "@showme@":http://pypi.python.org/pypi/showme/ - Painless Debugging and Inspection for Python @[MIT]@
-*** "1.0.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/showme/showme-1.0.0.ebuild @~amd64@(due 2010-12-09)
+*** "1.0.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/showme/showme-1.0.0.ebuild @~amd64@(due 2010-12-09), @~x86@(due 2010-12-09)
 ** "@sphinx-to-github@":http://github.com/michaeljones/sphinx-to-github - Script to prepare Sphinx html output for github pages @[BSD]@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/sphinx-to-github/sphinx-to-github-9999.ebuild (masked by @package.mask@)
 ** "@sphinxcontrib-cheeseshop@":http://pypi.python.org/pypi/sphinxcontrib-cheeseshop/ - dev-python/sphinx extension to support generate links to PyPI @[BSD]@
