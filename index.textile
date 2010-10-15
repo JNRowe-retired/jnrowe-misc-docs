@@ -169,8 +169,7 @@ h2. Packages
 ** "@story_parser@":http://github.com/hugobr/story_parser - A Given/When/Then BDD stories parser @[MIT]@
 *** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/story_parser/story_parser-0.1.2.ebuild @amd64@, @x86@
 ** "@termcolor@":http://pypi.python.org/pypi/termcolor/ - ANSI colour formatting for terminals @[GPL-2]@
-*** "0.1.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termcolor/termcolor-0.1.2.ebuild @amd64@, @x86@
-*** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termcolor/termcolor-0.2.ebuild @amd64@, @~x86@(due 2010-10-15)
+*** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termcolor/termcolor-0.2.ebuild @amd64@, @x86@
 ** "@termstyle@":http://github.com/gfxmonk/termstyle - a dirt-simple terminal-colour library @[BSD]@
 *** "0.1.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/termstyle/termstyle-0.1.5.ebuild @amd64@, @x86@
 ** "@texttable@":http://jefke.free.fr/coding/python/ - module to generate a formatted text table, using ASCII characters. @[LGPL-2.1]@
