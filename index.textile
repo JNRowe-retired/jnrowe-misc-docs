@@ -104,8 +104,7 @@ h2. Packages
 ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ - Provides an interactive console for doctests @[LGPL-2.1]@
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/interlude/interlude-1.0.ebuild @amd64@, @x86@
 ** "@lettuce@":http://lettuce.it/ - Cucumber-ish BDD for python @[MIT]@
-*** "0.1.13":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.13.ebuild @amd64@, @x86@
-*** "0.1.14":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.14.ebuild @amd64@, @~x86@(due 2010-10-15)
+*** "0.1.14":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.14.ebuild @amd64@, @x86@
 ** "@logbook@":http://pypi.python.org/pypi/Logbook/ - A logging module replacement for Python @[BSD]@
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/logbook/logbook-0.1.ebuild @amd64@, @x86@
 *** "0.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/logbook/logbook-0.2.1.ebuild @~amd64@(due 2010-10-22), @~x86@(due 2010-10-22)
