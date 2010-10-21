@@ -32,8 +32,7 @@ h2. Packages
 ** "@termdebug@":http://os.ghalkes.nl/termdebug.html - Utilities to record and replay a terminal program session @[GPL-3]@
 *** "1.1":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/termdebug/termdebug-1.1.ebuild @amd64@, @x86@
 ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
-*** "0.6.1":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.6.1.ebuild @amd64@, @x86@
-*** "0.7":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.7.ebuild @amd64@, @~x86@(due 2010-10-21)
+*** "0.7":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.7.ebuild @amd64@, @x86@
 ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ - Create an ASCII animation that simulates the weather @[GPL-2]@
 *** "1.8":http://github.com/JNRowe/misc-overlay/blob/master/app-misc/weatherspect/weatherspect-1.8.ebuild @amd64@, @x86@
 * @app-mobilephone@
