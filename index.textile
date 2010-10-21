@@ -71,7 +71,7 @@ h2. Packages
 ** "@benchmarker@":http://pypi.python.org/pypi/Benchmarker/ - A small utility to benchmark your Python code @[public-domain]@
 *** "1.1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-1.1.0.ebuild @amd64@, @x86@
 ** "@clevercss@":http://pypi.python.org/pypi/CleverCSS/ - Funky sass-a-like CSS preprocessor @[BSD]@
-*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/clevercss/clevercss-0.1.ebuild @~amd64@(due 2010-10-21), @~x86@(due 2010-10-21)
+*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/clevercss/clevercss-0.1.ebuild @amd64@, @~x86@(due 2010-10-21)
 ** "@colorama@":http://pypi.python.org/pypi/colorama/ - Cross-platform colored terminal text @[BSD]@
 *** "0.1.18":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/colorama/colorama-0.1.18.ebuild @amd64@, @x86@
 ** "@commandlineapp@":http://www.doughellmann.com/projects/CommandLineApp/ - Makes creating appl as simple as defining callbacks to handle options @[MIT]@
