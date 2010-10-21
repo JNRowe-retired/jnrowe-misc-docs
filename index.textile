@@ -124,7 +124,7 @@ h2. Packages
 *** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pinocchio/pinocchio-0.1.ebuild @amd64@, @x86@
 ** "@plac@":http://pypi.python.org/pypi/plac/ - The smartest command line arguments parser in the world @[BSD]@
 *** "0.7.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/plac/plac-0.7.2.ebuild @amd64@, @x86@
-*** "0.7.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/plac/plac-0.7.4.ebuild @~amd64@(due 2010-10-21), @~x86@(due 2010-10-21)
+*** "0.7.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/plac/plac-0.7.4.ebuild @amd64@, @~x86@(due 2010-10-21)
 ** "@pwtools@":http://alastairs-place.net/pwtools/ - Password generation and security checking @[MIT]@
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pwtools/pwtools-0.2.ebuild @amd64@, @x86@
 ** "@pycukes@":http://github.com/hugobr/pycukes - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
