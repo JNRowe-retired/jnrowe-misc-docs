@@ -116,7 +116,7 @@ h2. Packages
 *** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/nosetty/nosetty-0.4.ebuild @amd64@, @x86@
 ** "@pep8@":http://github.com/jcrocholl/pep8 - A tool to check your Python code against the conventions in PEP 8 @[MIT]@
 *** "0.5.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.5.0.ebuild @amd64@, @x86@
-*** "0.6.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.6.1.ebuild @~amd64@(due 2010-10-21), @~x86@(due 2010-10-21)
+*** "0.6.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.6.1.ebuild @amd64@, @~x86@(due 2010-10-21)
 ** "@pgmagick@":http://pypi.python.org/pypi/pgmagick/ - Yet Another Python wrapper for GraphicsMagick @[MIT]@
 *** "0.2.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pgmagick/pgmagick-0.2.5.ebuild @~amd64@(due 2010-11-07), @~x86@(due 2010-11-07)
 ** "@pinocchio@":http://darcs.idyll.org/~t/projects/pinocchio/doc/ - Extensions for the nose testing framework @[MIT]@
