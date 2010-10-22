@@ -103,8 +103,7 @@ h2. Packages
 ** "@lettuce@":http://lettuce.it/ - Cucumber-ish BDD for python @[MIT]@
 *** "0.1.14":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.14.ebuild @amd64@, @x86@
 ** "@logbook@":http://pypi.python.org/pypi/Logbook/ - A logging module replacement for Python @[BSD]@
-*** "0.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/logbook/logbook-0.1.ebuild @amd64@, @x86@
-*** "0.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/logbook/logbook-0.2.1.ebuild @amd64@, @~x86@(due 2010-10-22)
+*** "0.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/logbook/logbook-0.2.1.ebuild @amd64@, @x86@
 ** "@mod2doctest@":http://pypi.python.org/pypi/mod2doctest/ - Convert any Python module to a doctest ready doc string @[MIT]@
 *** "0.1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/mod2doctest/mod2doctest-0.1.1.ebuild @amd64@, @x86@
 *** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/mod2doctest/mod2doctest-0.2.0.ebuild @~amd64@(due 2010-11-07), @~x86@(due 2010-11-07)
