@@ -46,7 +46,7 @@ h2. Packages
 *** "4.3":http://github.com/JNRowe/misc-overlay/blob/master/app-vim/rails/rails-4.3.ebuild @amd64@, @x86@
 * @dev-db@
 ** "@spatialite@":http://www.gaia-gis.it/spatialite - A complete sqlite-based Spatial DBMS in a nutshell @[MPL-1.1]@
-*** "2.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-db/spatialite/spatialite-2.3.1.ebuild @amd64@, @~x86@(due 2010-10-23)
+*** "2.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-db/spatialite/spatialite-2.3.1.ebuild @amd64@, @x86@
 ** "@spatialite-tools@":http://www.gaia-gis.it/spatialite - Command line tools for spatialite @[GPL-3]@
 *** "2.3.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-db/spatialite-tools/spatialite-tools-2.3.1.ebuild @amd64@, @~x86@(due 2010-10-23)
 * @dev-lang@
