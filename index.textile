@@ -194,6 +194,7 @@ h2. Packages
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/git-sync/git-sync-9999.ebuild (masked by @package.mask@)
 ** "@gitflow@":http://nvie.com/archives/323 - High-level repository operations for Vincent Driessen's branching model @[BSD-2]@
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/gitflow/gitflow-0.3.ebuild @amd64@, @x86@
+*** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/gitflow/gitflow-0.4.ebuild @~amd64@(due 2010-11-29)
 ** "@gitserve@":http://github.com/jezdez/git-serve/ - A helper tool for git that mimics mercurial's serve command @[GPL-2]@
 *** "0.2.0-r2":http://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/gitserve/gitserve-0.2.0-r2.ebuild @amd64@, @x86@
 ** "@hub@":http://github.com/defunkt/hub - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
