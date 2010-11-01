@@ -94,6 +94,8 @@ h2. Packages
 ** "@github2@":http://pypi.python.org/pypi/github2/ - Github API v2 library for Python @[BSD]@
 *** "0.1.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/github2/github2-0.1.3.ebuild @amd64@, @x86@
 *** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/github2/github2-0.2.0.ebuild @~amd64@(due 2010-11-30), @~x86@(due 2010-11-30)
+** "@gpxdata@":http://www.kette-links.de/technik.php?lang=en - OO representation of GPX and conversion utilities between GPX, KML and OVL @[GPL-2]@
+*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/gpxdata/gpxdata-1.0.ebuild @~amd64@(due 2010-12-01)
 ** "@html@":http://pypi.python.org/pypi/html/ - simple, elegant HTML/XHTML generation @[BSD]@
 *** "1.12":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.12.ebuild @amd64@, @x86@
 *** "1.13":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.13.ebuild @~amd64@(due 2010-11-07), @~x86@(due 2010-11-07)
