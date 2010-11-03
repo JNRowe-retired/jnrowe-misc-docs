@@ -77,6 +77,7 @@ h2. Packages
 *** "3.0.5":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.5.ebuild @amd64@, @x86@
 ** "@dexml@":http://pypi.python.org/pypi/dexml/ - A dead-simple Object-XML mapper for Python @[MIT]@
 *** "0.3.6":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.6.ebuild @amd64@, @x86@
+*** "0.3.7":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.7.ebuild @~amd64@(due 2010-12-03)
 ** "@doctest-tools@":http://code.google.com/p/doctest-tools/ - Tools to run doctests on code and text files within a directory @[MIT]@
 *** "1.0_alpha3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/doctest-tools/doctest-tools-1.0_alpha3.ebuild @amd64@, @x86@
 ** "@dtopt@":http://pypi.python.org/pypi/dtopt/ - Add options to doctest examples while they are running @[MIT]@
