@@ -229,7 +229,7 @@ h2. Packages
 ** "@aafigure@":https://launchpad.net/aafigure - ASCII art figures parsed and output as SVG, PNG, and more @[BSD]@
 *** "0.5-r1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/aafigure/aafigure-0.5-r1.ebuild @amd64@, @x86@
 ** "@blockdiag@":http://pypi.python.org/pypi/blockdiag/ - Generate block-diagram image files from text(like dot) @[PSF-2.4]@
-*** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/blockdiag/blockdiag-0.3.1.ebuild @~amd64@(due 2010-11-05), @~x86@(due 2010-11-05)
+*** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/blockdiag/blockdiag-0.3.1.ebuild @amd64@, @~x86@(due 2010-11-05)
 *** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/blockdiag/blockdiag-0.4.ebuild @~amd64@(due 2010-11-07), @~x86@(due 2010-11-07)
 *** "0.5.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/blockdiag/blockdiag-0.5.1.ebuild @~amd64@(due 2010-11-28), @~x86@(due 2010-11-28)
 ** "@gruffy@":http://pypi.python.org/pypi/gruffy/ - Gruffy is Python implementation of Gruff(Ruby Graphing Library) @[MIT]@
