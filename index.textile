@@ -242,7 +242,7 @@ h2. Packages
 ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-aafig/sphinxcontrib-aafig-1.0.ebuild @amd64@, @x86@
 ** "@sphinxcontrib-blockdiag@":http://pypi.python.org/pypi/sphinxcontrib-blockdiag/ - Sphinx extension to support media-gfx/blockdiag diagrams @[BSD]@
-*** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-blockdiag/sphinxcontrib-blockdiag-0.3.1.ebuild @~amd64@(due 2010-11-05), @~x86@(due 2010-11-05)
+*** "0.3.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-blockdiag/sphinxcontrib-blockdiag-0.3.1.ebuild @amd64@, @~x86@(due 2010-11-05)
 *** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-blockdiag/sphinxcontrib-blockdiag-0.4.ebuild @~amd64@(due 2010-11-07), @~x86@(due 2010-11-07)
 *** "0.5":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-blockdiag/sphinxcontrib-blockdiag-0.5.ebuild @~amd64@(due 2010-11-28), @~x86@(due 2010-11-28)
 ** "@sphinxcontrib-gruffygen@":http://pypi.python.org/pypi/sphinxcontrib-gruffygen/ - Sphinx extension to support media-gfx/gruffy graphs @[BSD]@
