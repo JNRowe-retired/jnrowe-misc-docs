@@ -137,7 +137,7 @@ h2. Packages
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pwtools/pwtools-0.2.ebuild @amd64@, @x86@
 ** "@pycparser@":http://code.google.com/p/pycparser/ - C parser and AST generator written in Python @[LGPL-3]@
 *** "2.00":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycparser/pycparser-2.00.ebuild @~amd64@(due 2010-12-01), @~x86@(due 2010-12-01)
-** "@pycukes@":http://github.com/hugobr/pycukes - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
+** "@pycukes@":https://github.com/hugobr/pycukes - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
 *** "0.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.2.ebuild @amd64@, @x86@
 ** "@pydelicious@":http://code.google.com/p/pydelicious/ - Access the web service of del.icio.us via it's API through python @[BSD]@
 *** "0.5.2_rc2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pydelicious/pydelicious-0.5.2_rc2.ebuild @amd64@, @x86@
