@@ -39,7 +39,7 @@ h2. Packages
 ** "@pyhumod@":http://code.google.com/p/pyhumod/ - Accessing Huawei modems in Python, including SMS and data calls. @[BSD]@
 *** "0.03":http://github.com/JNRowe/misc-overlay/blob/master/app-mobilephone/pyhumod/pyhumod-0.03.ebuild @amd64@, @x86@
 * @app-text@
-** "@gist@":http://github.com/defunkt/gist - Absolutely the best command line gister @[MIT]@
+** "@gist@":https://github.com/defunkt/gist - Absolutely the best command line gister @[MIT]@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/app-text/gist/gist-9999.ebuild (masked by @package.mask@)
 * @app-vim@
 ** "@rails@":http://www.vim.org/scripts/script.php?script_id=1567 - vim plugin: RoR - easy file navigation, enhanced syntax highlighting @[vim]@
