@@ -316,7 +316,7 @@ h2. Packages
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/wicked/wicked-9999.ebuild (masked by @package.mask@)
 * @x11-themes@
 ** "@notify-osd-icons@":http://packages.ubuntu.com/notify-osd-icons - Icons for Notify-OSD in Ubuntu style @[CCPL-Attribution-ShareAlike-3.0]@
-*** "0.6":http://github.com/JNRowe/misc-overlay/blob/master/x11-themes/notify-osd-icons/notify-osd-icons-0.6.ebuild @amd64@, @~x86@(indefinite)
+*** "0.6":http://github.com/JNRowe/misc-overlay/blob/master/x11-themes/notify-osd-icons/notify-osd-icons-0.6.ebuild @amd64@, @x86@
 
 h2. License
 
