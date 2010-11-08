@@ -250,7 +250,7 @@ h2. Packages
 *** "0.4":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-blockdiag/sphinxcontrib-blockdiag-0.4.ebuild @~amd64@(due 2010-11-07), @~x86@(due 2010-11-07)
 *** "0.5":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-blockdiag/sphinxcontrib-blockdiag-0.5.ebuild @~amd64@(due 2010-11-28), @~x86@(due 2010-11-28)
 ** "@sphinxcontrib-gruffygen@":http://pypi.python.org/pypi/sphinxcontrib-gruffygen/ - Sphinx extension to support media-gfx/gruffy graphs @[BSD]@
-*** "0.1.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-gruffygen/sphinxcontrib-gruffygen-0.1.1.ebuild @amd64@, @~x86@(due 2010-11-07)
+*** "0.1.1":http://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-gruffygen/sphinxcontrib-gruffygen-0.1.1.ebuild @amd64@, @x86@
 * @media-sound@
 ** "@castget@":http://www.nongnu.org/castget/ - A simple command-line based RSS enclosure downloader @[LGPL-2.1]@
 *** "1.1.0":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/castget/castget-1.1.0.ebuild @amd64@, @x86@
