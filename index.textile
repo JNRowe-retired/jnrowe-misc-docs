@@ -117,7 +117,7 @@ h2. Packages
 *** "0.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/logbook/logbook-0.3.ebuild @~amd64@(due 2010-11-29), @~x86@(due 2010-11-29)
 ** "@mod2doctest@":http://pypi.python.org/pypi/mod2doctest/ - Convert any Python module to a doctest ready doc string @[MIT]@
 *** "0.1.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/mod2doctest/mod2doctest-0.1.1.ebuild @amd64@, @x86@
-*** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/mod2doctest/mod2doctest-0.2.0.ebuild @~amd64@(due 2010-11-07), @~x86@(due 2010-11-07)
+*** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/mod2doctest/mod2doctest-0.2.0.ebuild @~amd64@(due 2010-11-07), @x86@
 ** "@multiprocessing@":http://pypi.python.org/pypi/multiprocessing/ - Offers both local and remote concurrency, by using subprocesses @[BSD]@
 *** "2.6.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/multiprocessing/multiprocessing-2.6.2.1.ebuild @amd64@, @x86@
 ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ - Add additional directories to sys.path for nose. @[Apache-2.0]@
