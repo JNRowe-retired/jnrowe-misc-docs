@@ -256,7 +256,7 @@ h2. Packages
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/media-sound/mpdcron/mpdcron-9999.ebuild (masked by @package.mask@)
 * @media-tv@
 ** "@ontv@":http://live.gnome.org/OnTV - GNOME Applet for monitoring current and upcoming TV programs @[GPL-2]@
-*** "3.2.0":http://github.com/JNRowe/misc-overlay/blob/master/media-tv/ontv/ontv-3.2.0.ebuild @amd64@
+*** "3.2.0":http://github.com/JNRowe/misc-overlay/blob/master/media-tv/ontv/ontv-3.2.0.ebuild @amd64@, @~x86@(due 2010-12-21)
 * @net-irc@
 ** "@twirssi@":http://www.twirssi.com/ - An irssi script allowing the use of Twitter from within irssi @[GPL-2]@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/net-irc/twirssi/twirssi-9999.ebuild 
