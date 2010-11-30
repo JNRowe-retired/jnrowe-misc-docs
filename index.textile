@@ -311,6 +311,7 @@ h2. Packages
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/obvious/obvious-9999.ebuild (masked by @package.mask@)
 ** "@vicious@":http://awesome.naquadah.org/wiki/Vicious - vicious widgets for the awesome window manager @[GPL-2]@
 *** "2.0.1":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/vicious/vicious-2.0.1.ebuild @amd64@, @x86@
+*** "2.0.2":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/vicious/vicious-2.0.2.ebuild @~amd64@(due 2010-12-30)
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/vicious/vicious-9999.ebuild (masked by @package.mask@)
 ** "@wicked@":http://awesome.naquadah.org/wiki/Wicked - Widget creation library for x11-wm/awesome @[WTFPL-2]@
 *** "9999(@git@)":http://github.com/JNRowe/misc-overlay/blob/master/x11-plugins/wicked/wicked-9999.ebuild (masked by @package.mask@)
