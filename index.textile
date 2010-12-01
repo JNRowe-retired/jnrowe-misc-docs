@@ -96,8 +96,7 @@ h2. Packages
 ** "@gistapi@":https://github.com/kennethreitz/gistapi.py - A Python wrapper for GitHub's Gist API @[MIT]@
 *** "0.2.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/gistapi/gistapi-0.2.1.ebuild @amd64@, @x86@
 ** "@github2@":http://pypi.python.org/pypi/github2/ - Github API v2 library for Python @[BSD]@
-*** "0.1.3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/github2/github2-0.1.3.ebuild @amd64@, @x86@
-*** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/github2/github2-0.2.0.ebuild @amd64@, @~x86@(due 2010-11-30)
+*** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/github2/github2-0.2.0.ebuild @amd64@, @x86@
 ** "@gpxdata@":http://www.kette-links.de/technik.php?lang=en - OO representation of GPX and conversion utilities between GPX, KML and OVL @[GPL-2]@
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/gpxdata/gpxdata-1.0.ebuild @~amd64@(due 2010-12-01), @~x86@(due 2010-12-01)
 ** "@grapefruit@":http://code.google.com/p/grapefruit/ - A module to manipulate color information easily. @[Apache-2.0]@
