@@ -98,7 +98,7 @@ h2. Packages
 ** "@github2@":http://pypi.python.org/pypi/github2/ - Github API v2 library for Python @[BSD]@
 *** "0.2.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/github2/github2-0.2.0.ebuild @amd64@, @x86@
 ** "@gpxdata@":http://www.kette-links.de/technik.php?lang=en - OO representation of GPX and conversion utilities between GPX, KML and OVL @[GPL-2]@
-*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/gpxdata/gpxdata-1.0.ebuild @amd64@, @~x86@(due 2010-12-01)
+*** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/gpxdata/gpxdata-1.0.ebuild @amd64@, @x86@
 ** "@grapefruit@":http://code.google.com/p/grapefruit/ - A module to manipulate color information easily. @[Apache-2.0]@
 *** "0.1_alpha3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/grapefruit/grapefruit-0.1_alpha3.ebuild @~amd64@(indefinite), @~x86@(indefinite)
 ** "@html@":http://pypi.python.org/pypi/html/ - simple, elegant HTML/XHTML generation @[BSD]@
