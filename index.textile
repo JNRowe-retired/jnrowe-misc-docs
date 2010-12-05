@@ -140,8 +140,6 @@ h2. Packages
 *** "0.6.8":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyhistorian/pyhistorian-0.6.8.ebuild @amd64@, @x86@
 ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
 *** "0.5.1":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyisbn/pyisbn-0.5.1.ebuild @amd64@, @x86@
-** "@python-gnupg@":http://code.google.com/p/python-gnupg/ - Python API which wraps the GNU Privacy Guard(gpg) @[MIT]@
-*** "0.2.4":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-gnupg/python-gnupg-0.2.4.ebuild @amd64@, @x86@ (masked by @package.mask@)
 ** "@python-osmgpsmap@":http://nzjrs.github.com/osm-gps-map/ - Python bindings for osm-gps-map @[GPL-3]@
 *** "0.7.2":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/python-osmgpsmap/python-osmgpsmap-0.7.2.ebuild @amd64@, @x86@
 ** "@rad@":http://pypi.python.org/pypi/rad/ - A super easy console highlighter. Text goes in, colour comes out. @[MIT]@
