@@ -99,7 +99,7 @@ h2. Packages
 ** "@gpxdata@":http://www.kette-links.de/technik.php?lang=en - OO representation of GPX and conversion utilities between GPX, KML and OVL @[GPL-2]@
 *** "1.0":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/gpxdata/gpxdata-1.0.ebuild @amd64@, @x86@
 ** "@grapefruit@":http://code.google.com/p/grapefruit/ - A module to manipulate color information easily. @[Apache-2.0]@
-*** "0.1_alpha3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/grapefruit/grapefruit-0.1_alpha3.ebuild @~amd64@(indefinite), @~x86@(indefinite)
+*** "0.1_alpha3":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/grapefruit/grapefruit-0.1_alpha3.ebuild @amd64@, @~x86@(indefinite)
 ** "@html@":http://pypi.python.org/pypi/html/ - simple, elegant HTML/XHTML generation @[BSD]@
 *** "1.13":http://github.com/JNRowe/misc-overlay/blob/master/dev-python/html/html-1.13.ebuild @amd64@, @x86@
 ** "@html2data@":http://pypi.python.org/pypi/html2data/ - A simple way to transform a HTML file or URL to structured data. @[BSD]@
