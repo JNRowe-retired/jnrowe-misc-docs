@@ -68,8 +68,7 @@ h2. Packages
 ** "@astral@":http://www.sffjunkie.co.uk/python-astral.html - Calculations for the position of the sun @[Apache-2.0]@
 *** "0.3":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/astral/astral-0.3.ebuild @amd64@, @x86@
 ** "@benchmarker@":http://pypi.python.org/pypi/Benchmarker/ - A small utility to benchmark your Python code @[public-domain]@
-*** "1.1.0":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-1.1.0.ebuild @amd64@, @x86@
-*** "2.0.0":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-2.0.0.ebuild @amd64@, @~x86@(due 2010-12-07)
+*** "2.0.0":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/benchmarker/benchmarker-2.0.0.ebuild @amd64@, @x86@
 ** "@clevercss@":http://pypi.python.org/pypi/CleverCSS/ - Funky sass-a-like CSS preprocessor @[BSD]@
 *** "0.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/clevercss/clevercss-0.1.ebuild @amd64@, @x86@
 ** "@colorama@":http://pypi.python.org/pypi/colorama/ - Cross-platform colored terminal text @[BSD]@
