@@ -172,7 +172,7 @@ h2. Packages
 *** "1.7.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/tweepy/tweepy-1.7.1.ebuild @amd64@, @x86@
 ** "@twython@":http://pypi.python.org/pypi/twython/ - An easy (and up to date) way to access Twitter data with Python. @[MIT]@
 *** "1.2":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.2.ebuild @amd64@, @x86@
-*** "1.3.4":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.3.4.ebuild @~amd64@(due 2011-02-09), @~x86@(due 2010-12-11)
+*** "1.3.4":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.3.4.ebuild @~amd64@(due 2011-02-09), @~x86@(due 2011-02-09)
 ** "@upoints@":http://www.jnrowe.ukfsn.org/projects/upoints.html - Modules for working with points on Earth @[GPL-3]@
 *** "0.11.0":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/upoints/upoints-0.11.0.ebuild @amd64@, @x86@
 ** "@urlunshort@":http://bitbucket.org/runeh/urlunshort - Tools for detecting and expanding shortened URLs @[BSD-2]@
