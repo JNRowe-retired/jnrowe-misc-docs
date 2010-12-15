@@ -134,6 +134,7 @@ h2. Packages
 *** "0.2":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.2.ebuild @amd64@, @x86@
 ** "@pydelicious@":http://code.google.com/p/pydelicious/ - Access the web service of del.icio.us via it's API through python @[BSD]@
 *** "0.5.2_rc2":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pydelicious/pydelicious-0.5.2_rc2.ebuild @amd64@, @x86@
+*** "0.6":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pydelicious/pydelicious-0.6.ebuild @~amd64@(due 2011-01-14)
 ** "@pyhistorian@":https://github.com/hugobr/pyhistorian - A BDD tool for writing specs using Given-When-Then template @[MIT]@
 *** "0.6.8":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyhistorian/pyhistorian-0.6.8.ebuild @amd64@, @x86@
 ** "@pyisbn@":http://www.jnrowe.ukfsn.org/projects/pyisbn.html - A module for working with 10- and 13-digit ISBNs @[GPL-3]@
