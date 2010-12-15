@@ -262,7 +262,7 @@ h2. Packages
 *** "0.7.2":https://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/osm-gps-map/osm-gps-map-0.7.2.ebuild @amd64@, @x86@
 * @sci-visualization@
 ** "@pycha@":http://pypi.python.org/pypi/pycha/ - A library for making charts with Python @[LGPL-3]@
-*** "0.5.3":https://github.com/JNRowe/misc-overlay/blob/master/sci-visualization/pycha/pycha-0.5.3.ebuild @amd64@, @~x86@(due 2010-12-09)
+*** "0.5.3":https://github.com/JNRowe/misc-overlay/blob/master/sci-visualization/pycha/pycha-0.5.3.ebuild @amd64@, @x86@
 * @sys-apps@
 ** "@zlibc@":http://zlibc.linux.lu/ - Read-only compressed file-system emulation. @[GPL-2]@
 *** "0.9k":https://github.com/JNRowe/misc-overlay/blob/master/sys-apps/zlibc/zlibc-0.9k.ebuild @amd64@, @x86@
