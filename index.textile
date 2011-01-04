@@ -258,7 +258,7 @@ h2. Packages
 * @net-misc@
 ** "@bleeter@":http://jnrowe.github.com/bleeter/ - Nasty little twitter client @[GPL-3]@
 *** "0.6.0":https://github.com/JNRowe/misc-overlay/blob/master/net-misc/bleeter/bleeter-0.6.0.ebuild @amd64@, @x86@
-*** "0.7.0":https://github.com/JNRowe/misc-overlay/blob/master/net-misc/bleeter/bleeter-0.7.0.ebuild @~amd64@(due 2011-02-03)
+*** "0.7.0":https://github.com/JNRowe/misc-overlay/blob/master/net-misc/bleeter/bleeter-0.7.0.ebuild @~amd64@(due 2011-02-03), @~x86@(due 2011-02-03)
 * @sci-geosciences@
 ** "@gpsfeed@":http://users.hol.gr/~dzach/gpsfeed/index.html - A utility that generates continuous GPS data for running tests @[GPL-2]@
 *** "0.58":https://github.com/JNRowe/misc-overlay/blob/master/sci-geosciences/gpsfeed/gpsfeed-0.58.ebuild @amd64@, @x86@
