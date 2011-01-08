@@ -35,6 +35,7 @@ h2. Packages
 *** "1.1":https://github.com/JNRowe/misc-overlay/blob/master/app-misc/termdebug/termdebug-1.1.ebuild @amd64@, @x86@
 ** "@tudu@":http://www.cauterized.net/~meskio/tudu/ - TuDu is a comand line interface to manage hierarchical todos. @[GPL-3]@
 *** "0.7":https://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.7.ebuild @amd64@, @x86@
+*** "0.8":https://github.com/JNRowe/misc-overlay/blob/master/app-misc/tudu/tudu-0.8.ebuild @~amd64@(due 2011-02-07)
 ** "@weatherspect@":http://www.robobunny.com/projects/weatherspect/html/ - Create an ASCII animation that simulates the weather @[GPL-2]@
 *** "1.8":https://github.com/JNRowe/misc-overlay/blob/master/app-misc/weatherspect/weatherspect-1.8.ebuild @amd64@, @x86@
 * @app-mobilephone@
