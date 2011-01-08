@@ -230,7 +230,7 @@ h2. Packages
 *** "0.1_p20090528":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/psplash/psplash-0.1_p20090528.ebuild @amd64@, @x86@
 ** "@sng@":http://www.catb.org/~esr/sng/ - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@
 *** "1.0.2-r1":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sng/sng-1.0.2-r1.ebuild @amd64@, @x86@
-*** "1.0.5":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sng/sng-1.0.5.ebuild @~amd64@(due 2011-01-05), @~x86@(due 2011-01-05)
+*** "1.0.5":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sng/sng-1.0.5.ebuild @amd64@, @~x86@(due 2011-01-05)
 ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
 *** "1.0":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sphinxcontrib-aafig/sphinxcontrib-aafig-1.0.ebuild @amd64@, @x86@
 ** "@sphinxcontrib-blockdiag@":http://pypi.python.org/pypi/sphinxcontrib-blockdiag/ - Sphinx extension to support media-gfx/blockdiag diagrams @[BSD]@
