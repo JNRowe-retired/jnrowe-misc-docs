@@ -114,6 +114,7 @@ h2. Packages
 *** "0.4.3":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/isodate/isodate-0.4.3.ebuild @~amd64@(due 2011-01-15), @~x86@(due 2011-01-15)
 ** "@lettuce@":http://lettuce.it/ - Cucumber-ish BDD for python @[MIT]@
 *** "0.1.17":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.17.ebuild @amd64@, @x86@
+*** "0.1.18":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.18.ebuild @~amd64@(due 2011-02-09)
 ** "@logbook@":http://pypi.python.org/pypi/Logbook/ - A logging module replacement for Python @[BSD]@
 *** "0.3":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/logbook/logbook-0.3.ebuild @amd64@, @x86@
 ** "@mod2doctest@":http://pypi.python.org/pypi/mod2doctest/ - Convert any Python module to a doctest ready doc string @[MIT]@
