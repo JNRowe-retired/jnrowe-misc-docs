@@ -274,6 +274,7 @@ h2. Packages
 * @sci-visualization@
 ** "@pycha@":http://pypi.python.org/pypi/pycha/ - A library for making charts with Python @[LGPL-3]@
 *** "0.5.3":https://github.com/JNRowe/misc-overlay/blob/master/sci-visualization/pycha/pycha-0.5.3.ebuild @amd64@, @x86@
+*** "0.6.0":https://github.com/JNRowe/misc-overlay/blob/master/sci-visualization/pycha/pycha-0.6.0.ebuild @~amd64@(due 2011-02-11)
 * @sys-apps@
 ** "@zlibc@":http://zlibc.linux.lu/ - Read-only compressed file-system emulation. @[GPL-2]@
 *** "0.9k":https://github.com/JNRowe/misc-overlay/blob/master/sys-apps/zlibc/zlibc-0.9k.ebuild @amd64@, @x86@
