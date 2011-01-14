@@ -111,6 +111,7 @@ h2. Packages
 *** "0.3":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/html2data/html2data-0.3.ebuild @amd64@, @x86@
 ** "@interlude@":https://svn.bluedynamics.eu/svn/public/interlude/ - Provides an interactive console for doctests @[LGPL-2.1]@
 *** "1.0":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/interlude/interlude-1.0.ebuild @amd64@, @x86@
+*** "1.1.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/interlude/interlude-1.1.1.ebuild @~amd64@(due 2011-02-13)
 ** "@isodate@":http://pypi.python.org/pypi/isodate/ - An ISO 8601 date/time/duration parser and formater @[BSD]@
 *** "0.4.3":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/isodate/isodate-0.4.3.ebuild @~amd64@(due 2011-01-15), @~x86@(due 2011-01-15)
 ** "@lettuce@":http://lettuce.it/ - Cucumber-ish BDD for python @[MIT]@
