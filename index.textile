@@ -215,6 +215,9 @@ h2. Packages
 *** "0.2.0-r2":https://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/gitserve/gitserve-0.2.0-r2.ebuild @amd64@, @x86@
 ** "@hub@":https://github.com/defunkt/hub - hub is a command line utility which adds GitHub knowledge to git @[MIT]@
 *** "9999(@git@)":https://github.com/JNRowe/misc-overlay/blob/master/dev-vcs/hub/hub-9999.ebuild (masked by @package.mask@)
+* @games-action@
+** "@reminiscence@":http://cyxdown.free.fr/reminiscence/ - A rewrite of the engine used in the game Flashback @[GPL-2]@
+*** "0.1.9":https://github.com/JNRowe/misc-overlay/blob/master/games-action/reminiscence/reminiscence-0.1.9.ebuild @~amd64@(indefinite)
 * @mail-client@
 ** "@notmuch@":http://notmuchmail.org/ - Thread-based email index, search and tagging. @[GPL-3]@
 *** "0.5":https://github.com/JNRowe/misc-overlay/blob/master/mail-client/notmuch/notmuch-0.5.ebuild @amd64@, @x86@
