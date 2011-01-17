@@ -97,6 +97,7 @@ h2. Packages
 *** "0.3.4":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/funcparserlib/funcparserlib-0.3.4.ebuild @amd64@, @x86@
 ** "@genzshcomp@":http://bitbucket.org/hhatto/genzshcomp/ - Automatic generation of zsh completion functions @[BSD]@
 *** "0.0.8":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/genzshcomp/genzshcomp-0.0.8.ebuild @amd64@, @x86@
+*** "0.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/genzshcomp/genzshcomp-0.1.ebuild @~amd64@(due 2011-02-16)
 ** "@gistapi@":https://github.com/kennethreitz/gistapi.py - A Python wrapper for GitHub's Gist API @[MIT]@
 *** "0.2.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/gistapi/gistapi-0.2.1.ebuild @amd64@, @x86@
 ** "@github2@":http://pypi.python.org/pypi/github2/ - Github API v2 library for Python @[BSD]@
