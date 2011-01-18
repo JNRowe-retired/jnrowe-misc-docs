@@ -136,7 +136,7 @@ h2. Packages
 *** "0.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pinocchio/pinocchio-0.1.ebuild @amd64@, @x86@
 ** "@plac@":http://pypi.python.org/pypi/plac/ - The smartest command line arguments parser in the world @[BSD]@
 *** "0.7.4":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/plac/plac-0.7.4.ebuild @amd64@, @x86@
-*** "0.7.5":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/plac/plac-0.7.5.ebuild @~amd64@(due 2011-02-17)
+*** "0.7.5":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/plac/plac-0.7.5.ebuild @~amd64@(due 2011-02-17), @~x86@(due 2011-02-17)
 ** "@pwtools@":http://alastairs-place.net/pwtools/ - Password generation and security checking @[MIT]@
 *** "0.2":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pwtools/pwtools-0.2.ebuild @amd64@, @x86@
 ** "@pycparser@":http://code.google.com/p/pycparser/ - C parser and AST generator written in Python @[LGPL-3]@
