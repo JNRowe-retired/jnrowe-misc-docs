@@ -78,6 +78,7 @@ h2. Packages
 *** "0.1.18":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/colorama/colorama-0.1.18.ebuild @amd64@, @x86@
 ** "@commandlineapp@":http://www.doughellmann.com/projects/CommandLineApp/ - Makes creating appl as simple as defining callbacks to handle options @[MIT]@
 *** "3.0.5":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.5.ebuild @amd64@, @x86@
+*** "3.0.6":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.6.ebuild @~amd64@(due 2011-02-18)
 ** "@dexml@":http://pypi.python.org/pypi/dexml/ - A dead-simple Object-XML mapper for Python @[MIT]@
 *** "0.3.7":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.3.7.ebuild @amd64@, @x86@
 *** "0.4.0":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/dexml/dexml-0.4.0.ebuild @~amd64@(due 2011-02-12), @~x86@(due 2011-02-12)
