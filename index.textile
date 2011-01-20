@@ -133,6 +133,7 @@ h2. Packages
 *** "0.6.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pep8/pep8-0.6.1.ebuild @amd64@, @x86@
 ** "@pgmagick@":http://pypi.python.org/pypi/pgmagick/ - Yet Another Python wrapper for GraphicsMagick @[MIT]@
 *** "0.2.5":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pgmagick/pgmagick-0.2.5.ebuild @amd64@, @x86@
+*** "0.3.2":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pgmagick/pgmagick-0.3.2.ebuild @~amd64@(due 2011-02-19)
 ** "@pinocchio@":http://darcs.idyll.org/~t/projects/pinocchio/doc/ - Extensions for the nose testing framework @[MIT]@
 *** "0.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pinocchio/pinocchio-0.1.ebuild @amd64@, @x86@
 ** "@plac@":http://pypi.python.org/pypi/plac/ - The smartest command line arguments parser in the world @[BSD]@
