@@ -247,6 +247,8 @@ h2. Packages
 *** "0.2.2":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/gruffy/gruffy-0.2.2.ebuild @amd64@, @x86@
 ** "@psplash@":http://labs.o-hand.com/psplash/ - A tiny userspace graphical boot splash screen @[GPL-2]@
 *** "0.1_p20090528":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/psplash/psplash-0.1_p20090528.ebuild @amd64@, @x86@
+** "@seqdiag@":http://pypi.python.org/pypi/seqdiag/ - Generate sequence-diagram image files from spec-text files @[PSF-2.4]@
+*** "0.1.7":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/seqdiag/seqdiag-0.1.7.ebuild @~amd64@(due 2011-02-21)
 ** "@sng@":http://www.catb.org/~esr/sng/ - SNG is a DSL to represent a PNG file in an editable form @[ZLIB as-is]@
 *** "1.0.5":https://github.com/JNRowe/misc-overlay/blob/master/media-gfx/sng/sng-1.0.5.ebuild @amd64@, @x86@
 ** "@sphinxcontrib-aafig@":http://packages.python.org/sphinxcontrib-aafig/ - dev-python/sphinx extension to support media-gfx/aafigure @[BOLA]@
