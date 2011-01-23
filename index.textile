@@ -127,7 +127,7 @@ h2. Packages
 ** "@multiprocessing@":http://pypi.python.org/pypi/multiprocessing/ - Offers both local and remote concurrency, by using subprocesses @[BSD]@
 *** "2.6.2.1":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/multiprocessing/multiprocessing-2.6.2.1.ebuild @amd64@, @x86@
 ** "@nose-machineout@":http://code.google.com/p/nose-machineout/ - Machine parsable output plugin for nose @[PSF-2.4]@
-*** "0.0.20101201":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/nose-machineout/nose-machineout-0.0.20101201.ebuild @~amd64@(due 2011-02-22)
+*** "0.0.20101201":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/nose-machineout/nose-machineout-0.0.20101201.ebuild @~amd64@(due 2011-02-22), @~x86@(due 2011-02-22)
 ** "@nose-pathmunge@":http://bitbucket.org/jnoller/nose-pathmunge/ - Add additional directories to sys.path for nose. @[Apache-2.0]@
 *** "0.1.2":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/nose-pathmunge/nose-pathmunge-0.1.2.ebuild @amd64@, @x86@
 ** "@nosetty@":http://code.google.com/p/nosetty/ - A plugin to run nosetests more interactively @[LGPL-2.1]@
