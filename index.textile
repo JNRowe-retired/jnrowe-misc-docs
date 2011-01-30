@@ -145,7 +145,6 @@ h2. Packages
 ** "@pwtools@":http://alastairs-place.net/pwtools/ - Password generation and security checking @[MIT]@
 *** "0.2":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pwtools/pwtools-0.2.ebuild @amd64@, @x86@
 ** "@pycparser@":http://code.google.com/p/pycparser/ - C parser and AST generator written in Python @[LGPL-3]@
-*** "2.00":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycparser/pycparser-2.00.ebuild @~x86@(due 2011-01-30)
 *** "2.02":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycparser/pycparser-2.02.ebuild @~amd64@(due 2011-02-20), @~x86@(due 2011-02-20)
 ** "@pycukes@":https://github.com/hugobr/pycukes - A Cucumber-like BDD framework built on top of Pyhistorian @[MIT]@
 *** "0.2":https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycukes/pycukes-0.2.ebuild @amd64@, @x86@
