@@ -1,0 +1,211 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Contributing &mdash; misc-overlay documentation</title>
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="misc-overlay documentation" href="index.html" />
+    <link rel="prev" title="Contact" href="contact.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="contact.html" title="Contact"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">misc-overlay documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="contributing">
+<h1>Contributing<a class="headerlink" href="#contributing" title="Permalink to this headline">¶</a></h1>
+<p>There are few notes beyond the advice in the excellent <a class="reference external" href="http://devmanual.gentoo.org/">devmanual</a> that should be
+taken in to consideration when contributing to this overlay.</p>
+<div class="section" id="die-usage">
+<h2><strong class="command">die</strong> usage<a class="headerlink" href="#die-usage" title="Permalink to this headline">¶</a></h2>
+<p>There are few differences between how <strong class="command">die</strong> is commonly used in the
+upstream tree, and how it is used in this overlay.  The rules in the overlay
+aren&#8217;t always strictly enforced, but documenting this will hopefully reduce the
+number of syntax questions I&#8217;m asked.</p>
+<div class="section" id="sed-and-die">
+<h3><strong class="command">sed</strong> and <strong class="command">die</strong><a class="headerlink" href="#sed-and-die" title="Permalink to this headline">¶</a></h3>
+<p><strong class="command">sed</strong> should not be followed by a <strong class="command">die</strong> in any <tt class="docutils literal"><span class="pre">ebuild</span></tt> in
+this overlay.  Invariably, it leads to a misunderstanding of what is actually
+happening and continuing the usage is quite counter-productive.</p>
+<p>The only thing the <tt class="docutils literal"><span class="pre">sed</span> <span class="pre">||</span> <span class="pre">die</span></tt> construct achieves is a failure if a specified
+file is missing.  Too many people seem to believe it does other things, such as
+fail if an expression can&#8217;t be applied.  [And frankly, if your <strong class="command">die</strong>
+calls are triggered because of missing or mispelt files there are much greater
+problems than a poorly defined call to <strong class="command">sed</strong>.]</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Users inside the AST firewall should note that our <strong class="command">sed</strong> wrappers
+used within an <tt class="docutils literal"><span class="pre">ebuild</span></tt> will fail if a file doesn&#8217;t exist or an expression
+doesn&#8217;t apply.</p>
+</div>
+</div>
+<div class="section" id="do-and-die">
+<h3><strong class="command">do*</strong> and <strong class="command">die</strong><a class="headerlink" href="#do-and-die" title="Permalink to this headline">¶</a></h3>
+<p>It is common practise within the main Gentoo repository that calls to the likes
+of <strong class="command">dodoc</strong> or <strong class="command">doman</strong> do not call <strong class="command">die</strong> on failure.
+This is <em>not</em> acceptable in this overlay.</p>
+<p>Usage of wildcards in calls to <strong class="command">do*</strong> is also frowned upon, but not
+enough to clean up previous usage [yet].</p>
+<p>All entities that should be installed should raise a failure if they are not
+installed, there shouldn&#8217;t be a middle ground for some types of files.</p>
+</div>
+</div>
+<div class="section" id="restrict-usage">
+<h2><span class="target" id="index-0"></span><tt class="xref std std-envvar docutils literal"><span class="pre">RESTRICT</span></tt> usage<a class="headerlink" href="#restrict-usage" title="Permalink to this headline">¶</a></h2>
+<p>All usage of <span class="target" id="index-1"></span><tt class="xref std std-envvar docutils literal"><span class="pre">RESTRICT</span></tt> in an <tt class="docutils literal"><span class="pre">ebuild</span></tt> should be accompanied by an
+explanation of the reason for the restriction.  It should be obvious to someone
+looking at an <tt class="docutils literal"><span class="pre">ebuild</span></tt> the reason why tests, for example, are blocked for a
+given package.</p>
+<p>Of course, it is preferable to fix the underlying reason for needing a
+<span class="target" id="index-2"></span><tt class="xref std std-envvar docutils literal"><span class="pre">RESTRICT</span></tt> definition in the case of <tt class="docutils literal"><span class="pre">test</span></tt> and <tt class="docutils literal"><span class="pre">userpriv</span></tt>.</p>
+</div>
+<div class="section" id="stabilisation-remind">
+<h2><tt class="file docutils literal"><span class="pre">stabilisation.remind</span></tt><a class="headerlink" href="#stabilisation-remind" title="Permalink to this headline">¶</a></h2>
+<p><tt class="file docutils literal"><span class="pre">support/stabilisation.remind</span></tt> is a <a class="reference external" href="http://www.roaringpenguin.com/products/remind">remind</a> compatible data file that
+contains <em>likely</em> stabilisation dates for packages.  When a new arch keyword is
+added or a package receives a version bump this file is updated to reflect the
+earliest possible time a package can migrate to stable.</p>
+<p>The format is simple enough:</p>
+<div class="highlight-python"><pre>REM &lt;stable date&gt; *1 +1 UNTIL 2038-01-19 MSG Stabilise &lt;arch&gt; &lt;CPV&gt; %a</pre>
+</div>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">The initial <tt class="docutils literal"><span class="pre">stable</span> <span class="pre">date</span></tt> value is 30 days in the future, although it can
+be longer if more testing is likely to be necessary.</p>
+</div>
+</div>
+<div class="section" id="package-mask">
+<h2><tt class="file docutils literal"><span class="pre">package.mask</span></tt><a class="headerlink" href="#package-mask" title="Permalink to this headline">¶</a></h2>
+<p>The <tt class="file docutils literal"><span class="pre">profiles/package.mask</span></tt> file includes special syntax for generating
+removal reminders for packages.  An example should explain it adequately:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="c"># James Rowe &lt;jnrowe@gmail.com&gt; (27 Jan 2011)</span>
+<span class="c"># Better alternatives available including busybox&#39;s fbsplash, plymouth, ksplash</span>
+<span class="c"># and many others.</span>
+<span class="c"># X-Removal: 2011-02-26</span>
+<span class="n">media</span><span class="o">-</span><span class="n">gfx</span><span class="o">/</span><span class="n">psplash</span>
+</pre></div>
+</div>
+<p>The format is identical to that defined in <em class="manpage">portage(5)</em> with the
+addition of the <tt class="docutils literal"><span class="pre">X-Removal</span></tt> tag that is used by the
+<strong class="program">support/gen_removal.py</strong> script to create <a class="reference external" href="http://www.roaringpenguin.com/products/remind">remind</a> compatible data
+files.</p>
+<p>A simple, but important, extension that makes it easier to keep on top of admin
+tasks.</p>
+</div>
+<div class="section" id="distutils-eclass-usage">
+<h2><tt class="file docutils literal"><span class="pre">distutils.eclass</span></tt> usage<a class="headerlink" href="#distutils-eclass-usage" title="Permalink to this headline">¶</a></h2>
+<p>When using <tt class="docutils literal"><span class="pre">RESTRICTED_PYTHON_ABIS</span></tt> functionality from
+<tt class="file docutils literal"><span class="pre">distutils.eclass</span></tt> it is important to state the reason why a certain
+Python version is restricted.</p>
+<p>This should, in theory, make it easier to track updates and also make it
+immediately clear how much work is required to support a specific version if the
+need arises.</p>
+<p>A simple example from the <tt class="docutils literal"><span class="pre">ebuild</span></tt> for <a class="reference external" href="http://pypi.python.org/pypi/rad/">rad</a> would be:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="n">SUPPORT_PYTHON_ABIS</span><span class="o">=</span><span class="s">&quot;1&quot;</span>
+<span class="n">PYTHON_DEPEND</span><span class="o">=</span><span class="s">&quot;2:2.6&quot;</span>
+<span class="c"># 2.4 is restricted due to relative imports and except...as syntax</span>
+<span class="c"># 2.5 is restricted due to except...as syntax</span>
+<span class="c"># 3.x is restricted due to print command</span>
+<span class="n">RESTRICT_PYTHON_ABIS</span><span class="o">=</span><span class="s">&quot;2.[45] 3.*&quot;</span>
+</pre></div>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Contributing</a><ul>
+<li><a class="reference internal" href="#die-usage"><strong class="command">die</strong> usage</a><ul>
+<li><a class="reference internal" href="#sed-and-die"><strong class="command">sed</strong> and <strong class="command">die</strong></a></li>
+<li><a class="reference internal" href="#do-and-die"><strong class="command">do*</strong> and <strong class="command">die</strong></a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#restrict-usage"><tt class="docutils literal"><span class="pre">RESTRICT</span></tt> usage</a></li>
+<li><a class="reference internal" href="#stabilisation-remind"><tt class="file docutils literal"><span class="pre">stabilisation.remind</span></tt></a></li>
+<li><a class="reference internal" href="#package-mask"><tt class="file docutils literal"><span class="pre">package.mask</span></tt></a></li>
+<li><a class="reference internal" href="#distutils-eclass-usage"><tt class="file docutils literal"><span class="pre">distutils.eclass</span></tt> usage</a></li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="contact.html"
+                        title="previous chapter">Contact</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/contributing.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" size="18" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="contact.html" title="Contact"
+             >previous</a> |</li>
+        <li><a href="index.html">misc-overlay documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2011, James Rowe.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.0.5.
+    </div>
+  </body>
+</html>
