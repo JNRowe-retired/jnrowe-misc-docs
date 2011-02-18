@@ -49,8 +49,7 @@
  * Licence: ``MIT``
  * Versions:
 
-  * `3.0.5 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.5.ebuild>`__  ``amd64``, ``x86``
-  * `3.0.6 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.6.ebuild>`__  ``~amd64`` (due 2011-02-18), ``~x86`` (due 2011-02-18)
+  * `3.0.6 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.6.ebuild>`__  ``amd64``, ``x86``
 
 * ``dexml`` - http://pypi.python.org/pypi/dexml/
 
@@ -115,6 +114,7 @@
  * Versions:
 
   * `0.3.4 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/funcparserlib/funcparserlib-0.3.4.ebuild>`__  ``amd64``, ``x86``
+  * `0.3.5 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/funcparserlib/funcparserlib-0.3.5.ebuild>`__  ``~amd64`` (due 2011-03-20), ``~x86`` (due 2011-03-20)
 
 * ``genzshcomp`` - http://bitbucket.org/hhatto/genzshcomp/
 
@@ -435,10 +435,11 @@
 * ``termcolor`` - http://pypi.python.org/pypi/termcolor/
 
  * ANSI colour formatting for terminals
- * Licence: ``GPL-2``
+ * Licence: ``MIT``
  * Versions:
 
   * `0.2 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/termcolor/termcolor-0.2.ebuild>`__  ``amd64``, ``x86``
+  * `1.1.0 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/termcolor/termcolor-1.1.0.ebuild>`__  ``~amd64`` (due 2011-03-20), ``~x86`` (due 2011-03-20)
 
 * ``texttable`` - http://jefke.free.fr/coding/python/
 
