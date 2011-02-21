@@ -132,6 +132,7 @@
  * Versions:
 
   * `0.2.1 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/gistapi/gistapi-0.2.1.ebuild>`__  ``amd64``, ``x86``
+  * `0.2.2 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/gistapi/gistapi-0.2.2.ebuild>`__  ``~amd64`` (due 2011-03-21), ``~x86`` (due 2011-03-21)
 
 * ``git-python`` - http://pypi.python.org/pypi/GitPython/
 
@@ -203,8 +204,7 @@
  * Licence: ``MIT``
  * Versions:
 
-  * `0.1.18 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.18.ebuild>`__  ``amd64``, ``x86``
-  * `0.1.19 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.19.ebuild>`__  ``~amd64`` (due 2011-02-21), ``~x86`` (due 2011-02-21)
+  * `0.1.19 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.19.ebuild>`__  ``amd64``, ``x86``
   * `0.1.20 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/lettuce/lettuce-0.1.20.ebuild>`__  ``~amd64`` (due 2011-03-17), ``~x86`` (due 2011-03-17)
 
 * ``logbook`` - http://pypi.python.org/pypi/Logbook/
@@ -301,7 +301,7 @@
  * Licence: ``LGPL-3``
  * Versions:
 
-  * `2.02 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycparser/pycparser-2.02.ebuild>`__  ``~amd64`` (due 2011-02-20), ``~x86`` (due 2011-02-20)
+  * `2.02 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pycparser/pycparser-2.02.ebuild>`__  ``~amd64`` (due 2011-05-21), ``~x86`` (due 2011-05-21)
 
 * ``pycukes`` - https://github.com/hugobr/pycukes
 
