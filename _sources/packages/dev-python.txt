@@ -157,6 +157,7 @@
  * Versions:
 
   * `1.0 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/gpxdata/gpxdata-1.0.ebuild>`__  ``amd64``, ``x86``
+  * `1.0.2 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/gpxdata/gpxdata-1.0.2.ebuild>`__  ``~amd64`` (due 2011-03-24), ``~x86`` (due 2011-03-24)
 
 * ``grapefruit`` - http://code.google.com/p/grapefruit/
 
@@ -237,7 +238,7 @@
  * Licence: ``PSF-2.4``
  * Versions:
 
-  * `0.0.20101201 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/nose-machineout/nose-machineout-0.0.20101201.ebuild>`__  ``~amd64`` (due 2011-02-22), ``~x86`` (due 2011-02-22)
+  * `0.0.20101201 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/nose-machineout/nose-machineout-0.0.20101201.ebuild>`__  ``amd64``, ``x86``
 
 * ``nose-pathmunge`` - http://bitbucket.org/jnoller/nose-pathmunge/
 
