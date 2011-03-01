@@ -44,13 +44,14 @@
 
   * `0.1.18 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/colorama/colorama-0.1.18.ebuild>`__  ``amd64``, ``x86``
 
-* ``commandlineapp`` - http://www.doughellmann.com/projects/CommandLineApp/
+* ``commandlineapp`` - http://pypi.python.org/pypi/CommandLineApp/
 
  * Makes creating apps as simple as defining callbacks to handle options
  * Licence: ``MIT``
  * Versions:
 
   * `3.0.6 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.6.ebuild>`__  ``amd64``, ``x86``
+  * `3.0.7 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/commandlineapp/commandlineapp-3.0.7.ebuild>`__  ``~amd64`` (due 2011-03-31), ``~x86`` (due 2011-03-31)
 
 * ``dexml`` - http://pypi.python.org/pypi/dexml/
 
@@ -477,6 +478,7 @@
 
   * `1.2 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.2.ebuild>`__  ``amd64``, ``x86``
   * `1.3.4 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.3.4.ebuild>`__  ``~amd64`` (due 2011-05-10), ``~x86`` (due 2011-05-10)
+  * `1.4.1 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/twython/twython-1.4.1.ebuild>`__  ``~amd64`` (due 2011-03-31), ``~x86`` (due 2011-03-31)
 
 * ``upoints`` - http://www.jnrowe.ukfsn.org/projects/upoints.html
 
