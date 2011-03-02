@@ -85,6 +85,14 @@
 
   * `0.1.5 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/fabulous/fabulous-0.1.5.ebuild>`__  ``amd64``, ``x86``
 
+* ``fancycompleter`` - http://pypi.python.org/pypi/fancycompleter/
+
+ * Colourful TAB completion for Python prompt
+ * Licence: ``BSD``
+ * Versions:
+
+  * `0.2 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/fancycompleter/fancycompleter-0.2.ebuild>`__  ``~amd64`` (due 2011-03-31)
+
 * ``feedcache`` - http://www.doughellmann.com/projects/feedcache/
 
  * Wrapper for the Universal Feed Parser which caches the results
@@ -261,6 +269,14 @@
 
   * `0.4 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/nosetty/nosetty-0.4.ebuild>`__  ``amd64``, ``x86``
 
+* ``pdbpp`` - http://pypi.python.org/pypi/pdbpp/
+
+ * An enhanced drop-in replacement for pdb
+ * Licence: ``BSD``
+ * Versions:
+
+  * `0.6 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pdbpp/pdbpp-0.6.ebuild>`__  ``~amd64`` (indefinite)
+
 * ``pep8`` - https://github.com/jcrocholl/pep8
 
  * A tool to check your Python code against the conventions in PEP 8
@@ -341,6 +357,14 @@
  * Versions:
 
   * `0.5.1 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyisbn/pyisbn-0.5.1.ebuild>`__  ``amd64``, ``x86``
+
+* ``pyrepl`` - http://pypi.python.org/pypi/pyrepl/
+
+ * A library for building flexible Python command line interfaces
+ * Licence: ``MIT``
+ * Versions:
+
+  * `0.8.2 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/pyrepl/pyrepl-0.8.2.ebuild>`__  ``~amd64`` (due 2011-03-31)
 
 * ``python-osmgpsmap`` - http://nzjrs.github.com/osm-gps-map/
 
@@ -511,6 +535,14 @@
  * Versions:
 
   * `2.6.1 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/virtualenvwrapper/virtualenvwrapper-2.6.1.ebuild>`__  ``amd64``, ``x86``
+
+* ``wmctrl`` - http://pypi.python.org/pypi/wmctrl/
+
+ * A tool to programmatically control windows inside X
+ * Licence: ``BSD``
+ * Versions:
+
+  * `0.1 <https://github.com/JNRowe/misc-overlay/blob/master/dev-python/wmctrl/wmctrl-0.1.ebuild>`__  ``~amd64`` (due 2011-03-31)
 
 * ``wordish`` - http://pypi.python.org/pypi/wordish/
 
