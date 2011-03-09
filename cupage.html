@@ -50,9 +50,50 @@
             
   <div class="section" id="cupage-integration">
 <h1><tt class="docutils literal"><span class="pre">cupage</span></tt> integration<a class="headerlink" href="#cupage-integration" title="Permalink to this headline">¶</a></h1>
-<p><a class="reference external" href="https://github.com/JNRowe/cupage">cupage</a> is used to keep packages in sync with their releases, see
-<tt class="file docutils literal"><span class="pre">support/cupage.conf</span></tt>.  <tt class="docutils literal"><span class="pre">cupage</span></tt> v0.5.2, or above, is required if you wish
-to make use of this functionality.</p>
+<p><a class="reference external" href="http://jnrowe.github.com/cupage/">cupage</a> is used to keep packages in sync with their releases.  <tt class="docutils literal"><span class="pre">cupage</span></tt>
+v0.5.4, or above, is required if you wish to make use of this functionality.</p>
+<p>All packages in this repository must have an entry in <tt class="docutils literal"><span class="pre">cupage</span></tt> configuration
+file <tt class="file docutils literal"><span class="pre">support/cupage.conf</span></tt>, and those entries are generated from the
+<tt class="file docutils literal"><span class="pre">watch</span></tt> files in package directories.</p>
+<div class="section" id="watch-file-format">
+<h2><tt class="file docutils literal"><span class="pre">watch</span></tt> file format<a class="headerlink" href="#watch-file-format" title="Permalink to this headline">¶</a></h2>
+<p>For packages hosted on one of the hosting sites supported by <tt class="docutils literal"><span class="pre">cupage</span></tt> a
+<tt class="file docutils literal"><span class="pre">watch</span></tt> file can be very simple <a class="footnote-reference" href="#id2" id="id1">[1]</a>.  For example, the <tt class="file docutils literal"><span class="pre">watch</span></tt> file
+for <tt class="docutils literal"><span class="pre">dev-python/argh</span></tt> contains only one line:</p>
+<div class="highlight-ini"><div class="highlight"><pre><span class="na">site</span> <span class="o">=</span> <span class="s">pypi</span>
+</pre></div>
+</div>
+<p>The above definition tells <tt class="docutils literal"><span class="pre">cupage</span></tt> to check for updates to the package named
+<tt class="docutils literal"><span class="pre">argh</span></tt> on <a class="reference external" href="http://pypi.python.org/">PyPI</a>.</p>
+<p>For packages where the name differs between upstream and this repository for
+some reason you must specify the name in the <tt class="file docutils literal"><span class="pre">watch</span></tt> file.  From
+<tt class="docutils literal"><span class="pre">dev-python/pyscss</span></tt>:</p>
+<div class="highlight-ini"><div class="highlight"><pre><span class="k">[pyScss]</span>
+<span class="na">site</span> <span class="o">=</span> <span class="s">pypi</span>
+</pre></div>
+</div>
+<p>If the package you are adding is not in the list of supported sites then you&#8217;ll
+need to manually define the <tt class="file docutils literal"><span class="pre">watch</span></tt> information.
+<tt class="docutils literal"><span class="pre">app-misc/weatherspect</span></tt> provides a useful example:</p>
+<div class="highlight-ini"><div class="highlight"><pre><span class="na">url</span> <span class="o">=</span> <span class="s">http://www.robobunny.com/projects/weatherspect/</span>
+<span class="na">select</span> <span class="o">=</span> <span class="s">td a</span>
+<span class="na">match_type</span> <span class="o">=</span> <span class="s">re</span>
+<span class="na">match</span> <span class="o">=</span> <span class="s">weatherspect_v[\d\.]+\.tar\.gz</span>
+</pre></div>
+</div>
+<p>This tells <tt class="docutils literal"><span class="pre">cupage</span></tt> to search the defined URL for <tt class="docutils literal"><span class="pre">a</span></tt> elements that are
+children of <tt class="docutils literal"><span class="pre">td</span></tt> in the HTML, and to match their <tt class="docutils literal"><span class="pre">href</span></tt> attributes against
+the <tt class="docutils literal"><span class="pre">match</span></tt> regular expression.</p>
+<p>A more thorough explanation of the format and available options can be found in
+the <a class="reference external" href="http://jnrowe.github.com/cupage/configuration.html">cupage documentation</a>.</p>
+<table class="docutils footnote" frame="void" id="id2" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td>Use <strong class="command">cupage.py &#8211;list-sites</strong> to see the list supported sites
+in your version of <tt class="docutils literal"><span class="pre">cupage</span></tt></td></tr>
+</tbody>
+</table>
+</div>
 </div>
 
 
@@ -61,6 +102,14 @@ to make use of this functionality.</p>
       </div>
       <div class="sphinxsidebar">
         <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#"><tt class="docutils literal"><span class="pre">cupage</span></tt> integration</a><ul>
+<li><a class="reference internal" href="#watch-file-format"><tt class="file docutils literal"><span class="pre">watch</span></tt> file format</a></li>
+</ul>
+</li>
+</ul>
+
   <h4>Previous topic</h4>
   <p class="topless"><a href="download.html"
                         title="previous chapter">Download</a></p>
