@@ -133,13 +133,68 @@ Python version is restricted.</p>
 immediately clear how much work is required to support a specific version if the
 need arises.</p>
 <p>A simple example from the <tt class="docutils literal"><span class="pre">ebuild</span></tt> for <a class="reference external" href="http://pypi.python.org/pypi/rad/">rad</a> would be:</p>
-<div class="highlight-python"><div class="highlight"><pre><span class="n">SUPPORT_PYTHON_ABIS</span><span class="o">=</span><span class="s">&quot;1&quot;</span>
-<span class="n">PYTHON_DEPEND</span><span class="o">=</span><span class="s">&quot;2:2.6&quot;</span>
+<div class="highlight-bash"><div class="highlight"><pre><span class="nv">SUPPORT_PYTHON_ABIS</span><span class="o">=</span><span class="s2">&quot;1&quot;</span>
+<span class="nv">PYTHON_DEPEND</span><span class="o">=</span><span class="s2">&quot;2:2.6&quot;</span>
 <span class="c"># 2.4 is restricted due to relative imports and except...as syntax</span>
 <span class="c"># 2.5 is restricted due to except...as syntax</span>
 <span class="c"># 3.x is restricted due to print command</span>
-<span class="n">RESTRICT_PYTHON_ABIS</span><span class="o">=</span><span class="s">&quot;2.[45] 3.*&quot;</span>
+<span class="nv">RESTRICT_PYTHON_ABIS</span><span class="o">=</span><span class="s2">&quot;2.[45] 3.*&quot;</span>
 </pre></div>
+</div>
+</div>
+<div class="section" id="watch-files">
+<h2><tt class="file docutils literal"><span class="pre">watch</span></tt> files<a class="headerlink" href="#watch-files" title="Permalink to this headline">¶</a></h2>
+<p>Each package directory contains a <tt class="file docutils literal"><span class="pre">watch</span></tt> file is used to generate
+<tt class="file docutils literal"><span class="pre">support/cupage.conf</span></tt>.  The file:<cite>support/cupage.conf</cite> is an input file
+for <a class="reference external" href="http://jnrowe.github.com/cupage">cupage</a>, which helps us to keep up with new package releases by automating
+the process of checking project sites.</p>
+<p>The format is basically quite simple, but there are a few caveats.  First, an
+easy example from <tt class="docutils literal"><span class="pre">www-client/cupage</span></tt>:</p>
+<div class="highlight-cfg"><div class="highlight"><pre><span class="na">site</span> <span class="o">=</span> <span class="s">github</span>
+<span class="na">user</span> <span class="o">=</span> <span class="s">JNRowe</span>
+</pre></div>
+</div>
+<p>This configuration is all that is needed to check for new tags in the
+<tt class="docutils literal"><span class="pre">JNRowe/cupage</span></tt> project on <a class="reference external" href="https://github.com/">GitHub</a>.</p>
+<p>The output of <strong class="program">cupage.py &#8211;list-sites</strong> shows all the possible
+definitions for the <tt class="docutils literal"><span class="pre">site</span></tt> option.  If the upstream project is located on one
+of those sites the <tt class="file docutils literal"><span class="pre">watch</span></tt> file should be extremely simple.</p>
+<p>For projects not using one of <strong class="program">cupage</strong>&#8216;s supported sites a manual
+matcher must be built.  An example from <tt class="docutils literal"><span class="pre">dev-python/astral</span></tt> should be
+illustrative:</p>
+<div class="highlight-cfg"><div class="highlight"><pre><span class="na">url</span> <span class="o">=</span> <span class="s">http://www.sffjunkie.co.uk/python-astral.html</span>
+<span class="na">select</span> <span class="o">=</span> <span class="s">td a</span>
+<span class="na">match_type</span> <span class="o">=</span> <span class="s">zip</span>
+</pre></div>
+</div>
+<p>This tells <strong class="program">cupage</strong> to check the defined URL for HTML <tt class="docutils literal"><span class="pre">a</span></tt> elements
+within HTML <tt class="docutils literal"><span class="pre">td</span></tt> elements that match <tt class="docutils literal"><span class="pre">zip</span></tt> filenames.</p>
+<p>For more information about configuring <strong class="program">cupage</strong> visit the <a class="reference external" href="http://jnrowe.github.com/cupage">cupage</a>
+website.</p>
+<div class="section" id="caveats">
+<h3>Caveats<a class="headerlink" href="#caveats" title="Permalink to this headline">¶</a></h3>
+<p>If the package name does not match the project name then the project name should
+be specified in the <tt class="file docutils literal"><span class="pre">watch</span></tt> file.  A live example from this repository
+would be <tt class="docutils literal"><span class="pre">games-action/reminiscence</span></tt>:</p>
+<div class="highlight-cfg"><div class="highlight"><pre><span class="k">[REminiscence]</span>
+<span class="na">url</span> <span class="o">=</span> <span class="s">http://cyxdown.free.fr/reminiscence/</span>
+<span class="na">select</span> <span class="o">=</span> <span class="s">ul a</span>
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Project names are almost always case-sensitive, and project names must be
+specified when the package and project names differ as in the <a class="reference external" href="http://cyxdown.free.fr/reminiscence/">REminiscence</a>
+example above.</p>
+</div>
+<p>For a live <tt class="docutils literal"><span class="pre">ebuild</span></tt> or an upstream that has since disappeared where
+using <strong class="program">cupage</strong> is unworkable a special entry should be placed in a
+package&#8217;s <tt class="file docutils literal"><span class="pre">watch</span></tt> file.</p>
+<p>For a live <tt class="docutils literal"><span class="pre">ebuild</span></tt> add the string <tt class="docutils literal"><span class="pre">#</span> <span class="pre">Live</span> <span class="pre">ebuild</span></tt> to the start of the
+file.  It is possible to add other information to the end of the file.</p>
+<p>For a package where the upstream site is dead add the string <tt class="docutils literal"><span class="pre">upstream</span> <span class="pre">is</span>
+<span class="pre">dead</span></tt> somewhere to the watch file.  It is possible to add informative notes to
+the file, such as the previous location or package author data.</p>
 </div>
 </div>
 </div>
@@ -162,6 +217,10 @@ need arises.</p>
 <li><a class="reference internal" href="#stabilisation-org"><tt class="file docutils literal"><span class="pre">stabilisation.org</span></tt></a></li>
 <li><a class="reference internal" href="#package-mask"><tt class="file docutils literal"><span class="pre">package.mask</span></tt></a></li>
 <li><a class="reference internal" href="#distutils-eclass-usage"><tt class="file docutils literal"><span class="pre">distutils.eclass</span></tt> usage</a></li>
+<li><a class="reference internal" href="#watch-files"><tt class="file docutils literal"><span class="pre">watch</span></tt> files</a><ul>
+<li><a class="reference internal" href="#caveats">Caveats</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
