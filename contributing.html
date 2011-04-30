@@ -129,14 +129,14 @@ given package.</p>
 <span class="target" id="index-2"></span><tt class="xref std std-envvar docutils literal"><span class="pre">RESTRICT</span></tt> definition, especially in the case of <tt class="docutils literal"><span class="pre">test</span></tt> and
 <tt class="docutils literal"><span class="pre">userpriv</span></tt> restrictions.</p>
 </div>
-<div class="section" id="stabilisation-org">
-<h2><tt class="file docutils literal"><span class="pre">stabilisation.org</span></tt><a class="headerlink" href="#stabilisation-org" title="Permalink to this headline">¶</a></h2>
-<p><tt class="file docutils literal"><span class="pre">support/stabilisation.org</span></tt> is an <a class="reference external" href="http://www.orgmode.org/">org-mode</a> compatible data file that
+<div class="section" id="stabilisation-remind">
+<h2><tt class="file docutils literal"><span class="pre">stabilisation.remind</span></tt><a class="headerlink" href="#stabilisation-remind" title="Permalink to this headline">¶</a></h2>
+<p><tt class="file docutils literal"><span class="pre">support/stabilisation.remind</span></tt> is a <a class="reference external" href="http://www.roaringpenguin.com/products/remind">remind</a> compatible data file that
 contains <em>likely</em> stabilisation dates for packages.  When a new arch keyword is
 added or a package receives a version bump this file is updated to reflect the
 earliest possible time a package can migrate to stable.</p>
 <p>The format is simple enough:</p>
-<div class="highlight-python"><pre>* |CPV|  |arch| SCHEDULED: &lt;|stable_date|&gt;</pre>
+<div class="highlight-python"><pre>REM &lt;stable date&gt; *1 +1 UNTIL 2038-01-19 MSG Stabilise &lt;arch&gt; &lt;CPV&gt; %a</pre>
 </div>
 <div class="admonition note">
 <p class="first admonition-title">Note</p>
@@ -157,7 +157,7 @@ removal reminders for packages.  An example should explain it adequately:</p>
 </div>
 <p>The format is identical to that defined in <em class="manpage">portage(5)</em> with the
 addition of the <tt class="docutils literal"><span class="pre">X-Removal</span></tt> tag that is used by the
-<strong class="program">support/gen_removal.py</strong> script to create an <a class="reference external" href="http://www.orgmode.org/">org-mode</a> compatible data
+<strong class="program">support/gen_removal.py</strong> script to create a <a class="reference external" href="http://www.roaringpenguin.com/products/remind">remind</a> compatible data
 file.</p>
 <p>A simple, but important, extension that makes it easier to keep on top of
 important admin tasks.</p>
