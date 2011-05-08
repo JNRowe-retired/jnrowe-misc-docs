@@ -676,7 +676,7 @@ Search.setIndex({
         light: 35,
         platform: 8,
         patch: [11, 39],
-        due: [20, 30, 33, 14, 23, 4, 35, 17, 38, 8, 28],
+        due: [20, 30, 33, 14, 23, 4, 35, 17, 38, 8],
         newsfe: 12,
         much: 4,
         wulf: 39,
