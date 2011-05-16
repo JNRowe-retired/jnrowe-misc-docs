@@ -792,7 +792,7 @@ Search.setIndex({
         modem: 19,
         ccontrol: 35,
         explan: [4, 31],
-        apach: 8,
+        apach: [8, 30],
         cupag: [4, 11, 31, 33],
         just: [32, 39],
         savannah: 21,
