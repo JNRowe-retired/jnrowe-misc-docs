@@ -834,7 +834,7 @@ Search.setIndex({
         read: 34,
         foundat: 25,
         agnost: 26,
-        psf: [8, 30],
+        psf: 8,
         multiprocess: 8,
         ditz: 35,
         game: [4, 11, 27, 9],
