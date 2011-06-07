@@ -602,7 +602,7 @@ Search.setIndex({
         bird: 39,
         wunderground: 23,
         mapper: 8,
-        artist: [16, 23, 13],
+        artist: [23, 16, 14, 13],
         urlunshort: 8,
         "public": [20, 33, 14, 25, 8, 28],
         remot: 8,
