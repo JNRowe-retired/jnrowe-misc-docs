@@ -98,8 +98,8 @@
 </pre></div>
 </div>
 <p>To sync the repository:</p>
-<div class="highlight-python"><div class="highlight"><pre><span class="c"># oilman --sync jnrowe::misc # Sync this repository only</span>
-<span class="c"># oilman --sync all # or sync all repositories</span>
+<div class="highlight-python"><div class="highlight"><pre><span class="c"># oilman --sync jnrowe::misc  # Sync this repository only</span>
+<span class="c"># oilman --sync all  # or sync all repositories</span>
 </pre></div>
 </div>
 </div>
@@ -130,15 +130,15 @@ operation before this command will work.</p>
 </div>
 <p>To sync the repository you can use <strong class="command">layman</strong> directly, either
 syncing just this overlay or all your overlays at once:</p>
-<div class="highlight-python"><div class="highlight"><pre><span class="c"># layman -s jnrowe-misc # Sync just jnrowe-misc</span>
-<span class="c"># layman -S # or sync all layman managed overlays</span>
+<div class="highlight-python"><div class="highlight"><pre><span class="c"># layman -s jnrowe-misc  # Sync just jnrowe-misc</span>
+<span class="c"># layman -S  # or sync all layman managed overlays</span>
 </pre></div>
 </div>
 <p>Or if you&#8217;re an <a class="reference external" href="http://eix.sourceforge.net">eix</a> user you can use <strong class="command">eix-sync</strong> to update
 the repositories and the <strong class="program">eix</strong> database at the same time, first tell
 <strong class="command">eix-sync</strong> to update the repository:</p>
-<div class="highlight-python"><div class="highlight"><pre><span class="c"># echo &quot;jnrowe-misc&quot; &gt;&gt;/etc/eix-sync.conf # Sync just jnrowe-misc</span>
-<span class="c"># echo &quot;*&quot; &gt;&gt;/etc/eix-sync.conf # or sync all layman managed overlays</span>
+<div class="highlight-python"><div class="highlight"><pre><span class="c"># echo &quot;jnrowe-misc&quot; &gt;&gt;/etc/eix-sync.conf  # Sync just jnrowe-misc</span>
+<span class="c"># echo &quot;*&quot; &gt;&gt;/etc/eix-sync.conf  # or sync all layman managed overlays</span>
 </pre></div>
 </div>
 <p>Finally, call <strong class="command">eix-sync</strong> to update the specified repositories
