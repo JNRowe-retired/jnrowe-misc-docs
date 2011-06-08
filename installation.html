@@ -111,13 +111,13 @@ to the supported list.</p>
 <tt class="file docutils literal"><span class="pre">support/layman2.xml</span></tt> should be added to the <tt class="docutils literal"><span class="pre">overlays</span></tt> section of
 <tt class="file docutils literal"><span class="pre">/etc/layman/layman.conf</span></tt>, for example:</p>
 <div class="highlight-python"><pre>overlays  : http://www.gentoo.org/proj/en/overlays/repositories.xml
-            file:///var/lib/repos/jnrowe-misc/support/layman2.xml</pre>
+            https://github.com/JNRowe/misc-overlay/raw/master/support/layman2.xml</pre>
 </div>
 <p>If you&#8217;re using <strong class="program">layman</strong> v1.2.3 or earlier, then
 <tt class="file docutils literal"><span class="pre">support/layman.xml</span></tt> should be added to the <tt class="docutils literal"><span class="pre">overlays</span></tt> section of
 <tt class="file docutils literal"><span class="pre">/etc/layman/layman.conf</span></tt>, for example:</p>
 <div class="highlight-python"><pre>overlays  : http://www.gentoo.org/proj/en/overlays/layman-global.txt
-            file:///var/lib/repos/jnrowe-misc/support/layman.xml</pre>
+            https://github.com/JNRowe/misc-overlay/raw/master/support/layman.xml</pre>
 </div>
 <p>Then you can add the overlay using <strong class="command">layman</strong>:</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="c"># layman -a jnrowe-misc</span>
