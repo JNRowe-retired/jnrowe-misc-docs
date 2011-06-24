@@ -693,7 +693,7 @@ Search.setIndex({
         light: 36,
         platform: 9,
         patch: [12, 40],
-        due: [19, 31, 34, 15, 24, 5, 36, 39, 9],
+        due: [19, 31, 15, 24, 5, 36, 39, 9],
         json: 15,
         much: 5,
         wulf: 40,
