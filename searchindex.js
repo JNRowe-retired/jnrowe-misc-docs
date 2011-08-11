@@ -1116,7 +1116,7 @@ Search.setIndex({
         runeh: 9,
         record: 15,
         plymouth: 5,
-        indefinit: 9,
+        indefinit: [9, 17],
         mai: 33,
         ksplash: 5,
         cake: [39, 12, 36],
