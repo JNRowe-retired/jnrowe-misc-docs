@@ -4,14 +4,17 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
+
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
     <title>Cake usage &mdash; jnrowe-misc documentation</title>
+    
     <link rel="stylesheet" href="_static/cloud.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <link rel="stylesheet" href="#" type="text/css" />
+    
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
         URL_ROOT:    '',
@@ -202,7 +205,7 @@ or warnings are issued.</p>
 <dl class="function">
 <dt id="newer">
 <tt class="descname">newer</tt><big>(</big><em>file1</em>, <em>file2</em><big>)</big> &rarr; Bool<a class="headerlink" href="#newer" title="Permalink to this definition">¶</a></dt>
-<dd><p>This function returns <tt class="xref docutils literal"><span class="pre">True</span></tt> if <tt class="docutils literal"><span class="pre">file1</span></tt> is newer than <tt class="docutils literal"><span class="pre">file2</span></tt>.  It
+<dd><p>This function returns <tt class="docutils literal"><span class="pre">True</span></tt> if <tt class="docutils literal"><span class="pre">file1</span></tt> is newer than <tt class="docutils literal"><span class="pre">file2</span></tt>.  It
 handles the case of file arguments that don&#8217;t yet exist.</p>
 </dd></dl>
 
@@ -211,14 +214,14 @@ handles the case of file arguments that don&#8217;t yet exist.</p>
 <tt class="descname">dep</tt><big>(</big><em>targets</em>, <em>sources</em><span class="optional">[</span>, <em>mapping</em><span class="optional">]</span><big>)</big> &rarr; function<a class="headerlink" href="#dep" title="Permalink to this definition">¶</a></dt>
 <dd><p><tt class="docutils literal"><span class="pre">dep</span></tt> is designed to be used as a decorator on tasks for checking whether a
 target needs rebuilding.  If the target is up to date the task is not run.</p>
-<p>If the <tt class="docutils literal"><span class="pre">mappings</span></tt> argument is <tt class="xref docutils literal"><span class="pre">True</span></tt> then rebuilds are only performed if
+<p>If the <tt class="docutils literal"><span class="pre">mappings</span></tt> argument is <tt class="docutils literal"><span class="pre">True</span></tt> then rebuilds are only performed if
 a source is newer than a target when the the arguments are paired.  If
-<tt class="xref docutils literal"><span class="pre">False</span></tt> a rebuild is performed if <em>any</em> source is a newer than a target.</p>
+<tt class="docutils literal"><span class="pre">False</span></tt> a rebuild is performed if <em>any</em> source is a newer than a target.</p>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
 <tbody valign="top">
-<tr class="field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first last simple">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first last simple">
 <li><strong>targets</strong> (<em>list</em>) &#8211; Targets to check against</li>
 <li><strong>sources</strong> (<em>list</em>) &#8211; Sources to check against</li>
 <li><strong>mapping</strong> (<em>bool</em>) &#8211; Whether targets map directly to sources</li>
@@ -291,7 +294,7 @@ a source is newer than a target when the the arguments are paired.  If
 <div id="searchbox" style="display: none">
   <h3>Quick search</h3>
     <form class="search" action="search.html" method="get">
-      <input type="text" name="q" size="18" />
+      <input type="text" name="q" />
       <input type="submit" value="Go" />
       <input type="hidden" name="check_keywords" value="yes" />
       <input type="hidden" name="area" value="default" />
@@ -324,7 +327,7 @@ a source is newer than a target when the the arguments are paired.  If
 
     <div class="footer">
         &copy; Copyright 2011, James Rowe.
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.0.7.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.
     </div>
   </body>
 </html>
