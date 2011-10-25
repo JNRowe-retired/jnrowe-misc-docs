@@ -32,7 +32,7 @@
  * Licence: ``BSD-2``
  * Versions:
 
-  * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``~amd64`` (due 2011-10-22), ``~x86`` (due 2011-10-26)
+  * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``~amd64`` (due 2011-12-21), ``~x86`` (due 2011-10-26)
 
 * ``benchmarker`` - http://pypi.python.org/pypi/Benchmarker/
 
@@ -161,14 +161,6 @@
  * Versions:
 
   * `0.2.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/genzshcomp/genzshcomp-0.2.2.ebuild>`__  ``amd64``, ``x86``
-
-* ``gevent`` - http://gevent.org/
-
- * Network library using greenlet and libevent for scalable concurrency
- * Licence: ``BSD MIT``
- * Versions:
-
-  * `0.13.6 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/gevent/gevent-0.13.6.ebuild>`__  ``~amd64`` (due 2011-11-24), ``~x86`` (due 2011-11-24)
 
 * ``github2`` - http://pypi.python.org/pypi/github2/
 
@@ -341,7 +333,7 @@
 
   * `0.5 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/prettytable/prettytable-0.5.ebuild>`__  ``amd64``, ``x86``
 
-* ``pwtools`` - http://alastairs-place.net/pwtools/
+* ``pwtools`` - http://alastairs-place.net/projects/pwtools/
 
  * Password generation and security checking
  * Licence: ``MIT``
