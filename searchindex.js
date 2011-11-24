@@ -1080,7 +1080,6 @@ Search.setIndex({
         record: 12,
         plymouth: 2,
         gevent: 6,
-        indefinit: 6,
         mai: 28,
         ksplash: 2,
         cake: [34, 9, 31],
