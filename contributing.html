@@ -114,7 +114,7 @@ contains the <em>best case</em> stabilisation dates for packages.  When a new ar
 keyword is added, or a package receives a version bump, this file is updated to
 reflect the earliest possible time a package can migrate to stable.</p>
 <p>The format is simple enough:</p>
-<div class="highlight-python"><pre>REM &lt;|stable_date|&gt; *1 +1 UNTIL 2038-01-19 MSG Stabilise |arch| |CPV| %a</pre>
+<div class="highlight-python"><pre>REM &lt;|stable_date|&gt; *1 MSG %"Stabilise |arch| |CPV|%" %a</pre>
 </div>
 <div class="admonition note">
 <p class="first admonition-title">Note</p>
