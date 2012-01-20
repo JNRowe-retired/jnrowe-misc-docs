@@ -737,7 +737,7 @@ Search.setIndex({
         platform: 6,
         rebuild: 34,
         patch: [9, 4],
-        due: [15, 26, 29, 12, 20, 2, 31, 14, 35, 6],
+        due: [26, 29, 12, 20, 2, 31, 14, 35, 6],
         json: 12,
         much: 2,
         wulf: 4,
