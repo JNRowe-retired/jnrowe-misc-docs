@@ -33,6 +33,14 @@
 
   * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``~amd64`` (due 2012-02-19), ``~x86`` (due 2012-03-24)
 
+* ``behave`` - http://pypi.python.org/pypi/behave/
+
+ * Behaviour-driven development, Python style
+ * Licence: ``BSD``
+ * Versions:
+
+  * `1.1.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/behave/behave-1.1.0.ebuild>`__  ``~amd64`` (due 2012-02-29), ``~x86`` (due 2012-02-29)
+
 * ``benchmarker`` - http://pypi.python.org/pypi/Benchmarker/
 
  * A small utility to benchmark your Python code
@@ -233,6 +241,7 @@
 
   * `0.4.4 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/isodate/isodate-0.4.4.ebuild>`__  ``amd64``, ``x86``
   * `0.4.6 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/isodate/isodate-0.4.6.ebuild>`__  ``~amd64`` (due 2012-02-17), ``~x86`` (due 2012-02-17)
+  * `0.4.7 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/isodate/isodate-0.4.7.ebuild>`__  ``~amd64`` (due 2012-03-02), ``~x86`` (due 2012-03-02)
 
 * ``lettuce`` - http://lettuce.it/
 
@@ -241,6 +250,7 @@
  * Versions:
 
   * `0.1.33 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/lettuce/lettuce-0.1.33.ebuild>`__  ``amd64``, ``x86``
+  * `0.1.34 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/lettuce/lettuce-0.1.34.ebuild>`__  ``~amd64`` (due 2012-03-02), ``~x86`` (due 2012-03-02)
 
 * ``mod2doctest`` - http://pypi.python.org/pypi/mod2doctest/
 
@@ -282,6 +292,15 @@
 
   * `0.4-r1 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/nosetty/nosetty-0.4-r1.ebuild>`__  ``amd64``, ``x86``
 
+* ``parse`` - http://pypi.python.org/pypi/parse/
+
+ * Parse using a specification based on the Python format() syntax
+ * Licence: ``MIT``
+ * Versions:
+
+  * `1.4 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/parse/parse-1.4.ebuild>`__  ``~amd64`` (due 2012-02-29), ``~x86`` (due 2012-02-29)
+  * `1.4.1 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/parse/parse-1.4.1.ebuild>`__  ``~amd64`` (due 2012-03-06), ``~x86`` (due 2012-03-06)
+
 * ``pdbpp`` - http://pypi.python.org/pypi/pdbpp/
 
  * An enhanced drop-in replacement for pdb
@@ -297,6 +316,7 @@
  * Versions:
 
   * `0.4.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/pgmagick/pgmagick-0.4.2.ebuild>`__  ``amd64``, ``x86``
+  * `0.5.1 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/pgmagick/pgmagick-0.5.1.ebuild>`__  ``~amd64`` (due 2012-03-03), ``~x86`` (due 2012-03-03)
 
 * ``pinocchio`` - http://darcs.idyll.org/~t/projects/pinocchio/doc/
 
@@ -344,6 +364,7 @@
  * Licence: ``BSD``
  * Versions:
 
+  * `2.04 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/pycparser/pycparser-2.04.ebuild>`__  ``~amd64`` (due 2012-02-02), ``~x86`` (due 2012-02-02)
   * `2.05 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/pycparser/pycparser-2.05.ebuild>`__  ``~amd64`` (due 2012-02-19), ``~x86`` (due 2012-02-19)
 
 * ``pycukes`` - https://github.com/hugobr/pycukes
@@ -425,7 +446,7 @@
  * Licence: ``GPL-3``
  * Versions:
 
-  * `0.4 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/rstctl/rstctl-0.4.ebuild>`__  ``~amd64`` (due 2012-04-04), ``~x86`` (due 2012-02-04)
+  * `0.4 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/rstctl/rstctl-0.4.ebuild>`__  ``~amd64`` (due 2012-02-04), ``~x86`` (due 2012-02-04)
 
 * ``see`` - http://inky.github.com/see/
 
@@ -529,7 +550,7 @@
  * Licence: ``MIT``
  * Versions:
 
-  * `1.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/termtool/termtool-1.0.ebuild>`__  ``~amd64`` (due 2012-03-29), ``~x86`` (due 2012-01-29)
+  * `1.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/termtool/termtool-1.0.ebuild>`__  ``~amd64`` (due 2012-03-29), ``~x86`` (due 2012-03-29)
 
 * ``texttable`` - http://foutaise.org/code/
 
