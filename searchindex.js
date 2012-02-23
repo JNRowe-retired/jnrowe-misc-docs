@@ -1247,7 +1247,7 @@ Search.setIndex({
         msg: 2,
         cloud: 6,
         state: [2, 9, 10],
-        link: [17, 6],
+        link: [17, 6, 10],
         newer: [9, 10, 32, 16],
         atom: 6,
         "1bdc71fe54b695ed4e93b9a9828da165f4718284": 10,
