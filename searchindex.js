@@ -829,7 +829,6 @@ Search.setIndex({
         adsuck: 22,
         pdbpp: 6,
         doughellmann: 6,
-        equal: 10,
         against: [31, 16],
         dtopt: 6,
         fancycomplet: 6,
