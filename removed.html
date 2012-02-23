@@ -191,8 +191,7 @@ doesn&#8217;t make sense take a look at the referenced commit for the full conte
 <div class="section" id="hpodder">
 <h3><tt class="docutils literal"><span class="pre">hpodder</span></tt><a class="headerlink" href="#hpodder" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Haskell support was too brittle to keep this, and <tt class="docutils literal"><span class="pre">castget</span></tt> is
-a reasonable replacement.</div></blockquote>
+<div>Haskell support is too brittle to keep this.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -246,9 +245,7 @@ a reasonable replacement.</div></blockquote>
 <div class="section" id="bpython">
 <h3><tt class="docutils literal"><span class="pre">bpython</span></tt><a class="headerlink" href="#bpython" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Its line editing support is quite weak, and it provides little benefit over
-the standard <tt class="docutils literal"><span class="pre">python</span></tt> interpreter.  The level of maintenance needed was
-higher than the benefit it gave.</div></blockquote>
+<div>It is too broken for day-to-day usage, and is practically unsupportable.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -265,7 +262,7 @@ higher than the benefit it gave.</div></blockquote>
 <div class="section" id="cleancss">
 <h3><tt class="docutils literal"><span class="pre">cleancss</span></tt><a class="headerlink" href="#cleancss" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>It didn&#8217;t support enough CSS syntax to be usable for our needs.</div></blockquote>
+<div>It doesn&#8217;t support enough CSS syntax to be usable.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -282,7 +279,7 @@ higher than the benefit it gave.</div></blockquote>
 <div class="section" id="clevercss2">
 <h3><tt class="docutils literal"><span class="pre">clevercss2</span></tt><a class="headerlink" href="#clevercss2" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>The implementation was not suitable for our needs</div></blockquote>
+<div>It is too broken to use.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -316,7 +313,7 @@ higher than the benefit it gave.</div></blockquote>
 <div class="section" id="gevent">
 <h3><tt class="docutils literal"><span class="pre">gevent</span></tt><a class="headerlink" href="#gevent" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>This was only required by <tt class="docutils literal"><span class="pre">requests</span></tt>, which has been removed.</div></blockquote>
+<div>This was only required by <tt class="docutils literal"><span class="pre">requests</span></tt>.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -333,8 +330,8 @@ higher than the benefit it gave.</div></blockquote>
 <div class="section" id="gistapi">
 <h3><tt class="docutils literal"><span class="pre">gistapi</span></tt><a class="headerlink" href="#gistapi" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Masked for removal because the dependencies in new releases aren&#8217;t
-supported on our deploy systems.</div></blockquote>
+<div>Masked for removal because the dependencies in new releases are
+unsupportable.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -419,7 +416,7 @@ supported on our deploy systems.</div></blockquote>
 <div class="section" id="poster">
 <h3><tt class="docutils literal"><span class="pre">poster</span></tt><a class="headerlink" href="#poster" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>This was only needed by <tt class="docutils literal"><span class="pre">requests</span></tt>, which has been removed.</div></blockquote>
+<div>This was only every needed by <tt class="docutils literal"><span class="pre">requests</span></tt>.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -436,7 +433,7 @@ supported on our deploy systems.</div></blockquote>
 <div class="section" id="python-gnupg">
 <h3><tt class="docutils literal"><span class="pre">python-gnupg</span></tt><a class="headerlink" href="#python-gnupg" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Alternatives exist, maintenance costs higher than benefit.</div></blockquote>
+<div>Alternatives exist, maintenance burden too high.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -453,7 +450,7 @@ supported on our deploy systems.</div></blockquote>
 <div class="section" id="rednose">
 <h3><tt class="docutils literal"><span class="pre">rednose</span></tt><a class="headerlink" href="#rednose" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Doesn&#8217;t work correctly with <tt class="docutils literal"><span class="pre">doctests</span></tt>, alternatives exist.</div></blockquote>
+<div>Doesn&#8217;t work correctly with doctests.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -470,11 +467,13 @@ supported on our deploy systems.</div></blockquote>
 <div class="section" id="requests">
 <h3><tt class="docutils literal"><span class="pre">requests</span></tt><a class="headerlink" href="#requests" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div><p>New releases bundle libraries, which makes supporting this package quite
-laborious and prone to error.  Releases at the time of removal were
-not very stable.</p>
+<div><p>New releases bundle even more libraries, which makes supporting this package
+even more laborious and prone to error.  The latest releases are
+incompatible with the currently packaged versions.</p>
 <p>See <tt class="docutils literal"><span class="pre">mleighy</span></tt> if you need help porting packages with dependencies on
-<tt class="docutils literal"><span class="pre">requests</span></tt> to alternatives.</p>
+<tt class="docutils literal"><span class="pre">requests</span></tt> to alternatives.  Note that even though a version is now
+packaged in the upstream tree it will remain masked across our sites, as it
+is heavily broken.</p>
 </div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
@@ -492,8 +491,8 @@ not very stable.</p>
 <div class="section" id="restview">
 <h3><tt class="docutils literal"><span class="pre">restview</span></tt><a class="headerlink" href="#restview" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Buggy in places, and upstream is unfortunately on launchpad.  <tt class="docutils literal"><span class="pre">rstctl</span></tt>
-provides similar functionality.</div></blockquote>
+<div>Broken and needs heavy patching, upstream is on launchpad so fixing it is
+out of the question.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -510,8 +509,7 @@ provides similar functionality.</div></blockquote>
 <div class="section" id="rudolf">
 <h3><tt class="docutils literal"><span class="pre">rudolf</span></tt><a class="headerlink" href="#rudolf" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Significantly increased <tt class="docutils literal"><span class="pre">nose</span></tt> run time, and broke reporting for other
-plugins we commonly used.</div></blockquote>
+<div>Unacceptable runtime increase, breaks reporting for other plugins.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -562,8 +560,7 @@ plugins we commonly used.</div></blockquote>
 <div class="section" id="termstyle">
 <h3><tt class="docutils literal"><span class="pre">termstyle</span></tt><a class="headerlink" href="#termstyle" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Unfortunately no longer packaged in a standard manner, and plenty of
-alternatives exist.</div></blockquote>
+<div>Cost of supporting too high, plenty of alternatives.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -600,9 +597,8 @@ alternatives exist.</div></blockquote>
 <div class="section" id="be">
 <h3><tt class="docutils literal"><span class="pre">be</span></tt><a class="headerlink" href="#be" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>The release we were using is incompatible with the then current codebase.
-The newer code was far slower and a little too unstable for everyday use.
-Alternatives to <tt class="docutils literal"><span class="pre">Bugs</span> <span class="pre">Everywhere</span></tt> such as <tt class="docutils literal"><span class="pre">ditz</span></tt> exist.</div></blockquote>
+<div>Incompatible with new &#8220;releases&#8221;, new code is too slow and far too buggy for
+everyday use.  Alternatives to <tt class="docutils literal"><span class="pre">Bugs</span> <span class="pre">Everywhere</span></tt> such as <tt class="docutils literal"><span class="pre">ditz</span></tt> exist.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -636,12 +632,10 @@ Alternatives to <tt class="docutils literal"><span class="pre">Bugs</span> <span
 <div class="section" id="fossil">
 <h3><tt class="docutils literal"><span class="pre">fossil</span></tt><a class="headerlink" href="#fossil" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div><p>There is now a version in the tree, although the <tt class="docutils literal"><span class="pre">ebuilds</span></tt> will still
-exist in <tt class="docutils literal"><span class="pre">::fixes</span></tt> until an upstream <tt class="docutils literal"><span class="pre">ebuild</span></tt> has equivalent keywords.
-The upgrade isn&#8217;t exactly seamless, but shouldn&#8217;t cause significant
-problems.</p>
-<p>Note the version numbers in the in-tree versions, if you&#8217;re authoring
-<tt class="docutils literal"><span class="pre">ebuilds</span></tt> with dependencies on <tt class="docutils literal"><span class="pre">fossil</span></tt></p>
+<div><p>There is now a version in the tree, and the <tt class="docutils literal"><span class="pre">ebuilds</span></tt> will still exist in
+<tt class="docutils literal"><span class="pre">::fixes</span></tt> until a version has equal keywords.  The upgrade isn&#8217;t exactly
+seamless, but shouldn&#8217;t cause significant problems.</p>
+<p>Note the version numbers in the in-tree versions.</p>
 </div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
@@ -676,11 +670,11 @@ problems.</p>
 <div class="section" id="wingide">
 <h3><tt class="docutils literal"><span class="pre">wingide</span></tt><a class="headerlink" href="#wingide" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div><p>The upstream packaging was a shocking mess.  Both versions supported by the
+<div><p>The upstream packaging is a shocking mess.  Both versions supported by the
 <tt class="docutils literal"><span class="pre">ebuilds</span></tt> contain bundled releases of <tt class="docutils literal"><span class="pre">Python</span></tt> and <tt class="docutils literal"><span class="pre">GTK+</span></tt> with easily
 exploitable security vulnerabilities, and only the <tt class="docutils literal"><span class="pre">GTK+</span></tt> problems are
 easily worked around.</p>
-<p>After some months, nobody stepped up to maintain the <tt class="docutils literal"><span class="pre">ebuilds</span></tt> beyond
+<p>After some months, nobody has stepped up to maintain the <tt class="docutils literal"><span class="pre">ebuilds</span></tt> beyond
 one-off bugfixes.</p>
 </div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
@@ -739,8 +733,7 @@ one-off bugfixes.</p>
 <div class="section" id="sgt-puzzles">
 <h3><tt class="docutils literal"><span class="pre">sgt-puzzles</span></tt><a class="headerlink" href="#sgt-puzzles" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>This exists in <tt class="docutils literal"><span class="pre">::shadow</span></tt> until an upstream <tt class="docutils literal"><span class="pre">ebuild</span></tt> has equivalent
-keywords.</div></blockquote>
+<div>This still exists as we&#8217;re waiting for a version to be stabilised.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -760,9 +753,9 @@ keywords.</div></blockquote>
 <div class="section" id="notmuch">
 <h3><tt class="docutils literal"><span class="pre">notmuch</span></tt><a class="headerlink" href="#notmuch" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>There is now an upstream <tt class="docutils literal"><span class="pre">ebuild</span></tt> for <tt class="docutils literal"><span class="pre">notmuch</span></tt>, and the local version
-will be removed at some point.  The upgrade path is incredibly ugly and some
-features are not supported, so this situation may last sometime.</div></blockquote>
+<div>There is an <tt class="docutils literal"><span class="pre">ebuild</span></tt> upstream for <tt class="docutils literal"><span class="pre">notmuch</span></tt> now, and the local version
+will be removed.  The upgrade path is incredibly ugly and some features are
+not supported, but this is a final decision as shadowing is even nastier.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -799,8 +792,10 @@ features are not supported, so this situation may last sometime.</div></blockquo
 <div class="section" id="psplash">
 <h3><tt class="docutils literal"><span class="pre">psplash</span></tt><a class="headerlink" href="#psplash" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Supported alternatives exist, including <tt class="docutils literal"><span class="pre">busybox</span></tt>&#8216;s <tt class="docutils literal"><span class="pre">fbsplash</span></tt> and
-<tt class="docutils literal"><span class="pre">plymouth</span></tt>.</div></blockquote>
+<div><p>Better alternatives exist, including <tt class="docutils literal"><span class="pre">busybox</span></tt>&#8216;s <tt class="docutils literal"><span class="pre">fbsplash</span></tt> and
+<tt class="docutils literal"><span class="pre">plymouth</span></tt>.</p>
+<p>Closes #141.</p>
+</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -811,15 +806,15 @@ features are not supported, so this situation may last sometime.</div></blockquo
 </tr>
 <tr class="field-odd field"><th class="field-name">Removal date:</th><td class="field-body">2011-02-26</td>
 </tr>
-<tr class="field-even field"><th class="field-name">Issues:</th><td class="field-body">#141</td>
-</tr>
 </tbody>
 </table>
 </div>
 <div class="section" id="sxiv">
 <h3><tt class="docutils literal"><span class="pre">sxiv</span></tt><a class="headerlink" href="#sxiv" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Package now exists upstream.</div></blockquote>
+<div><p>Package now exists upstream.</p>
+<p>Refs #457.</p>
+</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -829,8 +824,6 @@ features are not supported, so this situation may last sometime.</div></blockquo
 <tr class="field-even field"><th class="field-name">Commit:</th><td class="field-body">523c04503755e308d1384cebe3bf4403dec5aa51</td>
 </tr>
 <tr class="field-odd field"><th class="field-name">Removal date:</th><td class="field-body">2011-08-27</td>
-</tr>
-<tr class="field-even field"><th class="field-name">Issues:</th><td class="field-body">#457</td>
 </tr>
 </tbody>
 </table>
@@ -883,8 +876,9 @@ features are not supported, so this situation may last sometime.</div></blockquo
 <blockquote>
 <div><p>This one was a very, very, very long time coming...</p>
 <p>This can&#8217;t be handled by just moving the current <tt class="docutils literal"><span class="pre">ebuild</span></tt> to <tt class="docutils literal"><span class="pre">::fixes</span></tt>,
-as the upgrade path is fiercely ugly.  The shadowed <tt class="docutils literal"><span class="pre">ebuild</span></tt> is expected
-to be around for quite some time still.</p>
+as the upgrade path is fiercely ugly.  The in-tree <tt class="docutils literal"><span class="pre">ebuild</span></tt> installs to
+non-standard locations, has a lower version number and still isn&#8217;t
+keyworded.</p>
 </div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
@@ -906,8 +900,8 @@ to be around for quite some time still.</p>
 <h3><tt class="docutils literal"><span class="pre">unionfs-fuse</span></tt><a class="headerlink" href="#unionfs-fuse" title="Permalink to this headline">¶</a></h3>
 <blockquote>
 <div>There is now a version in the tree, and the <tt class="docutils literal"><span class="pre">ebuilds</span></tt> will still exist in
-<tt class="docutils literal"><span class="pre">::fixes</span></tt> until a version has equivalent keywords.  See the linked bug for
-some unfortunate details of the upgrade path.</div></blockquote>
+<tt class="docutils literal"><span class="pre">::fixes</span></tt> until a version has equal keywords.  See AST #249971 for some
+unfortunate details of the upgrade path.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -917,8 +911,6 @@ some unfortunate details of the upgrade path.</div></blockquote>
 <tr class="field-even field"><th class="field-name">Commit:</th><td class="field-body">61af9a273236cf988095914cde2769b19c8d5a25</td>
 </tr>
 <tr class="field-odd field"><th class="field-name">Removal date:</th><td class="field-body">2010-01-20</td>
-</tr>
-<tr class="field-even field"><th class="field-name">Issues:</th><td class="field-body">AST#249971</td>
 </tr>
 </tbody>
 </table>
@@ -949,8 +941,7 @@ some unfortunate details of the upgrade path.</div></blockquote>
 <div class="section" id="opera-remote">
 <h3><tt class="docutils literal"><span class="pre">opera-remote</span></tt><a class="headerlink" href="#opera-remote" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Doesn&#8217;t work correctly with recent <tt class="docutils literal"><span class="pre">Opera</span></tt> versions, and the built-in
-command line interface has improved greatly.</div></blockquote>
+<div>Doesn&#8217;t work with recent <tt class="docutils literal"><span class="pre">Opera</span></tt> versions.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -987,8 +978,9 @@ command line interface has improved greatly.</div></blockquote>
 <div class="section" id="notify-osd">
 <h3><tt class="docutils literal"><span class="pre">notify-osd</span></tt><a class="headerlink" href="#notify-osd" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>This packages was found to be unsupportable, even to the level required
-while it was masked.</div></blockquote>
+<div><p>It really is unsupportable.</p>
+<p>Luckily this was never unmasked, so doesn&#8217;t need a grace period.</p>
+</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -1025,9 +1017,7 @@ while it was masked.</div></blockquote>
 <div class="section" id="vicious">
 <h3><tt class="docutils literal"><span class="pre">vicious</span></tt><a class="headerlink" href="#vicious" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Users should have migrated to the new upstream <tt class="docutils literal"><span class="pre">ebuilds</span></tt>, but the upgrade
-path isn&#8217;t very clean so it is expected some <tt class="docutils literal"><span class="pre">ebuilds</span></tt> will remain in
-<tt class="docutils literal"><span class="pre">::shadow</span></tt> for some time.</div></blockquote>
+<div>Users should&#8217;ve be attempting to migrate to upstream ebuilds.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -1068,7 +1058,7 @@ little additional value.</div></blockquote>
 <div class="section" id="matwm2">
 <h3><tt class="docutils literal"><span class="pre">matwm2</span></tt><a class="headerlink" href="#matwm2" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>Moved to <tt class="docutils literal"><span class="pre">::fixes</span></tt> until a working version with equivalent keywords is
+<div>Moved to <tt class="docutils literal"><span class="pre">::fixes</span></tt> until a working version with equal keywords is
 available.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
@@ -1086,7 +1076,7 @@ available.</div></blockquote>
 <div class="section" id="parti">
 <h3><tt class="docutils literal"><span class="pre">parti</span></tt><a class="headerlink" href="#parti" title="Permalink to this headline">¶</a></h3>
 <blockquote>
-<div>An <tt class="docutils literal"><span class="pre">ebuild</span></tt> now exists upstream.</div></blockquote>
+<div>Closes #6.</div></blockquote>
 <table class="docutils field-list" frame="void" rules="none">
 <col class="field-name" />
 <col class="field-body" />
@@ -1096,8 +1086,6 @@ available.</div></blockquote>
 <tr class="field-even field"><th class="field-name">Commit:</th><td class="field-body">c3d01805b7faa124f507f80b635f0608030a4a5c</td>
 </tr>
 <tr class="field-odd field"><th class="field-name">Removal date:</th><td class="field-body">2010-10-08</td>
-</tr>
-<tr class="field-even field"><th class="field-name">Issues:</th><td class="field-body">#6</td>
 </tr>
 </tbody>
 </table>
