@@ -457,7 +457,6 @@ Search.setIndex({
         print: 2,
         pwtool: 6,
         astral: [2, 6],
-        ref: 10,
         bitbucket: 6,
         red: 38,
         integr: [9, 31, 32],
