@@ -304,7 +304,6 @@ Search.setIndex({
         watch: [2, 9, 31, 27, 16],
         clone: [5, 6, 32],
         earlier: 32,
-        burden: 10,
         usabl: 10,
         reflect: [2, 9],
         befor: 32,
