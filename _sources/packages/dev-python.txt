@@ -8,7 +8,6 @@
  * Versions:
 
   * `0.14.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/argh/argh-0.14.2.ebuild>`__  ``amd64``, ``x86``
-  * `0.15.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/argh/argh-0.15.0.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
 
 * ``astral`` - http://pypi.python.org/pypi/astral/
 
@@ -32,7 +31,7 @@
  * Licence: ``BSD-2``
  * Versions:
 
-  * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``~amd64`` (due 2012-02-19), ``~x86`` (due 2012-03-24)
+  * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``~amd64`` (due 2012-03-20), ``~x86`` (due 2012-03-24)
 
 * ``behave`` - http://pypi.python.org/pypi/behave/
 
@@ -161,7 +160,6 @@
  * Versions:
 
   * `1.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/flake8/flake8-1.0.ebuild>`__  ``amd64``, ``x86``
-  * `1.1 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/flake8/flake8-1.1.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
 
 * ``freshen`` - https://github.com/rlisagor/freshen
 
@@ -186,14 +184,6 @@
  * Versions:
 
   * `0.2.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/genzshcomp/genzshcomp-0.2.2.ebuild>`__  ``amd64``, ``x86``
-
-* ``github2`` - http://pypi.python.org/pypi/github2/
-
- * Github API v2 library for Python
- * Licence: ``BSD``
- * Versions:
-
-  * `0.6.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/github2/github2-0.6.0.ebuild>`__  ``~amd64`` (due 2012-03-20), ``~x86`` (due 2012-03-20)
 
 * ``gpxdata`` - http://www.kette-links.de/technik/
 
@@ -269,7 +259,6 @@
 
   * `0.4.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/misaka/misaka-0.4.2.ebuild>`__  ``~amd64`` (due 2012-03-02), ``~x86`` (due 2012-03-02)
   * `1.0.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/misaka/misaka-1.0.0.ebuild>`__  ``~amd64`` (due 2012-03-06), ``~x86`` (due 2012-03-06)
-  * `1.0.1 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/misaka/misaka-1.0.1.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
 
 * ``mod2doctest`` - http://pypi.python.org/pypi/mod2doctest/
 
@@ -391,7 +380,7 @@
  * Licence: ``BSD``
  * Versions:
 
-  * `2.05 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/pycparser/pycparser-2.05.ebuild>`__  ``~amd64`` (due 2012-02-19), ``~x86`` (due 2012-06-18)
+  * `2.05 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/pycparser/pycparser-2.05.ebuild>`__  ``~amd64`` (due 2012-05-19), ``~x86`` (due 2012-06-18)
 
 * ``pycukes`` - https://github.com/hugobr/pycukes
 
@@ -511,7 +500,7 @@
  * Licence: ``MIT``
  * Versions:
 
-  * `1.1.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/six/six-1.1.0.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
+  * `1.1.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/six/six-1.1.0.ebuild>`__  ``~amd64`` (due 2012-03-26)
 
 * ``snot`` - http://pypi.python.org/pypi/snot/
 
@@ -666,7 +655,6 @@
  * Versions:
 
   * `1.3.1 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/webcolors/webcolors-1.3.1.ebuild>`__  ``amd64``, ``x86``
-  * `1.4 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/webcolors/webcolors-1.4.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
 
 * ``wmctrl`` - http://pypi.python.org/pypi/wmctrl/
 
