@@ -13,7 +13,6 @@
     
     <link rel="stylesheet" href="_static/cloud.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/issuetracker.css" type="text/css" />
     <link rel="stylesheet" href="#" type="text/css" />
     
     <script type="text/javascript">
@@ -70,7 +69,7 @@ without.</p>
 version of <tt class="docutils literal"><span class="pre">portage</span></tt> to function correctly(2.1.10.18 or newer).  Using
 older versions is not supported!</p>
 </div>
-<p>This documentation reflects the overlay state as of 2012-02-24.</p>
+<p>This documentation reflects the overlay state as of 2012-02-25.</p>
 </div>
 <div class="section" id="contents">
 <h1>Contents<a class="headerlink" href="#contents" title="Permalink to this headline">¶</a></h1>
@@ -100,7 +99,6 @@ older versions is not supported!</p>
 <li class="toctree-l2"><a class="reference internal" href="packages/media-gfx.html"><tt class="docutils literal"><span class="pre">media-gfx</span></tt></a></li>
 <li class="toctree-l2"><a class="reference internal" href="packages/media-sound.html"><tt class="docutils literal"><span class="pre">media-sound</span></tt></a></li>
 <li class="toctree-l2"><a class="reference internal" href="packages/media-tv.html"><tt class="docutils literal"><span class="pre">media-tv</span></tt></a></li>
-<li class="toctree-l2"><a class="reference internal" href="packages/net-dns.html"><tt class="docutils literal"><span class="pre">net-dns</span></tt></a></li>
 <li class="toctree-l2"><a class="reference internal" href="packages/net-mail.html"><tt class="docutils literal"><span class="pre">net-mail</span></tt></a></li>
 <li class="toctree-l2"><a class="reference internal" href="packages/net-misc.html"><tt class="docutils literal"><span class="pre">net-misc</span></tt></a></li>
 <li class="toctree-l2"><a class="reference internal" href="packages/sci-geosciences.html"><tt class="docutils literal"><span class="pre">sci-geosciences</span></tt></a></li>
@@ -111,7 +109,6 @@ older versions is not supported!</p>
 <li class="toctree-l2"><a class="reference internal" href="packages/www-client.html"><tt class="docutils literal"><span class="pre">www-client</span></tt></a></li>
 <li class="toctree-l2"><a class="reference internal" href="packages/x11-libs.html"><tt class="docutils literal"><span class="pre">x11-libs</span></tt></a></li>
 <li class="toctree-l2"><a class="reference internal" href="packages/x11-misc.html"><tt class="docutils literal"><span class="pre">x11-misc</span></tt></a></li>
-<li class="toctree-l2"><a class="reference internal" href="removed.html">Dead packages</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="thanks.html">Contributors</a><ul>
@@ -122,17 +119,6 @@ older versions is not supported!</p>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="licence.html">Licence</a></li>
 <li class="toctree-l1"><a class="reference internal" href="download.html">Download</a></li>
-<li class="toctree-l1"><a class="reference internal" href="maintenance.html">Maintenance tools</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="maintenance.html#repository-level-support">Repository level support</a></li>
-<li class="toctree-l2"><a class="reference internal" href="maintenance.html#cupage-support"><tt class="docutils literal"><span class="pre">cupage</span></tt> support</a></li>
-<li class="toctree-l2"><a class="reference internal" href="maintenance.html#layman-support"><tt class="docutils literal"><span class="pre">layman</span></tt> support</a></li>
-<li class="toctree-l2"><a class="reference internal" href="maintenance.html#maintenance-support-tasks">Maintenance support tasks</a></li>
-<li class="toctree-l2"><a class="reference internal" href="maintenance.html#portage-support"><tt class="docutils literal"><span class="pre">portage</span></tt> support</a></li>
-<li class="toctree-l2"><a class="reference internal" href="maintenance.html#remind-support"><tt class="docutils literal"><span class="pre">remind</span></tt> support</a></li>
-<li class="toctree-l2"><a class="reference internal" href="maintenance.html#restructuredtext-support">reStructuredText support</a></li>
-<li class="toctree-l2"><a class="reference internal" href="maintenance.html#tasks-utils"><tt class="docutils literal"><span class="pre">tasks.utils</span></tt></a></li>
-</ul>
-</li>
 <li class="toctree-l1"><a class="reference internal" href="cupage.html"><tt class="docutils literal"><span class="pre">cupage</span></tt> integration</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="cupage.html#watch-file-format"><tt class="file docutils literal"><span class="pre">watch</span></tt> file format</a></li>
 </ul>
@@ -145,6 +131,16 @@ older versions is not supported!</p>
 <li class="toctree-l2"><a class="reference internal" href="contributing.html#package-mask"><tt class="file docutils literal"><span class="pre">package.mask</span></tt></a></li>
 <li class="toctree-l2"><a class="reference internal" href="contributing.html#distutils-eclass-usage"><tt class="file docutils literal"><span class="pre">distutils.eclass</span></tt> usage</a></li>
 <li class="toctree-l2"><a class="reference internal" href="contributing.html#watch-files"><tt class="file docutils literal"><span class="pre">watch</span></tt> files</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="cake.html"><tt class="docutils literal"><span class="pre">Cake</span></tt> usage</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="cake.html#cupage-support"><tt class="docutils literal"><span class="pre">cupage</span></tt> support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cake.html#layman-support"><tt class="docutils literal"><span class="pre">layman</span></tt> support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cake.html#maintenance-support-tasks">Maintenance support tasks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cake.html#remind-support"><tt class="docutils literal"><span class="pre">remind</span></tt> support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cake.html#portage-support"><tt class="docutils literal"><span class="pre">portage</span></tt> support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cake.html#restructuredtext-support">reStructuredText support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cake.html#tasks-utils"><tt class="docutils literal"><span class="pre">tasks.utils</span></tt></a></li>
 </ul>
 </li>
 </ul>
