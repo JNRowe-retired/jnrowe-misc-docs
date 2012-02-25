@@ -8,6 +8,7 @@
  * Versions:
 
   * `0.14.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/argh/argh-0.14.2.ebuild>`__  ``amd64``, ``x86``
+  * `0.15.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/argh/argh-0.15.0.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
 
 * ``astral`` - http://pypi.python.org/pypi/astral/
 
@@ -31,7 +32,7 @@
  * Licence: ``BSD-2``
  * Versions:
 
-  * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``~amd64`` (due 2012-03-20), ``~x86`` (due 2012-03-24)
+  * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``~amd64`` (due 2012-02-19), ``~x86`` (due 2012-03-24)
 
 * ``behave`` - http://pypi.python.org/pypi/behave/
 
@@ -160,6 +161,7 @@
  * Versions:
 
   * `1.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/flake8/flake8-1.0.ebuild>`__  ``amd64``, ``x86``
+  * `1.1 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/flake8/flake8-1.1.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
 
 * ``freshen`` - https://github.com/rlisagor/freshen
 
@@ -267,6 +269,7 @@
 
   * `0.4.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/misaka/misaka-0.4.2.ebuild>`__  ``~amd64`` (due 2012-03-02), ``~x86`` (due 2012-03-02)
   * `1.0.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/misaka/misaka-1.0.0.ebuild>`__  ``~amd64`` (due 2012-03-06), ``~x86`` (due 2012-03-06)
+  * `1.0.1 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/misaka/misaka-1.0.1.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
 
 * ``mod2doctest`` - http://pypi.python.org/pypi/mod2doctest/
 
@@ -388,7 +391,7 @@
  * Licence: ``BSD``
  * Versions:
 
-  * `2.05 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/pycparser/pycparser-2.05.ebuild>`__  ``~amd64`` (due 2012-05-19), ``~x86`` (due 2012-06-18)
+  * `2.05 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/pycparser/pycparser-2.05.ebuild>`__  ``~amd64`` (due 2012-02-19), ``~x86`` (due 2012-06-18)
 
 * ``pycukes`` - https://github.com/hugobr/pycukes
 
@@ -501,6 +504,14 @@
  * Versions:
 
   * `1.0.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/showme/showme-1.0.0.ebuild>`__  ``amd64``, ``x86``
+
+* ``six`` - http://pypi.python.org/pypi/six/
+
+ * Python 2 and 3 compatibility utilities
+ * Licence: ``MIT``
+ * Versions:
+
+  * `1.1.0 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/six/six-1.1.0.ebuild>`__  ``~amd64`` (due 2012-03-26), ``~x86`` (due 2012-03-26)
 
 * ``snot`` - http://pypi.python.org/pypi/snot/
 
