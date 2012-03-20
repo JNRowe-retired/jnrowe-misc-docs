@@ -656,6 +656,30 @@ available in this overlay.</div></blockquote>
 </tbody>
 </table>
 </div>
+<div class="section" id="virtualenvwrapper">
+<h3><tt class="docutils literal"><span class="pre">virtualenvwrapper</span></tt><a class="headerlink" href="#virtualenvwrapper" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><p>An ebuild is now available upstream, unfortunately the upgrade path is
+incredibly messy. The upstream ebuild installs to invalid paths, has
+incorrect python dependencies and doesn&#8217;t include documentation.</p>
+<p>The package was already masked for removal in
+<a class="reference external" href="https://github.com/JNRowe/jnrowe-misc/commit/5b1273ce283e8e1f842dd4cf547cc5bf7e28e7df">5b1273c</a>, but this
+breakage means it is moving to ::shadow immediately.  It will be maintained
+there until a usable upgrade oath is available.</p>
+</div></blockquote>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Reason:</th><td class="field-body">Moved to <tt class="docutils literal"><span class="pre">::shadow</span></tt></td>
+</tr>
+<tr class="field-even field"><th class="field-name">Commit:</th><td class="field-body"></td>
+</tr>
+<tr class="field-odd field"><th class="field-name">Removal date:</th><td class="field-body">2012-03-20</td>
+</tr>
+</tbody>
+</table>
+</div>
 </div>
 <div class="section" id="dev-util">
 <h2><tt class="docutils literal"><span class="pre">dev-util</span></tt><a class="headerlink" href="#dev-util" title="Permalink to this headline">¶</a></h2>
@@ -1262,6 +1286,7 @@ available.</div></blockquote>
 <li><a class="reference internal" href="#tox"><tt class="docutils literal"><span class="pre">tox</span></tt></a></li>
 <li><a class="reference internal" href="#twython"><tt class="docutils literal"><span class="pre">twython</span></tt></a></li>
 <li><a class="reference internal" href="#virtualenv5"><tt class="docutils literal"><span class="pre">virtualenv5</span></tt></a></li>
+<li><a class="reference internal" href="#virtualenvwrapper"><tt class="docutils literal"><span class="pre">virtualenvwrapper</span></tt></a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#dev-util"><tt class="docutils literal"><span class="pre">dev-util</span></tt></a><ul>
