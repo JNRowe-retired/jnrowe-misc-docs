@@ -33,7 +33,7 @@
  * Licence: ``BSD-2``
  * Versions:
 
-  * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``~amd64`` (due 2012-03-20), ``~x86`` (due 2012-03-24)
+  * `0.5.2 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.2.ebuild>`__  ``amd64``, ``~x86`` (due 2012-03-24)
   * `0.5.3 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/attest/attest-0.5.3.ebuild>`__  ``~amd64`` (due 2012-04-08), ``~x86`` (due 2012-04-08)
 
 * ``behave`` - http://pypi.python.org/pypi/behave/
@@ -605,7 +605,7 @@
   * `1.8 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/tweepy/tweepy-1.8.ebuild>`__  ``amd64``, ``x86``
   * `1.9 <https://github.com/JNRowe/jnrowe-misc/blob/master/dev-python/tweepy/tweepy-1.9.ebuild>`__  ``~amd64`` (due 2012-04-19), ``~x86`` (due 2012-04-19)
 
-* ``upoints`` - http://www.jnrowe.ukfsn.org/projects/upoints.html
+* ``upoints`` - https://github.com/JNRowe/upoints/
 
  * Modules for working with points on Earth
  * Licence: ``GPL-3``
