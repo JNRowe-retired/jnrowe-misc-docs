@@ -69,6 +69,12 @@ support tools were already written in <a class="reference external" href="http:/
 choice.</p>
 <div class="section" id="repository-level-support">
 <h2>Repository level support<a class="headerlink" href="#repository-level-support" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="all">
+<h3><tt class="docutils literal"><span class="pre">all</span></tt><a class="headerlink" href="#all" title="Permalink to this headline">¶</a></h3>
+<p>This task performs all building tasks for the repository.  It is purely
+a wrapper that executes any taks whose name begins with <tt class="docutils literal"><span class="pre">gen-</span></tt>, and doesn&#8217;t
+need to be manually updated for new generators.</p>
+</div>
 <div class="section" id="clean">
 <h3><tt class="docutils literal"><span class="pre">clean</span></tt><a class="headerlink" href="#clean" title="Permalink to this headline">¶</a></h3>
 <p>This task removes generated files, such as HTML generated from reST sources.</p>
@@ -294,6 +300,7 @@ returns the result with any whitespace padding removed</p>
   <ul>
 <li><a class="reference internal" href="#">Maintenance tools</a><ul>
 <li><a class="reference internal" href="#repository-level-support">Repository level support</a><ul>
+<li><a class="reference internal" href="#all"><tt class="docutils literal"><span class="pre">all</span></tt></a></li>
 <li><a class="reference internal" href="#clean"><tt class="docutils literal"><span class="pre">clean</span></tt></a></li>
 <li><a class="reference internal" href="#distclean"><tt class="docutils literal"><span class="pre">distclean</span></tt></a></li>
 </ul>
