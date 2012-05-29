@@ -133,8 +133,8 @@ will be used for the initial label for the bug.</p>
 ▶ ./Makefile.py open-bug <span class="s1">&#39;title&#39;</span> <span class="s1">&#39;&#39;</span> <span class="s1">&#39;initial label&#39;</span>
 </pre></div>
 </div>
-<p>It reads your GitHub authentication data using <tt class="docutils literal"><span class="pre">git</span> <span class="pre">config</span></tt>, see the <cite>setup
-help page on GitHub</cite> for more information.</p>
+<p>It reads your GitHub authentication data using <tt class="docutils literal"><span class="pre">git</span> <span class="pre">config</span></tt>, see the <a class="reference external" href="http://help.github.com/set-your-user-name-email-and-github-token/">setup
+help page on GitHub</a> for more information.</p>
 <div class="admonition note">
 <p class="first admonition-title">Note</p>
 <p class="last">This task fetches the repository identifier from the <tt class="docutils literal"><span class="pre">remote.origin.url</span></tt>
@@ -146,8 +146,8 @@ setting.  See <em class="manpage">git-config(1)</em>.</p>
 <p>This task is a special case of the <a class="reference internal" href="#open-bug">open-bug</a> task whose sole purpose is to file
 bump requests with the minimum of fuss.  It requires a full
 <tt class="docutils literal"><span class="pre">&lt;category&gt;/&lt;package&gt;-&lt;version&gt;</span></tt> string as its only argument.</p>
-<p>It reads your GitHub authentication data using <tt class="docutils literal"><span class="pre">git</span> <span class="pre">config</span></tt>, see the <cite>setup
-help page on GitHub</cite> for more information.</p>
+<p>It reads your GitHub authentication data using <tt class="docutils literal"><span class="pre">git</span> <span class="pre">config</span></tt>, see the <a class="reference external" href="http://help.github.com/set-your-user-name-email-and-github-token/">setup
+help page on GitHub</a> for more information.</p>
 <div class="admonition note">
 <p class="first admonition-title">Note</p>
 <p class="last">This task fetches the repository identifier from the <tt class="docutils literal"><span class="pre">remote.origin.url</span></tt>
@@ -194,8 +194,9 @@ more information.</p>
 <h3><tt class="docutils literal"><span class="pre">gen-removals</span></tt><a class="headerlink" href="#gen-removals" title="Permalink to this headline">¶</a></h3>
 <p>This task is used to generate <tt class="file docutils literal"><span class="pre">removals.rem</span></tt>, see the <a class="reference internal" href="contributing.html#package-mask"><em>package.mask</em></a>
 documentation for more information.</p>
-<p><tt class="docutils literal"><span class="pre">reminders</span></tt>
-&#8216;&#8217;&#8216;&#8217;&#8216;&#8217;&#8216;&#8217;&#8216;&#8217;&#8216;`&#8217;&#8216;</p>
+</div>
+<div class="section" id="reminders">
+<h3><tt class="docutils literal"><span class="pre">reminders</span></tt><a class="headerlink" href="#reminders" title="Permalink to this headline">¶</a></h3>
 <p>This task is just a shortcut for using <a class="reference external" href="http://www.roaringpenguin.com/products/remind">remind</a> to display the currently active
 stabilisation and removal records.</p>
 </div>
@@ -322,6 +323,7 @@ returns the result with any whitespace padding removed</p>
 </li>
 <li><a class="reference internal" href="#remind-support"><tt class="docutils literal"><span class="pre">remind</span></tt> support</a><ul>
 <li><a class="reference internal" href="#gen-removals"><tt class="docutils literal"><span class="pre">gen-removals</span></tt></a></li>
+<li><a class="reference internal" href="#reminders"><tt class="docutils literal"><span class="pre">reminders</span></tt></a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#restructuredtext-support">reStructuredText support</a><ul>
