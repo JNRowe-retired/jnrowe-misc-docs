@@ -75,6 +75,12 @@ choice.</p>
 a wrapper that executes any taks whose name begins with <tt class="docutils literal"><span class="pre">gen-</span></tt>, and doesn&#8217;t
 need to be manually updated for new generators.</p>
 </div>
+<div class="section" id="check">
+<h3><tt class="docutils literal"><span class="pre">check</span></tt><a class="headerlink" href="#check" title="Permalink to this headline">¶</a></h3>
+<p>This task runs all the defined checks for the repository.  It is simply
+a wrapper that executes any task whose name ends with <tt class="docutils literal"><span class="pre">-check</span></tt>, and doesn&#8217;t
+need to be manually updated for new checks.</p>
+</div>
 <div class="section" id="clean">
 <h3><tt class="docutils literal"><span class="pre">clean</span></tt><a class="headerlink" href="#clean" title="Permalink to this headline">¶</a></h3>
 <p>This task removes generated files, such as HTML generated from reST sources.</p>
@@ -301,6 +307,7 @@ returns the result with any whitespace padding removed</p>
 <li><a class="reference internal" href="#">Maintenance tools</a><ul>
 <li><a class="reference internal" href="#repository-level-support">Repository level support</a><ul>
 <li><a class="reference internal" href="#all"><tt class="docutils literal"><span class="pre">all</span></tt></a></li>
+<li><a class="reference internal" href="#check"><tt class="docutils literal"><span class="pre">check</span></tt></a></li>
 <li><a class="reference internal" href="#clean"><tt class="docutils literal"><span class="pre">clean</span></tt></a></li>
 <li><a class="reference internal" href="#distclean"><tt class="docutils literal"><span class="pre">distclean</span></tt></a></li>
 </ul>
